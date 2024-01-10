@@ -24,7 +24,8 @@ document.addEventListener("DOMContentLoaded", function() {
     document.getElementById('cropButton').addEventListener('click', function() {
         if (cropper) {
             const croppedCanvas = cropper.getCroppedCanvas();
-            // Further processing of croppedCanvas
+            // Here you will need to add the logic to handle the cropped image
+            // For example, getting the cropped image data and converting it to emoji art
         }
     });
 
@@ -35,11 +36,11 @@ document.addEventListener("DOMContentLoaded", function() {
         .then(response => response.json())
         .then(data => {
             const hexPoints = data.map(item => ({
-                position: KdTreeUtil.colorToRGB(item.hexColor),
+                position: KdTreeUtil.colorToRGB(item['Hex Color']),
                 emoji: item.emoji
             }));
             const normalizedPoints = data.map(item => ({
-                position: KdTreeUtil.colorToRGB(item.normalizedColor),
+                position: KdTreeUtil.colorToRGB(item['Normalized Color']),
                 emoji: item.emoji
             }));
 
