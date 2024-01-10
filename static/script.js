@@ -27,17 +27,13 @@ document.addEventListener("DOMContentLoaded", function() {
             // Further processing of croppedCanvas
         }
     });
-});
 
-// Assuming kdTree is available globally after including the library
-let hexColorTree, normalizedColorTree;
-const KdTreeUtil = require('./kdTreeUtil');
+    // Build the K-D trees for Hex Color and Normalized Color
+    let hexColorTree, normalizedColorTree;
 
-document.addEventListener("DOMContentLoaded", function() {
-    fetch('{{ url_for("static", filename="emojiColorMap.json") }}')
+    fetch('static/emojiColorMap.json')
         .then(response => response.json())
         .then(data => {
-            // Build the K-D trees for Hex Color and Normalized Color
             const hexPoints = data.map(item => ({
                 position: KdTreeUtil.colorToRGB(item.hexColor),
                 emoji: item.emoji
@@ -51,6 +47,4 @@ document.addEventListener("DOMContentLoaded", function() {
             normalizedColorTree = new kdTree.kdTree(normalizedPoints, KdTreeUtil.distanceFunction, ["r", "g", "b"]);
         })
         .catch(error => console.error('Error fetching JSON:', error));
-
-    // Additional client-side logic...
 });
