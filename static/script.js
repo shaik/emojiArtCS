@@ -32,20 +32,24 @@ document.addEventListener("DOMContentLoaded", function() {
     // Build the K-D trees for Hex Color and Normalized Color
     let hexColorTree, normalizedColorTree;
 
-    fetch('static/emojiColorMap.json')
+    fetch('static/colorMap.json')
         .then(response => response.json())
         .then(data => {
             const hexPoints = data.map(item => ({
-                position: KdTreeUtil.colorToRGB(item['Hex Color']),
+                position: KdTreeUtil.colorToRGB(item.h),
                 emoji: item.emoji
             }));
             const normalizedPoints = data.map(item => ({
-                position: KdTreeUtil.colorToRGB(item['Normalized Color']),
+                position: KdTreeUtil.colorToRGB(item.n),
                 emoji: item.emoji
             }));
 
             hexColorTree = new kdTree(hexPoints, KdTreeUtil.distanceFunction, ["r", "g", "b"]);
             normalizedColorTree = new kdTree(normalizedPoints, KdTreeUtil.distanceFunction, ["r", "g", "b"]);
+
+                        // Example usage of the tree
+            var nearest = hexColorTree.nearest({ r: 5, g: 5, b: 5 }, 2);
+            console.log(nearest);
         })
         .catch(error => console.error('Error fetching JSON:', error));
 });
