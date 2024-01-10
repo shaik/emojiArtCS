@@ -44,8 +44,8 @@ document.addEventListener("DOMContentLoaded", function() {
                 emoji: item.emoji
             }));
 
-            hexColorTree = new kdTree.kdTree(hexPoints, KdTreeUtil.distanceFunction, ["r", "g", "b"]);
-            normalizedColorTree = new kdTree.kdTree(normalizedPoints, KdTreeUtil.distanceFunction, ["r", "g", "b"]);
+            hexColorTree = new kdTree(hexPoints, KdTreeUtil.distanceFunction, ["r", "g", "b"]);
+            normalizedColorTree = new kdTree(normalizedPoints, KdTreeUtil.distanceFunction, ["r", "g", "b"]);
         })
         .catch(error => console.error('Error fetching JSON:', error));
 });
