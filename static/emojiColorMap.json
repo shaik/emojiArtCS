@@ -1,0 +1,7472 @@
+[
+    {
+        "Emoji": "\ud83d\udfe9",
+        "ASCII Code": "129001",
+        "Hex Color": "#37c136",
+        "Normalized Color": "#00ad00"
+    },
+    {
+        "Emoji": "\ud83d\udfe6",
+        "ASCII Code": "128998",
+        "Hex Color": "#3b80f5",
+        "Normalized Color": "#0558f2"
+    },
+    {
+        "Emoji": "\u2b1b",
+        "ASCII Code": "11035",
+        "Hex Color": "#3c3c3c",
+        "Normalized Color": "#060007"
+    },
+    {
+        "Emoji": "\ud83d\udeb9",
+        "ASCII Code": "128697",
+        "Hex Color": "#4797e6",
+        "Normalized Color": "#1477df"
+    },
+    {
+        "Emoji": "\ud83d\udfe2",
+        "ASCII Code": "128994",
+        "Hex Color": "#49c849",
+        "Normalized Color": "#16b718"
+    },
+    {
+        "Emoji": "\ud83c\udd70",
+        "ASCII Code": "127344",
+        "Hex Color": "#4d4d4d",
+        "Normalized Color": "#1c161d"
+    },
+    {
+        "Emoji": "\u2705",
+        "ASCII Code": "9989",
+        "Hex Color": "#4dcc52",
+        "Normalized Color": "#1cbc23"
+    },
+    {
+        "Emoji": "\ud83d\udd35",
+        "ASCII Code": "128309",
+        "Hex Color": "#4f8ad8",
+        "Normalized Color": "#1e66cd"
+    },
+    {
+        "Emoji": "\ud83d\udec2",
+        "ASCII Code": "128706",
+        "Hex Color": "#519be6",
+        "Normalized Color": "#217cdf"
+    },
+    {
+        "Emoji": "\u26ab",
+        "ASCII Code": "9899",
+        "Hex Color": "#545453",
+        "Normalized Color": "#241f24"
+    },
+    {
+        "Emoji": "\ud83d\udec3",
+        "ASCII Code": "128707",
+        "Hex Color": "#549de7",
+        "Normalized Color": "#247ee0"
+    },
+    {
+        "Emoji": "\u274e",
+        "ASCII Code": "10062",
+        "Hex Color": "#54cd59",
+        "Normalized Color": "#24bd2c"
+    },
+    {
+        "Emoji": "\ud83c\udfe7",
+        "ASCII Code": "127975",
+        "Hex Color": "#5688bd",
+        "Normalized Color": "#2763ab"
+    },
+    {
+        "Emoji": "\ud83d\udcb9",
+        "ASCII Code": "128185",
+        "Hex Color": "#56cd5b",
+        "Normalized Color": "#27bd2e"
+    },
+    {
+        "Emoji": "\ud83c\udf0c",
+        "ASCII Code": "127756",
+        "Hex Color": "#58697b",
+        "Normalized Color": "#2a3a57"
+    },
+    {
+        "Emoji": "\ud83d\udebe",
+        "ASCII Code": "128702",
+        "Hex Color": "#5ba1e7",
+        "Normalized Color": "#2d84e0"
+    },
+    {
+        "Emoji": "\u267f",
+        "ASCII Code": "9855",
+        "Hex Color": "#5ca1e7",
+        "Normalized Color": "#2f84e0"
+    },
+    {
+        "Emoji": "\ud83d\udec5",
+        "ASCII Code": "128709",
+        "Hex Color": "#5ca2e7",
+        "Normalized Color": "#2f85e0"
+    },
+    {
+        "Emoji": "\ud83c\ude33",
+        "ASCII Code": "127539",
+        "Hex Color": "#5fa2e7",
+        "Normalized Color": "#3385e0"
+    },
+    {
+        "Emoji": "\ud83d\udedc",
+        "ASCII Code": "128732",
+        "Hex Color": "#6497eb",
+        "Normalized Color": "#3977e5"
+    },
+    {
+        "Emoji": "\ud83c\udfbd",
+        "ASCII Code": "127933",
+        "Hex Color": "#64bdde",
+        "Normalized Color": "#39a8d5"
+    },
+    {
+        "Emoji": "\ud83c\ude2f",
+        "ASCII Code": "127535",
+        "Hex Color": "#64d068",
+        "Normalized Color": "#39c13f"
+    },
+    {
+        "Emoji": "\ud83d\udcbb",
+        "ASCII Code": "128187",
+        "Hex Color": "#676767",
+        "Normalized Color": "#3d383e"
+    },
+    {
+        "Emoji": "\ud83c\udf11",
+        "ASCII Code": "127761",
+        "Hex Color": "#687282",
+        "Normalized Color": "#3e4660"
+    },
+    {
+        "Emoji": "\ud83d\udd4b",
+        "ASCII Code": "128331",
+        "Hex Color": "#696660",
+        "Normalized Color": "#3f3635"
+    },
+    {
+        "Emoji": "\ud83d\udec4",
+        "ASCII Code": "128708",
+        "Hex Color": "#6aa9e8",
+        "Normalized Color": "#418ee1"
+    },
+    {
+        "Emoji": "\ud83c\udf03",
+        "ASCII Code": "127747",
+        "Hex Color": "#6c8ca1",
+        "Normalized Color": "#436887"
+    },
+    {
+        "Emoji": "\ud83d\udcdf",
+        "ASCII Code": "128223",
+        "Hex Color": "#6e9d81",
+        "Normalized Color": "#467e5f"
+    },
+    {
+        "Emoji": "\ud83e\ude7b",
+        "ASCII Code": "129659",
+        "Hex Color": "#6ea5bd",
+        "Normalized Color": "#4689ab"
+    },
+    {
+        "Emoji": "\ud83e\udd6c",
+        "ASCII Code": "129388",
+        "Hex Color": "#6eac6d",
+        "Normalized Color": "#469245"
+    },
+    {
+        "Emoji": "\ud83d\uddb2",
+        "ASCII Code": "128434",
+        "Hex Color": "#6f798b",
+        "Normalized Color": "#474f6b"
+    },
+    {
+        "Emoji": "\ud83d\uded7",
+        "ASCII Code": "128727",
+        "Hex Color": "#70a6e6",
+        "Normalized Color": "#488adf"
+    },
+    {
+        "Emoji": "\ud83e\uddff",
+        "ASCII Code": "129535",
+        "Hex Color": "#7388d4",
+        "Normalized Color": "#4c63c8"
+    },
+    {
+        "Emoji": "\ud83d\udc99",
+        "ASCII Code": "128153",
+        "Hex Color": "#74a8f8",
+        "Normalized Color": "#4d8df6"
+    },
+    {
+        "Emoji": "\ud83e\udebc",
+        "ASCII Code": "129724",
+        "Hex Color": "#79c0fd",
+        "Normalized Color": "#54acfc"
+    },
+    {
+        "Emoji": "\ud83d\udcd8",
+        "ASCII Code": "128216",
+        "Hex Color": "#7aa2c1",
+        "Normalized Color": "#5585b0"
+    },
+    {
+        "Emoji": "\ud83d\ude9b",
+        "ASCII Code": "128667",
+        "Hex Color": "#7ca47f",
+        "Normalized Color": "#57885c"
+    },
+    {
+        "Emoji": "\ud83e\udea3",
+        "ASCII Code": "129699",
+        "Hex Color": "#7ca5b2",
+        "Normalized Color": "#57899d"
+    },
+    {
+        "Emoji": "\ud83c\udf1a",
+        "ASCII Code": "127770",
+        "Hex Color": "#7d818e",
+        "Normalized Color": "#595a6f"
+    },
+    {
+        "Emoji": "\ud83c\udf0e",
+        "ASCII Code": "127758",
+        "Hex Color": "#7e9bb7",
+        "Normalized Color": "#5a7ca3"
+    },
+    {
+        "Emoji": "\ud83d\udda4",
+        "ASCII Code": "128420",
+        "Hex Color": "#838383",
+        "Normalized Color": "#605c61"
+    },
+    {
+        "Emoji": "\ud83c\udf18",
+        "ASCII Code": "127768",
+        "Hex Color": "#83847b",
+        "Normalized Color": "#605e57"
+    },
+    {
+        "Emoji": "\ud83c\udfa5",
+        "ASCII Code": "127909",
+        "Hex Color": "#838588",
+        "Normalized Color": "#605f68"
+    },
+    {
+        "Emoji": "\ud83c\udf09",
+        "ASCII Code": "127753",
+        "Hex Color": "#847d7d",
+        "Normalized Color": "#62555a"
+    },
+    {
+        "Emoji": "\ud83c\udf12",
+        "ASCII Code": "127762",
+        "Hex Color": "#84867e",
+        "Normalized Color": "#62605b"
+    },
+    {
+        "Emoji": "\ud83d\udede",
+        "ASCII Code": "128734",
+        "Hex Color": "#848687",
+        "Normalized Color": "#626066"
+    },
+    {
+        "Emoji": "\ud83d\udda5",
+        "ASCII Code": "128421",
+        "Hex Color": "#858585",
+        "Normalized Color": "#635f64"
+    },
+    {
+        "Emoji": "\ud83d\udd37",
+        "ASCII Code": "128311",
+        "Hex Color": "#85b6e2",
+        "Normalized Color": "#639fda"
+    },
+    {
+        "Emoji": "\ud83d\udd33",
+        "ASCII Code": "128307",
+        "Hex Color": "#868685",
+        "Normalized Color": "#646064"
+    },
+    {
+        "Emoji": "\ud83e\udd4f",
+        "ASCII Code": "129359",
+        "Hex Color": "#86b2d6",
+        "Normalized Color": "#649aca"
+    },
+    {
+        "Emoji": "\ud83e\uddf3",
+        "ASCII Code": "129523",
+        "Hex Color": "#87776c",
+        "Normalized Color": "#664d44"
+    },
+    {
+        "Emoji": "\ud83c\udfb1",
+        "ASCII Code": "127921",
+        "Hex Color": "#888888",
+        "Normalized Color": "#676368"
+    },
+    {
+        "Emoji": "\ud83c\udfae",
+        "ASCII Code": "127918",
+        "Hex Color": "#8a8985",
+        "Normalized Color": "#696464"
+    },
+    {
+        "Emoji": "\u26f4",
+        "ASCII Code": "9972",
+        "Hex Color": "#8a8a8a",
+        "Normalized Color": "#69666a"
+    },
+    {
+        "Emoji": "\ud83e\udd9a",
+        "ASCII Code": "129434",
+        "Hex Color": "#8ab493",
+        "Normalized Color": "#699c75"
+    },
+    {
+        "Emoji": "\ud83e\udd8b",
+        "ASCII Code": "129419",
+        "Hex Color": "#8ab8cd",
+        "Normalized Color": "#69a2bf"
+    },
+    {
+        "Emoji": "\ud83c\udf86",
+        "ASCII Code": "127878",
+        "Hex Color": "#8b7391",
+        "Normalized Color": "#6b4773"
+    },
+    {
+        "Emoji": "\ud83e\udda5",
+        "ASCII Code": "129445",
+        "Hex Color": "#8b7e68",
+        "Normalized Color": "#6b563f"
+    },
+    {
+        "Emoji": "\ud83c\udff4",
+        "ASCII Code": "127988",
+        "Hex Color": "#8b8b8b",
+        "Normalized Color": "#6b676b"
+    },
+    {
+        "Emoji": "\ud83d\udcfa",
+        "ASCII Code": "128250",
+        "Hex Color": "#8d8882",
+        "Normalized Color": "#6d6360"
+    },
+    {
+        "Emoji": "\ud83c\udf00",
+        "ASCII Code": "127744",
+        "Hex Color": "#8daef1",
+        "Normalized Color": "#6d95ed"
+    },
+    {
+        "Emoji": "\ud83d\ude99",
+        "ASCII Code": "128665",
+        "Hex Color": "#8db7c9",
+        "Normalized Color": "#6da0ba"
+    },
+    {
+        "Emoji": "\ud83d\udc9a",
+        "ASCII Code": "128154",
+        "Hex Color": "#8ddb86",
+        "Normalized Color": "#6dcf65"
+    },
+    {
+        "Emoji": "\ud83c\udf0f",
+        "ASCII Code": "127759",
+        "Hex Color": "#8ea4b2",
+        "Normalized Color": "#6e889d"
+    },
+    {
+        "Emoji": "\ud83e\udd66",
+        "ASCII Code": "129382",
+        "Hex Color": "#8ea97a",
+        "Normalized Color": "#6e8e56"
+    },
+    {
+        "Emoji": "\ud83c\udf0d",
+        "ASCII Code": "127757",
+        "Hex Color": "#8fa6ae",
+        "Normalized Color": "#708a98"
+    },
+    {
+        "Emoji": "\u2601",
+        "ASCII Code": "9729",
+        "Hex Color": "#909090",
+        "Normalized Color": "#716d72"
+    },
+    {
+        "Emoji": "\ud83d\ude8e",
+        "ASCII Code": "128654",
+        "Hex Color": "#90aebf",
+        "Normalized Color": "#7195ad"
+    },
+    {
+        "Emoji": "\ud83c\udfff",
+        "ASCII Code": "127999",
+        "Hex Color": "#918680",
+        "Normalized Color": "#72605d"
+    },
+    {
+        "Emoji": "\ud83d\udca3",
+        "ASCII Code": "128163",
+        "Hex Color": "#91918e",
+        "Normalized Color": "#726f6f"
+    },
+    {
+        "Emoji": "\ud83d\uddfe",
+        "ASCII Code": "128510",
+        "Hex Color": "#91b8e0",
+        "Normalized Color": "#72a2d7"
+    },
+    {
+        "Emoji": "\ud83d\udcfc",
+        "ASCII Code": "128252",
+        "Hex Color": "#929292",
+        "Normalized Color": "#747074"
+    },
+    {
+        "Emoji": "\ud83d\udfeb",
+        "ASCII Code": "129003",
+        "Hex Color": "#93694d",
+        "Normalized Color": "#753a1d"
+    },
+    {
+        "Emoji": "\ud83c\udf91",
+        "ASCII Code": "127889",
+        "Hex Color": "#939799",
+        "Normalized Color": "#75777d"
+    },
+    {
+        "Emoji": "\ud83d\ude9d",
+        "ASCII Code": "128669",
+        "Hex Color": "#939ba6",
+        "Normalized Color": "#757c8e"
+    },
+    {
+        "Emoji": "\ud83d\udcf2",
+        "ASCII Code": "128242",
+        "Hex Color": "#939da6",
+        "Normalized Color": "#757e8e"
+    },
+    {
+        "Emoji": "\ud83d\ude88",
+        "ASCII Code": "128648",
+        "Hex Color": "#94a0ad",
+        "Normalized Color": "#768296"
+    },
+    {
+        "Emoji": "\ud83c\udfd9",
+        "ASCII Code": "127961",
+        "Hex Color": "#94b2ce",
+        "Normalized Color": "#769ac0"
+    },
+    {
+        "Emoji": "\ud83d\udc33",
+        "ASCII Code": "128051",
+        "Hex Color": "#94cfde",
+        "Normalized Color": "#76c0d5"
+    },
+    {
+        "Emoji": "\ud83e\udd77",
+        "ASCII Code": "129399",
+        "Hex Color": "#959491",
+        "Normalized Color": "#777373"
+    },
+    {
+        "Emoji": "\ud83d\uddc4",
+        "ASCII Code": "128452",
+        "Hex Color": "#959a9b",
+        "Normalized Color": "#777a80"
+    },
+    {
+        "Emoji": "\ud83d\udceb",
+        "ASCII Code": "128235",
+        "Hex Color": "#95aec1",
+        "Normalized Color": "#7795b0"
+    },
+    {
+        "Emoji": "\ud83c\udfde",
+        "ASCII Code": "127966",
+        "Hex Color": "#95c2bc",
+        "Normalized Color": "#77afaa"
+    },
+    {
+        "Emoji": "\ud83d\ude87",
+        "ASCII Code": "128647",
+        "Hex Color": "#96908f",
+        "Normalized Color": "#796d70"
+    },
+    {
+        "Emoji": "\ud83c\udfa9",
+        "ASCII Code": "127913",
+        "Hex Color": "#969287",
+        "Normalized Color": "#797066"
+    },
+    {
+        "Emoji": "\ud83d\udd32",
+        "ASCII Code": "128306",
+        "Hex Color": "#969695",
+        "Normalized Color": "#797578"
+    },
+    {
+        "Emoji": "\ud83d\ude94",
+        "ASCII Code": "128660",
+        "Hex Color": "#969ea2",
+        "Normalized Color": "#798089"
+    },
+    {
+        "Emoji": "\ud83d\udced",
+        "ASCII Code": "128237",
+        "Hex Color": "#96a1ab",
+        "Normalized Color": "#798494"
+    },
+    {
+        "Emoji": "\ud83e\uded1",
+        "ASCII Code": "129745",
+        "Hex Color": "#96ac7e",
+        "Normalized Color": "#79925b"
+    },
+    {
+        "Emoji": "\ud83c\udf33",
+        "ASCII Code": "127795",
+        "Hex Color": "#96ad73",
+        "Normalized Color": "#79934d"
+    },
+    {
+        "Emoji": "\ud83e\udde4",
+        "ASCII Code": "129508",
+        "Hex Color": "#96d7b9",
+        "Normalized Color": "#79caa6"
+    },
+    {
+        "Emoji": "\u267b",
+        "ASCII Code": "9851",
+        "Hex Color": "#979797",
+        "Normalized Color": "#7a777b"
+    },
+    {
+        "Emoji": "\ud83c\udf20",
+        "ASCII Code": "127776",
+        "Hex Color": "#97aa9d",
+        "Normalized Color": "#7a8f82"
+    },
+    {
+        "Emoji": "\ud83e\ude80",
+        "ASCII Code": "129664",
+        "Hex Color": "#97ca80",
+        "Normalized Color": "#7ab95d"
+    },
+    {
+        "Emoji": "\ud83e\udd45",
+        "ASCII Code": "129349",
+        "Hex Color": "#988282",
+        "Normalized Color": "#7b5b60"
+    },
+    {
+        "Emoji": "\ud83d\udd23",
+        "ASCII Code": "128291",
+        "Hex Color": "#98afc4",
+        "Normalized Color": "#7b96b4"
+    },
+    {
+        "Emoji": "\ud83d\udcea",
+        "ASCII Code": "128234",
+        "Hex Color": "#98b4c6",
+        "Normalized Color": "#7b9cb6"
+    },
+    {
+        "Emoji": "\ud83d\udd22",
+        "ASCII Code": "128290",
+        "Hex Color": "#9ab1c5",
+        "Normalized Color": "#7e99b5"
+    },
+    {
+        "Emoji": "\ud83d\uddfa",
+        "ASCII Code": "128506",
+        "Hex Color": "#9abfc6",
+        "Normalized Color": "#7eabb6"
+    },
+    {
+        "Emoji": "\ud83e\udda0",
+        "ASCII Code": "129440",
+        "Hex Color": "#9ac875",
+        "Normalized Color": "#7eb74f"
+    },
+    {
+        "Emoji": "\ud83c\udf93",
+        "ASCII Code": "127891",
+        "Hex Color": "#9b9690",
+        "Normalized Color": "#7f7572"
+    },
+    {
+        "Emoji": "\ud83d\udcfd",
+        "ASCII Code": "128253",
+        "Hex Color": "#9b9d9d",
+        "Normalized Color": "#7f7e82"
+    },
+    {
+        "Emoji": "\ud83d\udeae",
+        "ASCII Code": "128686",
+        "Hex Color": "#9bb1c5",
+        "Normalized Color": "#7f99b5"
+    },
+    {
+        "Emoji": "\ud83d\udd21",
+        "ASCII Code": "128289",
+        "Hex Color": "#9bb2c5",
+        "Normalized Color": "#7f9ab5"
+    },
+    {
+        "Emoji": "\ud83e\udd76",
+        "ASCII Code": "129398",
+        "Hex Color": "#9bc2ea",
+        "Normalized Color": "#7fafe4"
+    },
+    {
+        "Emoji": "\u231a",
+        "ASCII Code": "8986",
+        "Hex Color": "#9c9c9b",
+        "Normalized Color": "#807d80"
+    },
+    {
+        "Emoji": "\ud83d\uddc3",
+        "ASCII Code": "128451",
+        "Hex Color": "#9d9994",
+        "Normalized Color": "#827977"
+    },
+    {
+        "Emoji": "\ud83c\udf9b",
+        "ASCII Code": "127899",
+        "Hex Color": "#9da1a4",
+        "Normalized Color": "#82848b"
+    },
+    {
+        "Emoji": "\u260e",
+        "ASCII Code": "9742",
+        "Hex Color": "#9e9e9e",
+        "Normalized Color": "#838083"
+    },
+    {
+        "Emoji": "\ud83c\udfec",
+        "ASCII Code": "127980",
+        "Hex Color": "#9ea2a9",
+        "Normalized Color": "#838591"
+    },
+    {
+        "Emoji": "\ud83c\udd99",
+        "ASCII Code": "127385",
+        "Hex Color": "#9eb4c7",
+        "Normalized Color": "#839cb7"
+    },
+    {
+        "Emoji": "\ud83d\udfe4",
+        "ASCII Code": "128996",
+        "Hex Color": "#9f7b62",
+        "Normalized Color": "#845237"
+    },
+    {
+        "Emoji": "\ud83d\udc0a",
+        "ASCII Code": "128010",
+        "Hex Color": "#9fb29f",
+        "Normalized Color": "#849a85"
+    },
+    {
+        "Emoji": "\ud83d\udd20",
+        "ASCII Code": "128288",
+        "Hex Color": "#9fb4c7",
+        "Normalized Color": "#849cb7"
+    },
+    {
+        "Emoji": "\ud83e\uddcc",
+        "ASCII Code": "129484",
+        "Hex Color": "#a09e93",
+        "Normalized Color": "#858075"
+    },
+    {
+        "Emoji": "\ud83c\udfac",
+        "ASCII Code": "127916",
+        "Hex Color": "#a0a0a0",
+        "Normalized Color": "#858286"
+    },
+    {
+        "Emoji": "\ud83d\udcec",
+        "ASCII Code": "128236",
+        "Hex Color": "#a0a8b2",
+        "Normalized Color": "#858d9d"
+    },
+    {
+        "Emoji": "\ud83e\uddf5",
+        "ASCII Code": "129525",
+        "Hex Color": "#a0b4b9",
+        "Normalized Color": "#859ca6"
+    },
+    {
+        "Emoji": "\ud83d\udd3d",
+        "ASCII Code": "128317",
+        "Hex Color": "#a0b5c8",
+        "Normalized Color": "#859eb9"
+    },
+    {
+        "Emoji": "\ud83e\udea8",
+        "ASCII Code": "129704",
+        "Hex Color": "#a1a19e",
+        "Normalized Color": "#878483"
+    },
+    {
+        "Emoji": "\u25fe",
+        "ASCII Code": "9726",
+        "Hex Color": "#a1a1a1",
+        "Normalized Color": "#878487"
+    },
+    {
+        "Emoji": "\ud83e\udeac",
+        "ASCII Code": "129708",
+        "Hex Color": "#a1adc4",
+        "Normalized Color": "#8793b4"
+    },
+    {
+        "Emoji": "\ud83d\udd3c",
+        "ASCII Code": "128316",
+        "Hex Color": "#a1b6c9",
+        "Normalized Color": "#879fba"
+    },
+    {
+        "Emoji": "\ud83c\udfb9",
+        "ASCII Code": "127929",
+        "Hex Color": "#a2a2a2",
+        "Normalized Color": "#888589"
+    },
+    {
+        "Emoji": "\ud83d\ude9f",
+        "ASCII Code": "128671",
+        "Hex Color": "#a2a69d",
+        "Normalized Color": "#888a82"
+    },
+    {
+        "Emoji": "\ud83d\udd00",
+        "ASCII Code": "128256",
+        "Hex Color": "#a2b6c9",
+        "Normalized Color": "#889fba"
+    },
+    {
+        "Emoji": "\u23e9",
+        "ASCII Code": "9193",
+        "Hex Color": "#a2b7c9",
+        "Normalized Color": "#88a0ba"
+    },
+    {
+        "Emoji": "\ud83d\udcd7",
+        "ASCII Code": "128215",
+        "Hex Color": "#a2bb7f",
+        "Normalized Color": "#88a65c"
+    },
+    {
+        "Emoji": "\ud83e\ude71",
+        "ASCII Code": "129649",
+        "Hex Color": "#a2d0d2",
+        "Normalized Color": "#88c1c5"
+    },
+    {
+        "Emoji": "\ud83d\udc7e",
+        "ASCII Code": "128126",
+        "Hex Color": "#a399ad",
+        "Normalized Color": "#897996"
+    },
+    {
+        "Emoji": "\ud83d\udc1c",
+        "ASCII Code": "128028",
+        "Hex Color": "#a39c9b",
+        "Normalized Color": "#897d80"
+    },
+    {
+        "Emoji": "\ud83d\udcd3",
+        "ASCII Code": "128211",
+        "Hex Color": "#a3a3a3",
+        "Normalized Color": "#89868a"
+    },
+    {
+        "Emoji": "\ud83d\udcf9",
+        "ASCII Code": "128249",
+        "Hex Color": "#a3a5a7",
+        "Normalized Color": "#89898f"
+    },
+    {
+        "Emoji": "\ud83e\udddf",
+        "ASCII Code": "129503",
+        "Hex Color": "#a3a8a2",
+        "Normalized Color": "#898d89"
+    },
+    {
+        "Emoji": "\u23eb",
+        "ASCII Code": "9195",
+        "Hex Color": "#a3b7ca",
+        "Normalized Color": "#89a0bb"
+    },
+    {
+        "Emoji": "\ud83d\udefb",
+        "ASCII Code": "128763",
+        "Hex Color": "#a3b8ba",
+        "Normalized Color": "#89a2a7"
+    },
+    {
+        "Emoji": "\ud83e\uddee",
+        "ASCII Code": "129518",
+        "Hex Color": "#a46048",
+        "Normalized Color": "#8a2f16"
+    },
+    {
+        "Emoji": "\ud83d\udcf8",
+        "ASCII Code": "128248",
+        "Hex Color": "#a49988",
+        "Normalized Color": "#8a7968"
+    },
+    {
+        "Emoji": "\ud83d\udcbe",
+        "ASCII Code": "128190",
+        "Hex Color": "#a4a7aa",
+        "Normalized Color": "#8a8b93"
+    },
+    {
+        "Emoji": "\ud83d\ude89",
+        "ASCII Code": "128649",
+        "Hex Color": "#a4aaab",
+        "Normalized Color": "#8a8f94"
+    },
+    {
+        "Emoji": "\ud83d\ude8a",
+        "ASCII Code": "128650",
+        "Hex Color": "#a4afb0",
+        "Normalized Color": "#8a969a"
+    },
+    {
+        "Emoji": "\ud83d\udd01",
+        "ASCII Code": "128257",
+        "Hex Color": "#a4b8ca",
+        "Normalized Color": "#8aa2bb"
+    },
+    {
+        "Emoji": "\ud83d\udcf6",
+        "ASCII Code": "128246",
+        "Hex Color": "#a4b8cb",
+        "Normalized Color": "#8aa2bd"
+    },
+    {
+        "Emoji": "\ud83e\ude75",
+        "ASCII Code": "129653",
+        "Hex Color": "#a4e0f4",
+        "Normalized Color": "#8ad6f1"
+    },
+    {
+        "Emoji": "\u262f",
+        "ASCII Code": "9775",
+        "Hex Color": "#a5a5a5",
+        "Normalized Color": "#8c898c"
+    },
+    {
+        "Emoji": "\ud83d\udda8",
+        "ASCII Code": "128424",
+        "Hex Color": "#a5a7a8",
+        "Normalized Color": "#8c8b90"
+    },
+    {
+        "Emoji": "\ud83d\udef0",
+        "ASCII Code": "128752",
+        "Hex Color": "#a5aab7",
+        "Normalized Color": "#8c8fa3"
+    },
+    {
+        "Emoji": "\ud83d\udd02",
+        "ASCII Code": "128258",
+        "Hex Color": "#a5b8ca",
+        "Normalized Color": "#8ca2bb"
+    },
+    {
+        "Emoji": "\ud83d\udd04",
+        "ASCII Code": "128260",
+        "Hex Color": "#a5b9cb",
+        "Normalized Color": "#8ca3bd"
+    },
+    {
+        "Emoji": "\ud83d\udcbc",
+        "ASCII Code": "128188",
+        "Hex Color": "#a69286",
+        "Normalized Color": "#8d7065"
+    },
+    {
+        "Emoji": "\ud83c\udfef",
+        "ASCII Code": "127983",
+        "Hex Color": "#a6a3a6",
+        "Normalized Color": "#8d868e"
+    },
+    {
+        "Emoji": "\ud83e\uded2",
+        "ASCII Code": "129746",
+        "Hex Color": "#a6a775",
+        "Normalized Color": "#8d8b4f"
+    },
+    {
+        "Emoji": "\ud83d\ude8d",
+        "ASCII Code": "128653",
+        "Hex Color": "#a6aba4",
+        "Normalized Color": "#8d918b"
+    },
+    {
+        "Emoji": "\ud83d\udebb",
+        "ASCII Code": "128699",
+        "Hex Color": "#a6bacb",
+        "Normalized Color": "#8da4bd"
+    },
+    {
+        "Emoji": "\ud83c\udf40",
+        "ASCII Code": "127808",
+        "Hex Color": "#a6db83",
+        "Normalized Color": "#8dcf61"
+    },
+    {
+        "Emoji": "\ud83c\udf30",
+        "ASCII Code": "127792",
+        "Hex Color": "#a7735f",
+        "Normalized Color": "#8e4734"
+    },
+    {
+        "Emoji": "\ud83d\udc1d",
+        "ASCII Code": "128029",
+        "Hex Color": "#a79d70",
+        "Normalized Color": "#8e7e49"
+    },
+    {
+        "Emoji": "\ud83e\ude99",
+        "ASCII Code": "129689",
+        "Hex Color": "#a7aaac",
+        "Normalized Color": "#8e8f95"
+    },
+    {
+        "Emoji": "\ud83c\udf73",
+        "ASCII Code": "127859",
+        "Hex Color": "#a8a59c",
+        "Normalized Color": "#908981"
+    },
+    {
+        "Emoji": "\ud83d\udd1c",
+        "ASCII Code": "128284",
+        "Hex Color": "#a8a8a8",
+        "Normalized Color": "#908d90"
+    },
+    {
+        "Emoji": "\ud83d\udcf1",
+        "ASCII Code": "128241",
+        "Hex Color": "#a8a9a8",
+        "Normalized Color": "#908e90"
+    },
+    {
+        "Emoji": "\ud83e\ude96",
+        "ASCII Code": "129686",
+        "Hex Color": "#a8afa3",
+        "Normalized Color": "#90968a"
+    },
+    {
+        "Emoji": "\ud83d\ude08",
+        "ASCII Code": "128520",
+        "Hex Color": "#a96fb5",
+        "Normalized Color": "#9142a1"
+    },
+    {
+        "Emoji": "\ud83e\uddfa",
+        "ASCII Code": "129530",
+        "Hex Color": "#a99b8d",
+        "Normalized Color": "#917c6e"
+    },
+    {
+        "Emoji": "\ud83d\udc82",
+        "ASCII Code": "128130",
+        "Hex Color": "#a9a497",
+        "Normalized Color": "#91887b"
+    },
+    {
+        "Emoji": "\ud83d\udc7f",
+        "ASCII Code": "128127",
+        "Hex Color": "#aa70b6",
+        "Normalized Color": "#9244a2"
+    },
+    {
+        "Emoji": "\ud83c\udf87",
+        "ASCII Code": "127879",
+        "Hex Color": "#aa8469",
+        "Normalized Color": "#925e40"
+    },
+    {
+        "Emoji": "\ud83e\udd3f",
+        "ASCII Code": "129343",
+        "Hex Color": "#aa9e90",
+        "Normalized Color": "#928072"
+    },
+    {
+        "Emoji": "\ud83e\udda8",
+        "ASCII Code": "129448",
+        "Hex Color": "#aaa9a5",
+        "Normalized Color": "#928e8c"
+    },
+    {
+        "Emoji": "\ud83d\udd19",
+        "ASCII Code": "128281",
+        "Hex Color": "#aaaaaa",
+        "Normalized Color": "#928f93"
+    },
+    {
+        "Emoji": "\ud83c\udfe2",
+        "ASCII Code": "127970",
+        "Hex Color": "#aab3b7",
+        "Normalized Color": "#929ba3"
+    },
+    {
+        "Emoji": "\ud83d\udc54",
+        "ASCII Code": "128084",
+        "Hex Color": "#aac0d5",
+        "Normalized Color": "#92acc9"
+    },
+    {
+        "Emoji": "\ud83d\udca6",
+        "ASCII Code": "128166",
+        "Hex Color": "#aadef6",
+        "Normalized Color": "#92d3f3"
+    },
+    {
+        "Emoji": "\ud83c\udf04",
+        "ASCII Code": "127748",
+        "Hex Color": "#ab9090",
+        "Normalized Color": "#936d72"
+    },
+    {
+        "Emoji": "\ud83e\udd83",
+        "ASCII Code": "129411",
+        "Hex Color": "#ab928d",
+        "Normalized Color": "#93706e"
+    },
+    {
+        "Emoji": "\ud83e\udd8d",
+        "ASCII Code": "129421",
+        "Hex Color": "#abaaaa",
+        "Normalized Color": "#938f93"
+    },
+    {
+        "Emoji": "\ud83d\udd0a",
+        "ASCII Code": "128266",
+        "Hex Color": "#abb5b8",
+        "Normalized Color": "#939ea4"
+    },
+    {
+        "Emoji": "\ud83e\udeb2",
+        "ASCII Code": "129714",
+        "Hex Color": "#abbb7d",
+        "Normalized Color": "#93a65a"
+    },
+    {
+        "Emoji": "\ud83d\udd0b",
+        "ASCII Code": "128267",
+        "Hex Color": "#abc89c",
+        "Normalized Color": "#93b781"
+    },
+    {
+        "Emoji": "\ud83e\udd58",
+        "ASCII Code": "129368",
+        "Hex Color": "#ac906c",
+        "Normalized Color": "#956d44"
+    },
+    {
+        "Emoji": "\ud83e\uddac",
+        "ASCII Code": "129452",
+        "Hex Color": "#aca29d",
+        "Normalized Color": "#958582"
+    },
+    {
+        "Emoji": "\ud83d\udefa",
+        "ASCII Code": "128762",
+        "Hex Color": "#acbb8d",
+        "Normalized Color": "#95a66e"
+    },
+    {
+        "Emoji": "\ud83e\uded0",
+        "ASCII Code": "129744",
+        "Hex Color": "#acbdd8",
+        "Normalized Color": "#95a8cd"
+    },
+    {
+        "Emoji": "\ud83d\udcca",
+        "ASCII Code": "128202",
+        "Hex Color": "#acc1c3",
+        "Normalized Color": "#95adb2"
+    },
+    {
+        "Emoji": "\ud83d\udc57",
+        "ASCII Code": "128087",
+        "Hex Color": "#ace4df",
+        "Normalized Color": "#95dbd6"
+    },
+    {
+        "Emoji": "\ud83e\udea2",
+        "ASCII Code": "129698",
+        "Hex Color": "#ad8c9f",
+        "Normalized Color": "#966885"
+    },
+    {
+        "Emoji": "\ud83d\udc3b",
+        "ASCII Code": "128059",
+        "Hex Color": "#ad947d",
+        "Normalized Color": "#96735a"
+    },
+    {
+        "Emoji": "\ud83e\udd87",
+        "ASCII Code": "129415",
+        "Hex Color": "#ada29b",
+        "Normalized Color": "#968580"
+    },
+    {
+        "Emoji": "\ud83c\udf17",
+        "ASCII Code": "127767",
+        "Hex Color": "#ada47e",
+        "Normalized Color": "#96885b"
+    },
+    {
+        "Emoji": "\ud83e\udd7e",
+        "ASCII Code": "129406",
+        "Hex Color": "#ada59d",
+        "Normalized Color": "#968982"
+    },
+    {
+        "Emoji": "\ud83c\udf13",
+        "ASCII Code": "127763",
+        "Hex Color": "#ada781",
+        "Normalized Color": "#968b5f"
+    },
+    {
+        "Emoji": "\u25b6",
+        "ASCII Code": "9654",
+        "Hex Color": "#adadad",
+        "Normalized Color": "#969396"
+    },
+    {
+        "Emoji": "\ud83d\udd30",
+        "ASCII Code": "128304",
+        "Hex Color": "#adc48e",
+        "Normalized Color": "#96b16f"
+    },
+    {
+        "Emoji": "\ud83c\udf32",
+        "ASCII Code": "127794",
+        "Hex Color": "#adc4af",
+        "Normalized Color": "#96b199"
+    },
+    {
+        "Emoji": "\ud83d\udc38",
+        "ASCII Code": "128056",
+        "Hex Color": "#adc694",
+        "Normalized Color": "#96b477"
+    },
+    {
+        "Emoji": "\ud83e\udde2",
+        "ASCII Code": "129506",
+        "Hex Color": "#adc9f5",
+        "Normalized Color": "#96b8f2"
+    },
+    {
+        "Emoji": "\ud83c\udf58",
+        "ASCII Code": "127832",
+        "Hex Color": "#ae9767",
+        "Normalized Color": "#97773e"
+    },
+    {
+        "Emoji": "\ud83d\udc17",
+        "ASCII Code": "128023",
+        "Hex Color": "#aea39c",
+        "Normalized Color": "#978681"
+    },
+    {
+        "Emoji": "\ud83e\udd9f",
+        "ASCII Code": "129439",
+        "Hex Color": "#aea49a",
+        "Normalized Color": "#97887e"
+    },
+    {
+        "Emoji": "\ud83d\udc03",
+        "ASCII Code": "128003",
+        "Hex Color": "#aeaaaa",
+        "Normalized Color": "#978f93"
+    },
+    {
+        "Emoji": "\ud83d\udd1b",
+        "ASCII Code": "128283",
+        "Hex Color": "#aeaeae",
+        "Normalized Color": "#979598"
+    },
+    {
+        "Emoji": "\ud83e\udd57",
+        "ASCII Code": "129367",
+        "Hex Color": "#aeb588",
+        "Normalized Color": "#979e68"
+    },
+    {
+        "Emoji": "\ud83d\udd18",
+        "ASCII Code": "128280",
+        "Hex Color": "#afafaf",
+        "Normalized Color": "#999699"
+    },
+    {
+        "Emoji": "\ud83e\udec2",
+        "ASCII Code": "129730",
+        "Hex Color": "#afc3d3",
+        "Normalized Color": "#99b0c7"
+    },
+    {
+        "Emoji": "\ud83c\udf4f",
+        "ASCII Code": "127823",
+        "Hex Color": "#afce86",
+        "Normalized Color": "#99be65"
+    },
+    {
+        "Emoji": "\ud83c\udff0",
+        "ASCII Code": "127984",
+        "Hex Color": "#b0a7a2",
+        "Normalized Color": "#9a8b89"
+    },
+    {
+        "Emoji": "\ud83e\udd85",
+        "ASCII Code": "129413",
+        "Hex Color": "#b0aca9",
+        "Normalized Color": "#9a9291"
+    },
+    {
+        "Emoji": "\ud83d\udc63",
+        "ASCII Code": "128099",
+        "Hex Color": "#b0b0b0",
+        "Normalized Color": "#9a979a"
+    },
+    {
+        "Emoji": "\ud83d\ude86",
+        "ASCII Code": "128646",
+        "Hex Color": "#b0bdca",
+        "Normalized Color": "#9aa8bb"
+    },
+    {
+        "Emoji": "\ud83d\udc55",
+        "ASCII Code": "128085",
+        "Hex Color": "#b0cce6",
+        "Normalized Color": "#9abcdf"
+    },
+    {
+        "Emoji": "\ud83d\udd39",
+        "ASCII Code": "128313",
+        "Hex Color": "#b0ceea",
+        "Normalized Color": "#9abee4"
+    },
+    {
+        "Emoji": "\ud83d\uded6",
+        "ASCII Code": "128726",
+        "Hex Color": "#b1a89c",
+        "Normalized Color": "#9b8d81"
+    },
+    {
+        "Emoji": "\ud83d\udcbd",
+        "ASCII Code": "128189",
+        "Hex Color": "#b1ac98",
+        "Normalized Color": "#9b927c"
+    },
+    {
+        "Emoji": "\ud83c\udfc1",
+        "ASCII Code": "127937",
+        "Hex Color": "#b1b1b1",
+        "Normalized Color": "#9b999c"
+    },
+    {
+        "Emoji": "\ud83c\udfa6",
+        "ASCII Code": "127910",
+        "Hex Color": "#b1c2d1",
+        "Normalized Color": "#9bafc4"
+    },
+    {
+        "Emoji": "\ud83d\udc65",
+        "ASCII Code": "128101",
+        "Hex Color": "#b1c6d6",
+        "Normalized Color": "#9bb4ca"
+    },
+    {
+        "Emoji": "\ud83c\udf71",
+        "ASCII Code": "127857",
+        "Hex Color": "#b28c71",
+        "Normalized Color": "#9c684a"
+    },
+    {
+        "Emoji": "\ud83e\udddb",
+        "ASCII Code": "129499",
+        "Hex Color": "#b29e83",
+        "Normalized Color": "#9c8061"
+    },
+    {
+        "Emoji": "\ud83e\udda3",
+        "ASCII Code": "129443",
+        "Hex Color": "#b2a193",
+        "Normalized Color": "#9c8475"
+    },
+    {
+        "Emoji": "\ud83d\udeb5",
+        "ASCII Code": "128693",
+        "Hex Color": "#b2ab9d",
+        "Normalized Color": "#9c9182"
+    },
+    {
+        "Emoji": "\u2b05",
+        "ASCII Code": "11013",
+        "Hex Color": "#b2b2b2",
+        "Normalized Color": "#9c9a9d"
+    },
+    {
+        "Emoji": "\ud83d\ude93",
+        "ASCII Code": "128659",
+        "Hex Color": "#b2b8b9",
+        "Normalized Color": "#9ca2a6"
+    },
+    {
+        "Emoji": "\ud83c\udf69",
+        "ASCII Code": "127849",
+        "Hex Color": "#b39784",
+        "Normalized Color": "#9e7762"
+    },
+    {
+        "Emoji": "\ud83d\ude9c",
+        "ASCII Code": "128668",
+        "Hex Color": "#b3af87",
+        "Normalized Color": "#9e9666"
+    },
+    {
+        "Emoji": "\u2b07",
+        "ASCII Code": "11015",
+        "Hex Color": "#b3b3b3",
+        "Normalized Color": "#9e9b9e"
+    },
+    {
+        "Emoji": "\ud83d\udedd",
+        "ASCII Code": "128733",
+        "Hex Color": "#b3bfdb",
+        "Normalized Color": "#9eabd1"
+    },
+    {
+        "Emoji": "\ud83e\udd16",
+        "ASCII Code": "129302",
+        "Hex Color": "#b3c6c7",
+        "Normalized Color": "#9eb4b7"
+    },
+    {
+        "Emoji": "\ud83d\udc3f",
+        "ASCII Code": "128063",
+        "Hex Color": "#b4997a",
+        "Normalized Color": "#9f7956"
+    },
+    {
+        "Emoji": "\ud83d\udc28",
+        "ASCII Code": "128040",
+        "Hex Color": "#b4a9a6",
+        "Normalized Color": "#9f8e8e"
+    },
+    {
+        "Emoji": "\ud83d\udc27",
+        "ASCII Code": "128039",
+        "Hex Color": "#b4ada4",
+        "Normalized Color": "#9f938b"
+    },
+    {
+        "Emoji": "\ud83d\udea0",
+        "ASCII Code": "128672",
+        "Hex Color": "#b4b2b4",
+        "Normalized Color": "#9f9a9f"
+    },
+    {
+        "Emoji": "\ud83d\ude8c",
+        "ASCII Code": "128652",
+        "Hex Color": "#b4b393",
+        "Normalized Color": "#9f9b75"
+    },
+    {
+        "Emoji": "\ud83d\udd0f",
+        "ASCII Code": "128271",
+        "Hex Color": "#b4b5ac",
+        "Normalized Color": "#9f9e95"
+    },
+    {
+        "Emoji": "\ud83d\uddd1",
+        "ASCII Code": "128465",
+        "Hex Color": "#b4b9bd",
+        "Normalized Color": "#9fa3ab"
+    },
+    {
+        "Emoji": "\ud83d\ude90",
+        "ASCII Code": "128656",
+        "Hex Color": "#b4bdbc",
+        "Normalized Color": "#9fa8aa"
+    },
+    {
+        "Emoji": "\ud83d\uddbc",
+        "ASCII Code": "128444",
+        "Hex Color": "#b4c071",
+        "Normalized Color": "#9fac4a"
+    },
+    {
+        "Emoji": "\ud83c\udffe",
+        "ASCII Code": "127998",
+        "Hex Color": "#b59782",
+        "Normalized Color": "#a07760"
+    },
+    {
+        "Emoji": "\ud83d\udd0c",
+        "ASCII Code": "128268",
+        "Hex Color": "#b5b4b1",
+        "Normalized Color": "#a09c9c"
+    },
+    {
+        "Emoji": "\ud83e\udea6",
+        "ASCII Code": "129702",
+        "Hex Color": "#b5b5b3",
+        "Normalized Color": "#a09e9e"
+    },
+    {
+        "Emoji": "\ud83d\udc7d",
+        "ASCII Code": "128125",
+        "Hex Color": "#b5bebf",
+        "Normalized Color": "#a0aaad"
+    },
+    {
+        "Emoji": "\ud83d\udc56",
+        "ASCII Code": "128086",
+        "Hex Color": "#b5bed7",
+        "Normalized Color": "#a0aacc"
+    },
+    {
+        "Emoji": "\ud83c\udfea",
+        "ASCII Code": "127978",
+        "Hex Color": "#b5c2bd",
+        "Normalized Color": "#a0afab"
+    },
+    {
+        "Emoji": "\ud83d\udee3",
+        "ASCII Code": "128739",
+        "Hex Color": "#b5c3ab",
+        "Normalized Color": "#a0b094"
+    },
+    {
+        "Emoji": "\ud83e\udd22",
+        "ASCII Code": "129314",
+        "Hex Color": "#b5c766",
+        "Normalized Color": "#a0b53c"
+    },
+    {
+        "Emoji": "\ud83d\udebf",
+        "ASCII Code": "128703",
+        "Hex Color": "#b5cdcf",
+        "Normalized Color": "#a0bdc2"
+    },
+    {
+        "Emoji": "\ud83e\udd52",
+        "ASCII Code": "129362",
+        "Hex Color": "#b5d09d",
+        "Normalized Color": "#a0c182"
+    },
+    {
+        "Emoji": "\ud83e\udde9",
+        "ASCII Code": "129513",
+        "Hex Color": "#b5d4a9",
+        "Normalized Color": "#a0c691"
+    },
+    {
+        "Emoji": "\ud83e\ude72",
+        "ASCII Code": "129650",
+        "Hex Color": "#b5d6b4",
+        "Normalized Color": "#a0c99f"
+    },
+    {
+        "Emoji": "\ud83d\udc2c",
+        "ASCII Code": "128044",
+        "Hex Color": "#b5dde7",
+        "Normalized Color": "#a0d2e0"
+    },
+    {
+        "Emoji": "\ud83d\uded0",
+        "ASCII Code": "128720",
+        "Hex Color": "#b671c9",
+        "Normalized Color": "#a145ba"
+    },
+    {
+        "Emoji": "\ud83e\udd0e",
+        "ASCII Code": "129294",
+        "Hex Color": "#b6967f",
+        "Normalized Color": "#a1755c"
+    },
+    {
+        "Emoji": "\ud83e\udeb5",
+        "ASCII Code": "129717",
+        "Hex Color": "#b6a395",
+        "Normalized Color": "#a18678"
+    },
+    {
+        "Emoji": "\ud83e\uddab",
+        "ASCII Code": "129451",
+        "Hex Color": "#b6a495",
+        "Normalized Color": "#a18878"
+    },
+    {
+        "Emoji": "\ud83c\udfad",
+        "ASCII Code": "127917",
+        "Hex Color": "#b6a7a2",
+        "Normalized Color": "#a18b89"
+    },
+    {
+        "Emoji": "\ud83e\udda6",
+        "ASCII Code": "129446",
+        "Hex Color": "#b6aca2",
+        "Normalized Color": "#a19289"
+    },
+    {
+        "Emoji": "\ud83d\udeb4",
+        "ASCII Code": "128692",
+        "Hex Color": "#b6b1a5",
+        "Normalized Color": "#a1998c"
+    },
+    {
+        "Emoji": "\u2b06",
+        "ASCII Code": "11014",
+        "Hex Color": "#b6b6b6",
+        "Normalized Color": "#a19fa2"
+    },
+    {
+        "Emoji": "\ud83d\udee4",
+        "ASCII Code": "128740",
+        "Hex Color": "#b6b7a3",
+        "Normalized Color": "#a1a08a"
+    },
+    {
+        "Emoji": "\ud83d\udcda",
+        "ASCII Code": "128218",
+        "Hex Color": "#b6b7a7",
+        "Normalized Color": "#a1a08f"
+    },
+    {
+        "Emoji": "\ud83e\udeae",
+        "ASCII Code": "129710",
+        "Hex Color": "#b6b7b7",
+        "Normalized Color": "#a1a0a3"
+    },
+    {
+        "Emoji": "\ud83d\udcba",
+        "ASCII Code": "128186",
+        "Hex Color": "#b6bbc9",
+        "Normalized Color": "#a1a6ba"
+    },
+    {
+        "Emoji": "\ud83d\ude9e",
+        "ASCII Code": "128670",
+        "Hex Color": "#b6bda5",
+        "Normalized Color": "#a1a88c"
+    },
+    {
+        "Emoji": "\ud83e\uddca",
+        "ASCII Code": "129482",
+        "Hex Color": "#b6d5e8",
+        "Normalized Color": "#a1c8e1"
+    },
+    {
+        "Emoji": "\ud83c\udf3f",
+        "ASCII Code": "127807",
+        "Hex Color": "#b6d69f",
+        "Normalized Color": "#a1c985"
+    },
+    {
+        "Emoji": "\ud83e\udd4c",
+        "ASCII Code": "129356",
+        "Hex Color": "#b79798",
+        "Normalized Color": "#a3777c"
+    },
+    {
+        "Emoji": "\ud83d\ude96",
+        "ASCII Code": "128662",
+        "Hex Color": "#b7af95",
+        "Normalized Color": "#a39678"
+    },
+    {
+        "Emoji": "\u2665",
+        "ASCII Code": "9829",
+        "Hex Color": "#b7b7b7",
+        "Normalized Color": "#a3a0a3"
+    },
+    {
+        "Emoji": "\ud83d\udee0",
+        "ASCII Code": "128736",
+        "Hex Color": "#b7b8ba",
+        "Normalized Color": "#a3a2a7"
+    },
+    {
+        "Emoji": "\ud83d\udca4",
+        "ASCII Code": "128164",
+        "Hex Color": "#b7cbea",
+        "Normalized Color": "#a3bbe4"
+    },
+    {
+        "Emoji": "\ud83e\uddfc",
+        "ASCII Code": "129532",
+        "Hex Color": "#b7e6d2",
+        "Normalized Color": "#a3dec5"
+    },
+    {
+        "Emoji": "\ud83c\udfd8",
+        "ASCII Code": "127960",
+        "Hex Color": "#b8a69f",
+        "Normalized Color": "#a48a85"
+    },
+    {
+        "Emoji": "\u25fc",
+        "ASCII Code": "9724",
+        "Hex Color": "#b8b8b8",
+        "Normalized Color": "#a4a2a4"
+    },
+    {
+        "Emoji": "\ud83d\udd09",
+        "ASCII Code": "128265",
+        "Hex Color": "#b8bdbf",
+        "Normalized Color": "#a4a8ad"
+    },
+    {
+        "Emoji": "\ud83d\udeba",
+        "ASCII Code": "128698",
+        "Hex Color": "#b977cc",
+        "Normalized Color": "#a54dbe"
+    },
+    {
+        "Emoji": "\ud83d\udc79",
+        "ASCII Code": "128121",
+        "Hex Color": "#b9796f",
+        "Normalized Color": "#a54f48"
+    },
+    {
+        "Emoji": "\ud83c\udfb4",
+        "ASCII Code": "127924",
+        "Hex Color": "#b9a19e",
+        "Normalized Color": "#a58483"
+    },
+    {
+        "Emoji": "\ud83e\ude76",
+        "ASCII Code": "129654",
+        "Hex Color": "#b9b9b9",
+        "Normalized Color": "#a5a3a6"
+    },
+    {
+        "Emoji": "\ud83d\udcc2",
+        "ASCII Code": "128194",
+        "Hex Color": "#b9c0c6",
+        "Normalized Color": "#a5acb6"
+    },
+    {
+        "Emoji": "\ud83d\udefc",
+        "ASCII Code": "128764",
+        "Hex Color": "#b9cfd0",
+        "Normalized Color": "#a5c0c3"
+    },
+    {
+        "Emoji": "\ud83e\udd95",
+        "ASCII Code": "129429",
+        "Hex Color": "#b9d1d8",
+        "Normalized Color": "#a5c2cd"
+    },
+    {
+        "Emoji": "\ud83d\udca0",
+        "ASCII Code": "128160",
+        "Hex Color": "#b9daed",
+        "Normalized Color": "#a5cee8"
+    },
+    {
+        "Emoji": "\u2648",
+        "ASCII Code": "9800",
+        "Hex Color": "#ba78cc",
+        "Normalized Color": "#a74ebe"
+    },
+    {
+        "Emoji": "\u2649",
+        "ASCII Code": "9801",
+        "Hex Color": "#ba79cc",
+        "Normalized Color": "#a74fbe"
+    },
+    {
+        "Emoji": "\ud83d\udcf5",
+        "ASCII Code": "128245",
+        "Hex Color": "#ba897f",
+        "Normalized Color": "#a7645c"
+    },
+    {
+        "Emoji": "\ud83d\udea5",
+        "ASCII Code": "128677",
+        "Hex Color": "#bab7ae",
+        "Normalized Color": "#a7a098"
+    },
+    {
+        "Emoji": "\ud83e\udebb",
+        "ASCII Code": "129723",
+        "Hex Color": "#bab9ce",
+        "Normalized Color": "#a7a3c0"
+    },
+    {
+        "Emoji": "\ud83d\udc3a",
+        "ASCII Code": "128058",
+        "Hex Color": "#bababa",
+        "Normalized Color": "#a7a4a7"
+    },
+    {
+        "Emoji": "\ud83d\udd08",
+        "ASCII Code": "128264",
+        "Hex Color": "#babbbd",
+        "Normalized Color": "#a7a6ab"
+    },
+    {
+        "Emoji": "\ud83c\udf9a",
+        "ASCII Code": "127898",
+        "Hex Color": "#babcbd",
+        "Normalized Color": "#a7a7ab"
+    },
+    {
+        "Emoji": "\ud83c\udf10",
+        "ASCII Code": "127760",
+        "Hex Color": "#badfec",
+        "Normalized Color": "#a7d5e6"
+    },
+    {
+        "Emoji": "\u2653",
+        "ASCII Code": "9811",
+        "Hex Color": "#bb7acd",
+        "Normalized Color": "#a851bf"
+    },
+    {
+        "Emoji": "\u264b",
+        "ASCII Code": "9803",
+        "Hex Color": "#bb7ccd",
+        "Normalized Color": "#a853bf"
+    },
+    {
+        "Emoji": "\ud83e\uddf1",
+        "ASCII Code": "129521",
+        "Hex Color": "#bb8777",
+        "Normalized Color": "#a86252"
+    },
+    {
+        "Emoji": "\ud83d\udc1e",
+        "ASCII Code": "128030",
+        "Hex Color": "#bba094",
+        "Normalized Color": "#a88277"
+    },
+    {
+        "Emoji": "\ud83e\uddd5",
+        "ASCII Code": "129493",
+        "Hex Color": "#bbadaf",
+        "Normalized Color": "#a89399"
+    },
+    {
+        "Emoji": "\ud83d\udcfb",
+        "ASCII Code": "128251",
+        "Hex Color": "#bbb097",
+        "Normalized Color": "#a8977b"
+    },
+    {
+        "Emoji": "\ud83e\udd93",
+        "ASCII Code": "129427",
+        "Hex Color": "#bbb9b7",
+        "Normalized Color": "#a8a3a3"
+    },
+    {
+        "Emoji": "\ud83d\uddff",
+        "ASCII Code": "128511",
+        "Hex Color": "#bbbbb6",
+        "Normalized Color": "#a8a6a2"
+    },
+    {
+        "Emoji": "\u23ed",
+        "ASCII Code": "9197",
+        "Hex Color": "#bbbbbb",
+        "Normalized Color": "#a8a6a8"
+    },
+    {
+        "Emoji": "\ud83c\udfcd",
+        "ASCII Code": "127949",
+        "Hex Color": "#bbbdbd",
+        "Normalized Color": "#a8a8ab"
+    },
+    {
+        "Emoji": "\ud83d\udcc1",
+        "ASCII Code": "128193",
+        "Hex Color": "#bbc1c6",
+        "Normalized Color": "#a8adb6"
+    },
+    {
+        "Emoji": "\ud83d\udde3",
+        "ASCII Code": "128483",
+        "Hex Color": "#bbcad8",
+        "Normalized Color": "#a8b9cd"
+    },
+    {
+        "Emoji": "\ud83c\udf35",
+        "ASCII Code": "127797",
+        "Hex Color": "#bbd5a8",
+        "Normalized Color": "#a8c890"
+    },
+    {
+        "Emoji": "\ud83d\udc8e",
+        "ASCII Code": "128142",
+        "Hex Color": "#bbe0fa",
+        "Normalized Color": "#a8d6f8"
+    },
+    {
+        "Emoji": "\u264f",
+        "ASCII Code": "9807",
+        "Hex Color": "#bc7dcd",
+        "Normalized Color": "#a955bf"
+    },
+    {
+        "Emoji": "\ud83d\udd2f",
+        "ASCII Code": "128303",
+        "Hex Color": "#bc7ecd",
+        "Normalized Color": "#a956bf"
+    },
+    {
+        "Emoji": "\ud83e\ude97",
+        "ASCII Code": "129687",
+        "Hex Color": "#bc9a9f",
+        "Normalized Color": "#a97a85"
+    },
+    {
+        "Emoji": "\ud83c\udfe5",
+        "ASCII Code": "127973",
+        "Hex Color": "#bcb2b1",
+        "Normalized Color": "#a99a9c"
+    },
+    {
+        "Emoji": "\ud83c\udf3d",
+        "ASCII Code": "127805",
+        "Hex Color": "#bcba6e",
+        "Normalized Color": "#a9a447"
+    },
+    {
+        "Emoji": "\ud83d\udcc7",
+        "ASCII Code": "128199",
+        "Hex Color": "#bcbab5",
+        "Normalized Color": "#a9a4a1"
+    },
+    {
+        "Emoji": "\ud83d\uddf3",
+        "ASCII Code": "128499",
+        "Hex Color": "#bcd6da",
+        "Normalized Color": "#a9c9d0"
+    },
+    {
+        "Emoji": "\ud83e\uddc3",
+        "ASCII Code": "129475",
+        "Hex Color": "#bcd8c4",
+        "Normalized Color": "#a9ccb4"
+    },
+    {
+        "Emoji": "\ud83d\udfe3",
+        "ASCII Code": "128995",
+        "Hex Color": "#bd66f4",
+        "Normalized Color": "#aa36f1"
+    },
+    {
+        "Emoji": "\u264a",
+        "ASCII Code": "9802",
+        "Hex Color": "#bd7ece",
+        "Normalized Color": "#aa56c0"
+    },
+    {
+        "Emoji": "\u264c",
+        "ASCII Code": "9804",
+        "Hex Color": "#bd7fce",
+        "Normalized Color": "#aa57c0"
+    },
+    {
+        "Emoji": "\u264e",
+        "ASCII Code": "9806",
+        "Hex Color": "#bd80ce",
+        "Normalized Color": "#aa58c0"
+    },
+    {
+        "Emoji": "\ud83d\udeb3",
+        "ASCII Code": "128691",
+        "Hex Color": "#bd887b",
+        "Normalized Color": "#aa6357"
+    },
+    {
+        "Emoji": "\ud83e\udda7",
+        "ASCII Code": "129447",
+        "Hex Color": "#bd8d76",
+        "Normalized Color": "#aa6951"
+    },
+    {
+        "Emoji": "\ud83d\udcc6",
+        "ASCII Code": "128198",
+        "Hex Color": "#bda7a7",
+        "Normalized Color": "#aa8b8f"
+    },
+    {
+        "Emoji": "\ud83e\uddec",
+        "ASCII Code": "129516",
+        "Hex Color": "#bdbadf",
+        "Normalized Color": "#aaa4d6"
+    },
+    {
+        "Emoji": "\ud83d\uded2",
+        "ASCII Code": "128722",
+        "Hex Color": "#bdbbbc",
+        "Normalized Color": "#aaa6aa"
+    },
+    {
+        "Emoji": "\u23cf",
+        "ASCII Code": "9167",
+        "Hex Color": "#bdbdbd",
+        "Normalized Color": "#aaa8ab"
+    },
+    {
+        "Emoji": "\ud83c\udfb5",
+        "ASCII Code": "127925",
+        "Hex Color": "#bdbec0",
+        "Normalized Color": "#aaaaaf"
+    },
+    {
+        "Emoji": "\ud83e\udea9",
+        "ASCII Code": "129705",
+        "Hex Color": "#bdbfc1",
+        "Normalized Color": "#aaabb0"
+    },
+    {
+        "Emoji": "\ud83d\ude8b",
+        "ASCII Code": "128651",
+        "Hex Color": "#bdc1ba",
+        "Normalized Color": "#aaada7"
+    },
+    {
+        "Emoji": "\ud83d\udc64",
+        "ASCII Code": "128100",
+        "Hex Color": "#bdcedc",
+        "Normalized Color": "#aabed2"
+    },
+    {
+        "Emoji": "\ud83d\ude98",
+        "ASCII Code": "128664",
+        "Hex Color": "#be9092",
+        "Normalized Color": "#ac6d74"
+    },
+    {
+        "Emoji": "\ud83d\udce6",
+        "ASCII Code": "128230",
+        "Hex Color": "#bea389",
+        "Normalized Color": "#ac8669"
+    },
+    {
+        "Emoji": "\ud83c\udf8e",
+        "ASCII Code": "127886",
+        "Hex Color": "#beb0b5",
+        "Normalized Color": "#ac97a1"
+    },
+    {
+        "Emoji": "\ud83c\udf75",
+        "ASCII Code": "127861",
+        "Hex Color": "#bebfb4",
+        "Normalized Color": "#acab9f"
+    },
+    {
+        "Emoji": "\ud83d\udc18",
+        "ASCII Code": "128024",
+        "Hex Color": "#bebfbd",
+        "Normalized Color": "#acabab"
+    },
+    {
+        "Emoji": "\ud83d\udc26",
+        "ASCII Code": "128038",
+        "Hex Color": "#becacb",
+        "Normalized Color": "#acb9bd"
+    },
+    {
+        "Emoji": "\ud83e\udd96",
+        "ASCII Code": "129430",
+        "Hex Color": "#becda3",
+        "Normalized Color": "#acbd8a"
+    },
+    {
+        "Emoji": "\ud83d\udc1f",
+        "ASCII Code": "128031",
+        "Hex Color": "#becedd",
+        "Normalized Color": "#acbed3"
+    },
+    {
+        "Emoji": "\ud83c\udf34",
+        "ASCII Code": "127796",
+        "Hex Color": "#bed0a7",
+        "Normalized Color": "#acc18f"
+    },
+    {
+        "Emoji": "\ud83c\udfbf",
+        "ASCII Code": "127935",
+        "Hex Color": "#bed0c7",
+        "Normalized Color": "#acc1b7"
+    },
+    {
+        "Emoji": "\ud83e\ude74",
+        "ASCII Code": "129652",
+        "Hex Color": "#bed8d6",
+        "Normalized Color": "#acccca"
+    },
+    {
+        "Emoji": "\u264d",
+        "ASCII Code": "9805",
+        "Hex Color": "#bf83cf",
+        "Normalized Color": "#ad5cc2"
+    },
+    {
+        "Emoji": "\ud83d\udd4e",
+        "ASCII Code": "128334",
+        "Hex Color": "#bf85cf",
+        "Normalized Color": "#ad5fc2"
+    },
+    {
+        "Emoji": "\ud83e\uddb9",
+        "ASCII Code": "129465",
+        "Hex Color": "#bf9f78",
+        "Normalized Color": "#ad8153"
+    },
+    {
+        "Emoji": "\ud83e\udd59",
+        "ASCII Code": "129369",
+        "Hex Color": "#bfb595",
+        "Normalized Color": "#ad9e78"
+    },
+    {
+        "Emoji": "\ud83d\udc41",
+        "ASCII Code": "128065",
+        "Hex Color": "#bfb5ae",
+        "Normalized Color": "#ad9e98"
+    },
+    {
+        "Emoji": "\u26f0",
+        "ASCII Code": "9968",
+        "Hex Color": "#bfbfbf",
+        "Normalized Color": "#adabad"
+    },
+    {
+        "Emoji": "\ud83c\udf99",
+        "ASCII Code": "127897",
+        "Hex Color": "#bfc1c4",
+        "Normalized Color": "#adadb4"
+    },
+    {
+        "Emoji": "\ud83c\udfe6",
+        "ASCII Code": "127974",
+        "Hex Color": "#bfc2ad",
+        "Normalized Color": "#adaf96"
+    },
+    {
+        "Emoji": "\ud83e\ude81",
+        "ASCII Code": "129665",
+        "Hex Color": "#bfc6e0",
+        "Normalized Color": "#adb4d7"
+    },
+    {
+        "Emoji": "\ud83d\udca7",
+        "ASCII Code": "128167",
+        "Hex Color": "#bfe6f8",
+        "Normalized Color": "#addef6"
+    },
+    {
+        "Emoji": "\ud83d\ude82",
+        "ASCII Code": "128642",
+        "Hex Color": "#c0a7a1",
+        "Normalized Color": "#ae8b87"
+    },
+    {
+        "Emoji": "\ud83d\udd79",
+        "ASCII Code": "128377",
+        "Hex Color": "#c0abad",
+        "Normalized Color": "#ae9196"
+    },
+    {
+        "Emoji": "\ud83e\uddaa",
+        "ASCII Code": "129450",
+        "Hex Color": "#c0b8ad",
+        "Normalized Color": "#aea296"
+    },
+    {
+        "Emoji": "\ud83c\udfb3",
+        "ASCII Code": "127923",
+        "Hex Color": "#c0bbb9",
+        "Normalized Color": "#aea6a6"
+    },
+    {
+        "Emoji": "\ud83d\udea6",
+        "ASCII Code": "128678",
+        "Hex Color": "#c0bdb4",
+        "Normalized Color": "#aea89f"
+    },
+    {
+        "Emoji": "\u23f9",
+        "ASCII Code": "9209",
+        "Hex Color": "#c0c0c0",
+        "Normalized Color": "#aeacaf"
+    },
+    {
+        "Emoji": "\ud83d\udc32",
+        "ASCII Code": "128050",
+        "Hex Color": "#c0c781",
+        "Normalized Color": "#aeb55f"
+    },
+    {
+        "Emoji": "\ud83d\udecb",
+        "ASCII Code": "128715",
+        "Hex Color": "#c0d2e5",
+        "Normalized Color": "#aec4de"
+    },
+    {
+        "Emoji": "\u26ce",
+        "ASCII Code": "9934",
+        "Hex Color": "#c187d1",
+        "Normalized Color": "#af62c4"
+    },
+    {
+        "Emoji": "\ud83d\udee2",
+        "ASCII Code": "128738",
+        "Hex Color": "#c19696",
+        "Normalized Color": "#af7579"
+    },
+    {
+        "Emoji": "\ud83d\udd70",
+        "ASCII Code": "128368",
+        "Hex Color": "#c1aea0",
+        "Normalized Color": "#af9586"
+    },
+    {
+        "Emoji": "\ud83d\udea7",
+        "ASCII Code": "128679",
+        "Hex Color": "#c1b281",
+        "Normalized Color": "#af9a5f"
+    },
+    {
+        "Emoji": "\ud83e\uddd7",
+        "ASCII Code": "129495",
+        "Hex Color": "#c1b4a4",
+        "Normalized Color": "#af9c8b"
+    },
+    {
+        "Emoji": "\ud83d\udd75",
+        "ASCII Code": "128373",
+        "Hex Color": "#c1b69a",
+        "Normalized Color": "#af9f7e"
+    },
+    {
+        "Emoji": "\ud83d\udc00",
+        "ASCII Code": "128000",
+        "Hex Color": "#c1bdb8",
+        "Normalized Color": "#afa8a4"
+    },
+    {
+        "Emoji": "\u23ef",
+        "ASCII Code": "9199",
+        "Hex Color": "#c1c1c1",
+        "Normalized Color": "#afadb0"
+    },
+    {
+        "Emoji": "\ud83d\udce5",
+        "ASCII Code": "128229",
+        "Hex Color": "#c1c8db",
+        "Normalized Color": "#afb7d1"
+    },
+    {
+        "Emoji": "\ud83d\udce4",
+        "ASCII Code": "128228",
+        "Hex Color": "#c1c9dc",
+        "Normalized Color": "#afb8d2"
+    },
+    {
+        "Emoji": "\ud83d\udef6",
+        "ASCII Code": "128758",
+        "Hex Color": "#c1cab6",
+        "Normalized Color": "#afb9a2"
+    },
+    {
+        "Emoji": "\ud83d\udead",
+        "ASCII Code": "128685",
+        "Hex Color": "#c28e81",
+        "Normalized Color": "#b16b5f"
+    },
+    {
+        "Emoji": "\ud83d\udd07",
+        "ASCII Code": "128263",
+        "Hex Color": "#c2a5a6",
+        "Normalized Color": "#b1898e"
+    },
+    {
+        "Emoji": "\ud83c\udfdf",
+        "ASCII Code": "127967",
+        "Hex Color": "#c2ada3",
+        "Normalized Color": "#b1938a"
+    },
+    {
+        "Emoji": "\ud83e\uddd9",
+        "ASCII Code": "129497",
+        "Hex Color": "#c2bca2",
+        "Normalized Color": "#b1a789"
+    },
+    {
+        "Emoji": "\ud83d\udc6e",
+        "ASCII Code": "128110",
+        "Hex Color": "#c2bea6",
+        "Normalized Color": "#b1aa8e"
+    },
+    {
+        "Emoji": "\ud83d\udc0e",
+        "ASCII Code": "128014",
+        "Hex Color": "#c2c0b4",
+        "Normalized Color": "#b1ac9f"
+    },
+    {
+        "Emoji": "\u2712",
+        "ASCII Code": "10002",
+        "Hex Color": "#c2c2c2",
+        "Normalized Color": "#b1afb1"
+    },
+    {
+        "Emoji": "\ud83c\udfe1",
+        "ASCII Code": "127969",
+        "Hex Color": "#c2c3a6",
+        "Normalized Color": "#b1b08e"
+    },
+    {
+        "Emoji": "\ud83d\udc22",
+        "ASCII Code": "128034",
+        "Hex Color": "#c2cfb7",
+        "Normalized Color": "#b1c0a3"
+    },
+    {
+        "Emoji": "\ud83d\udd2b",
+        "ASCII Code": "128299",
+        "Hex Color": "#c2edb6",
+        "Normalized Color": "#b1e7a2"
+    },
+    {
+        "Emoji": "\ud83d\udeb7",
+        "ASCII Code": "128695",
+        "Hex Color": "#c38b7d",
+        "Normalized Color": "#b2675a"
+    },
+    {
+        "Emoji": "\ud83e\udd6d",
+        "ASCII Code": "129389",
+        "Hex Color": "#c3b074",
+        "Normalized Color": "#b2974e"
+    },
+    {
+        "Emoji": "\ud83e\uddc9",
+        "ASCII Code": "129481",
+        "Hex Color": "#c3b2aa",
+        "Normalized Color": "#b29a93"
+    },
+    {
+        "Emoji": "\ud83c\udfe4",
+        "ASCII Code": "127972",
+        "Hex Color": "#c3b6a4",
+        "Normalized Color": "#b29f8b"
+    },
+    {
+        "Emoji": "\ud83c\udfc2",
+        "ASCII Code": "127938",
+        "Hex Color": "#c3bdbb",
+        "Normalized Color": "#b2a8a8"
+    },
+    {
+        "Emoji": "\ud83c\udfdb",
+        "ASCII Code": "127963",
+        "Hex Color": "#c3beaf",
+        "Normalized Color": "#b2aa99"
+    },
+    {
+        "Emoji": "\ud83d\udcb4",
+        "ASCII Code": "128180",
+        "Hex Color": "#c3c2b7",
+        "Normalized Color": "#b2afa3"
+    },
+    {
+        "Emoji": "\ud83c\udfa4",
+        "ASCII Code": "127908",
+        "Hex Color": "#c3c4c4",
+        "Normalized Color": "#b2b1b4"
+    },
+    {
+        "Emoji": "\ud83e\udd5d",
+        "ASCII Code": "129373",
+        "Hex Color": "#c3c686",
+        "Normalized Color": "#b2b465"
+    },
+    {
+        "Emoji": "\ud83d\udeb1",
+        "ASCII Code": "128689",
+        "Hex Color": "#c48d80",
+        "Normalized Color": "#b3695d"
+    },
+    {
+        "Emoji": "\ud83e\uded8",
+        "ASCII Code": "129752",
+        "Hex Color": "#c4a09e",
+        "Normalized Color": "#b38283"
+    },
+    {
+        "Emoji": "\ud83c\udf89",
+        "ASCII Code": "127881",
+        "Hex Color": "#c4a99c",
+        "Normalized Color": "#b38e81"
+    },
+    {
+        "Emoji": "\ud83e\udeb9",
+        "ASCII Code": "129721",
+        "Hex Color": "#c4b0a2",
+        "Normalized Color": "#b39789"
+    },
+    {
+        "Emoji": "\ud83e\udd40",
+        "ASCII Code": "129344",
+        "Hex Color": "#c4b1a7",
+        "Normalized Color": "#b3998f"
+    },
+    {
+        "Emoji": "\ud83e\uddc6",
+        "ASCII Code": "129478",
+        "Hex Color": "#c4bbad",
+        "Normalized Color": "#b3a696"
+    },
+    {
+        "Emoji": "\ud83c\udf59",
+        "ASCII Code": "127833",
+        "Hex Color": "#c4c3bc",
+        "Normalized Color": "#b3b0aa"
+    },
+    {
+        "Emoji": "\ud83e\udd8f",
+        "ASCII Code": "129423",
+        "Hex Color": "#c4c3c1",
+        "Normalized Color": "#b3b0b0"
+    },
+    {
+        "Emoji": "\u26c8",
+        "ASCII Code": "9928",
+        "Hex Color": "#c4c4c4",
+        "Normalized Color": "#b3b1b4"
+    },
+    {
+        "Emoji": "\u2614",
+        "ASCII Code": "9748",
+        "Hex Color": "#c4c6ef",
+        "Normalized Color": "#b3b4ea"
+    },
+    {
+        "Emoji": "\ud83d\udc09",
+        "ASCII Code": "128009",
+        "Hex Color": "#c4d1aa",
+        "Normalized Color": "#b3c293"
+    },
+    {
+        "Emoji": "\ud83c\udf84",
+        "ASCII Code": "127876",
+        "Hex Color": "#c4d2bc",
+        "Normalized Color": "#b3c4aa"
+    },
+    {
+        "Emoji": "\ud83d\udcd5",
+        "ASCII Code": "128213",
+        "Hex Color": "#c57b79",
+        "Normalized Color": "#b55255"
+    },
+    {
+        "Emoji": "\ud83d\udc9f",
+        "ASCII Code": "128159",
+        "Hex Color": "#c590d4",
+        "Normalized Color": "#b56dc8"
+    },
+    {
+        "Emoji": "\ud83d\udeaf",
+        "ASCII Code": "128687",
+        "Hex Color": "#c59287",
+        "Normalized Color": "#b57066"
+    },
+    {
+        "Emoji": "\ud83e\udeaf",
+        "ASCII Code": "129711",
+        "Hex Color": "#c594d0",
+        "Normalized Color": "#b573c3"
+    },
+    {
+        "Emoji": "\ud83d\udeaa",
+        "ASCII Code": "128682",
+        "Hex Color": "#c5a796",
+        "Normalized Color": "#b58b79"
+    },
+    {
+        "Emoji": "\ud83d\udcc5",
+        "ASCII Code": "128197",
+        "Hex Color": "#c5abaa",
+        "Normalized Color": "#b59193"
+    },
+    {
+        "Emoji": "\ud83d\udcdc",
+        "ASCII Code": "128220",
+        "Hex Color": "#c5ac92",
+        "Normalized Color": "#b59274"
+    },
+    {
+        "Emoji": "\ud83d\udc90",
+        "ASCII Code": "128144",
+        "Hex Color": "#c5b188",
+        "Normalized Color": "#b59968"
+    },
+    {
+        "Emoji": "\ud83c\udf9e",
+        "ASCII Code": "127902",
+        "Hex Color": "#c5b7a0",
+        "Normalized Color": "#b5a086"
+    },
+    {
+        "Emoji": "\ud83e\udd65",
+        "ASCII Code": "129381",
+        "Hex Color": "#c5b7a5",
+        "Normalized Color": "#b5a08c"
+    },
+    {
+        "Emoji": "\ud83e\udd94",
+        "ASCII Code": "129428",
+        "Hex Color": "#c5b8ac",
+        "Normalized Color": "#b5a295"
+    },
+    {
+        "Emoji": "\ud83e\udeba",
+        "ASCII Code": "129722",
+        "Hex Color": "#c5beb3",
+        "Normalized Color": "#b5aa9e"
+    },
+    {
+        "Emoji": "\ud83d\ude30",
+        "ASCII Code": "128560",
+        "Hex Color": "#c5c1a7",
+        "Normalized Color": "#b5ad8f"
+    },
+    {
+        "Emoji": "\u2602",
+        "ASCII Code": "9730",
+        "Hex Color": "#c5c5c5",
+        "Normalized Color": "#b5b3b5"
+    },
+    {
+        "Emoji": "\ud83e\udd88",
+        "ASCII Code": "129416",
+        "Hex Color": "#c5cdce",
+        "Normalized Color": "#b5bdc0"
+    },
+    {
+        "Emoji": "\ud83d\udcb6",
+        "ASCII Code": "128182",
+        "Hex Color": "#c5d5c9",
+        "Normalized Color": "#b5c8ba"
+    },
+    {
+        "Emoji": "\ud83c\udf47",
+        "ASCII Code": "127815",
+        "Hex Color": "#c68ba0",
+        "Normalized Color": "#b66786"
+    },
+    {
+        "Emoji": "\ud83d\udc5e",
+        "ASCII Code": "128094",
+        "Hex Color": "#c6aba2",
+        "Normalized Color": "#b69189"
+    },
+    {
+        "Emoji": "\ud83c\udf46",
+        "ASCII Code": "127814",
+        "Hex Color": "#c6b6c1",
+        "Normalized Color": "#b69fb0"
+    },
+    {
+        "Emoji": "\ud83d\ude39",
+        "ASCII Code": "128569",
+        "Hex Color": "#c6c096",
+        "Normalized Color": "#b6ac79"
+    },
+    {
+        "Emoji": "\ud83e\udeb4",
+        "ASCII Code": "129716",
+        "Hex Color": "#c6c5a3",
+        "Normalized Color": "#b6b38a"
+    },
+    {
+        "Emoji": "\ud83d\udef9",
+        "ASCII Code": "128761",
+        "Hex Color": "#c6c6bb",
+        "Normalized Color": "#b6b4a8"
+    },
+    {
+        "Emoji": "\u27a1",
+        "ASCII Code": "10145",
+        "Hex Color": "#c6c6c6",
+        "Normalized Color": "#b6b4b6"
+    },
+    {
+        "Emoji": "\ud83c\udfb6",
+        "ASCII Code": "127926",
+        "Hex Color": "#c6c8ca",
+        "Normalized Color": "#b6b7bb"
+    },
+    {
+        "Emoji": "\ud83d\udeb2",
+        "ASCII Code": "128690",
+        "Hex Color": "#c6cbd1",
+        "Normalized Color": "#b6bbc4"
+    },
+    {
+        "Emoji": "\ud83d\ude83",
+        "ASCII Code": "128643",
+        "Hex Color": "#c6ccad",
+        "Normalized Color": "#b6bc96"
+    },
+    {
+        "Emoji": "\ud83d\udcd6",
+        "ASCII Code": "128214",
+        "Hex Color": "#c6cfd6",
+        "Normalized Color": "#b6c0ca"
+    },
+    {
+        "Emoji": "\ud83c\udfb0",
+        "ASCII Code": "127920",
+        "Hex Color": "#c7b2ab",
+        "Normalized Color": "#b79a94"
+    },
+    {
+        "Emoji": "\ud83e\udece",
+        "ASCII Code": "129742",
+        "Hex Color": "#c7b3a7",
+        "Normalized Color": "#b79b8f"
+    },
+    {
+        "Emoji": "\ud83e\udd89",
+        "ASCII Code": "129417",
+        "Hex Color": "#c7bab0",
+        "Normalized Color": "#b7a49a"
+    },
+    {
+        "Emoji": "\ud83d\ude91",
+        "ASCII Code": "128657",
+        "Hex Color": "#c7bbbf",
+        "Normalized Color": "#b7a6ad"
+    },
+    {
+        "Emoji": "\ud83d\ude95",
+        "ASCII Code": "128661",
+        "Hex Color": "#c7c099",
+        "Normalized Color": "#b7ac7d"
+    },
+    {
+        "Emoji": "\ud83e\udecf",
+        "ASCII Code": "129743",
+        "Hex Color": "#c7c6c5",
+        "Normalized Color": "#b7b4b5"
+    },
+    {
+        "Emoji": "\ud83c\udfb2",
+        "ASCII Code": "127922",
+        "Hex Color": "#c7c6c6",
+        "Normalized Color": "#b7b4b6"
+    },
+    {
+        "Emoji": "\ud83d\udd77",
+        "ASCII Code": "128375",
+        "Hex Color": "#c7c6c7",
+        "Normalized Color": "#b7b4b7"
+    },
+    {
+        "Emoji": "\u2714",
+        "ASCII Code": "10004",
+        "Hex Color": "#c7c7c7",
+        "Normalized Color": "#b7b5b7"
+    },
+    {
+        "Emoji": "\ud83d\udddc",
+        "ASCII Code": "128476",
+        "Hex Color": "#c7cccf",
+        "Normalized Color": "#b7bcc2"
+    },
+    {
+        "Emoji": "\ud83e\udd63",
+        "ASCII Code": "129379",
+        "Hex Color": "#c7d7eb",
+        "Normalized Color": "#b7cae5"
+    },
+    {
+        "Emoji": "\ud83d\udfea",
+        "ASCII Code": "129002",
+        "Hex Color": "#c85dff",
+        "Normalized Color": "#b82bff"
+    },
+    {
+        "Emoji": "\ud83d\udd2e",
+        "ASCII Code": "128302",
+        "Hex Color": "#c89fc7",
+        "Normalized Color": "#b881b7"
+    },
+    {
+        "Emoji": "\ud83c\udfed",
+        "ASCII Code": "127981",
+        "Hex Color": "#c8ad9f",
+        "Normalized Color": "#b89385"
+    },
+    {
+        "Emoji": "\ud83d\udc0c",
+        "ASCII Code": "128012",
+        "Hex Color": "#c8b29c",
+        "Normalized Color": "#b89a81"
+    },
+    {
+        "Emoji": "\ud83e\udeb0",
+        "ASCII Code": "129712",
+        "Hex Color": "#c8b29e",
+        "Normalized Color": "#b89a83"
+    },
+    {
+        "Emoji": "\ud83d\ude46",
+        "ASCII Code": "128582",
+        "Hex Color": "#c8b890",
+        "Normalized Color": "#b8a272"
+    },
+    {
+        "Emoji": "\ud83d\udc34",
+        "ASCII Code": "128052",
+        "Hex Color": "#c8bfac",
+        "Normalized Color": "#b8ab95"
+    },
+    {
+        "Emoji": "\ud83d\udecc",
+        "ASCII Code": "128716",
+        "Hex Color": "#c8c0bf",
+        "Normalized Color": "#b8acad"
+    },
+    {
+        "Emoji": "\ud83c\udfcb",
+        "ASCII Code": "127947",
+        "Hex Color": "#c8c1ad",
+        "Normalized Color": "#b8ad96"
+    },
+    {
+        "Emoji": "\ud83e\udd9d",
+        "ASCII Code": "129437",
+        "Hex Color": "#c8c4bd",
+        "Normalized Color": "#b8b1ab"
+    },
+    {
+        "Emoji": "\u2668",
+        "ASCII Code": "9832",
+        "Hex Color": "#c8c8c8",
+        "Normalized Color": "#b8b7b9"
+    },
+    {
+        "Emoji": "\ud83e\ude7a",
+        "ASCII Code": "129658",
+        "Hex Color": "#c8c8c9",
+        "Normalized Color": "#b8b7ba"
+    },
+    {
+        "Emoji": "\ud83d\udd26",
+        "ASCII Code": "128294",
+        "Hex Color": "#c8caca",
+        "Normalized Color": "#b8b9bb"
+    },
+    {
+        "Emoji": "\ud83c\udf2a",
+        "ASCII Code": "127786",
+        "Hex Color": "#c8cad1",
+        "Normalized Color": "#b8b9c4"
+    },
+    {
+        "Emoji": "\ud83c\udfa3",
+        "ASCII Code": "127907",
+        "Hex Color": "#c8d0d8",
+        "Normalized Color": "#b8c1cd"
+    },
+    {
+        "Emoji": "\ud83d\udc52",
+        "ASCII Code": "128082",
+        "Hex Color": "#c8d1a6",
+        "Normalized Color": "#b8c28e"
+    },
+    {
+        "Emoji": "\ud83d\ude92",
+        "ASCII Code": "128658",
+        "Hex Color": "#c97c7c",
+        "Normalized Color": "#ba5358"
+    },
+    {
+        "Emoji": "\ud83e\uddf6",
+        "ASCII Code": "129526",
+        "Hex Color": "#c9805a",
+        "Normalized Color": "#ba582d"
+    },
+    {
+        "Emoji": "\ud83d\udd1e",
+        "ASCII Code": "128286",
+        "Hex Color": "#c99588",
+        "Normalized Color": "#ba7468"
+    },
+    {
+        "Emoji": "\ud83c\udf06",
+        "ASCII Code": "127750",
+        "Hex Color": "#c99873",
+        "Normalized Color": "#ba784d"
+    },
+    {
+        "Emoji": "\ud83e\udda1",
+        "ASCII Code": "129441",
+        "Hex Color": "#c9c7c4",
+        "Normalized Color": "#bab5b4"
+    },
+    {
+        "Emoji": "\u26b0",
+        "ASCII Code": "9904",
+        "Hex Color": "#c9c9c9",
+        "Normalized Color": "#bab8ba"
+    },
+    {
+        "Emoji": "\ud83e\uddba",
+        "ASCII Code": "129466",
+        "Hex Color": "#ca946d",
+        "Normalized Color": "#bb7345"
+    },
+    {
+        "Emoji": "\ud83d\udece",
+        "ASCII Code": "128718",
+        "Hex Color": "#cab88b",
+        "Normalized Color": "#bba26b"
+    },
+    {
+        "Emoji": "\ud83c\udfda",
+        "ASCII Code": "127962",
+        "Hex Color": "#cab9a5",
+        "Normalized Color": "#bba38c"
+    },
+    {
+        "Emoji": "\ud83e\udd97",
+        "ASCII Code": "129431",
+        "Hex Color": "#cac0b5",
+        "Normalized Color": "#bbaca1"
+    },
+    {
+        "Emoji": "\ud83c\udfc7",
+        "ASCII Code": "127943",
+        "Hex Color": "#cac3be",
+        "Normalized Color": "#bbb0ac"
+    },
+    {
+        "Emoji": "\ud83e\uddde",
+        "ASCII Code": "129502",
+        "Hex Color": "#cac6d5",
+        "Normalized Color": "#bbb4c9"
+    },
+    {
+        "Emoji": "\ud83e\udd86",
+        "ASCII Code": "129414",
+        "Hex Color": "#cac8c3",
+        "Normalized Color": "#bbb7b2"
+    },
+    {
+        "Emoji": "\ud83e\udd9b",
+        "ASCII Code": "129435",
+        "Hex Color": "#cacac9",
+        "Normalized Color": "#bbb9ba"
+    },
+    {
+        "Emoji": "\u2639",
+        "ASCII Code": "9785",
+        "Hex Color": "#cacaca",
+        "Normalized Color": "#bbb9bb"
+    },
+    {
+        "Emoji": "\ud83d\ude85",
+        "ASCII Code": "128645",
+        "Hex Color": "#caced1",
+        "Normalized Color": "#bbbec4"
+    },
+    {
+        "Emoji": "\ud83c\udffd",
+        "ASCII Code": "127997",
+        "Hex Color": "#cbaf9a",
+        "Normalized Color": "#bc967e"
+    },
+    {
+        "Emoji": "\ud83c\udfe0",
+        "ASCII Code": "127968",
+        "Hex Color": "#cbb8ab",
+        "Normalized Color": "#bca294"
+    },
+    {
+        "Emoji": "\ud83d\udce3",
+        "ASCII Code": "128227",
+        "Hex Color": "#cbbb8e",
+        "Normalized Color": "#bca66f"
+    },
+    {
+        "Emoji": "\ud83c\udfd5",
+        "ASCII Code": "127957",
+        "Hex Color": "#cbbda7",
+        "Normalized Color": "#bca88f"
+    },
+    {
+        "Emoji": "\ud83e\ude90",
+        "ASCII Code": "129680",
+        "Hex Color": "#cbc5ac",
+        "Normalized Color": "#bcb395"
+    },
+    {
+        "Emoji": "\u2615",
+        "ASCII Code": "9749",
+        "Hex Color": "#cbc8c3",
+        "Normalized Color": "#bcb7b2"
+    },
+    {
+        "Emoji": "\u2666",
+        "ASCII Code": "9830",
+        "Hex Color": "#cbcbcb",
+        "Normalized Color": "#bcbbbd"
+    },
+    {
+        "Emoji": "\ud83e\uddf7",
+        "ASCII Code": "129527",
+        "Hex Color": "#cbcfd3",
+        "Normalized Color": "#bcc0c7"
+    },
+    {
+        "Emoji": "\ud83e\udedb",
+        "ASCII Code": "129755",
+        "Hex Color": "#cbd6c0",
+        "Normalized Color": "#bcc9af"
+    },
+    {
+        "Emoji": "\ud83d\udc20",
+        "ASCII Code": "128032",
+        "Hex Color": "#cbddbe",
+        "Normalized Color": "#bcd2ac"
+    },
+    {
+        "Emoji": "\ud83e\uddea",
+        "ASCII Code": "129514",
+        "Hex Color": "#cbe4d0",
+        "Normalized Color": "#bcdbc3"
+    },
+    {
+        "Emoji": "\ud83e\udd54",
+        "ASCII Code": "129364",
+        "Hex Color": "#ccaf8c",
+        "Normalized Color": "#bd966d"
+    },
+    {
+        "Emoji": "\ud83c\udfa1",
+        "ASCII Code": "127905",
+        "Hex Color": "#ccb0b6",
+        "Normalized Color": "#bd97a2"
+    },
+    {
+        "Emoji": "\ud83d\udd4d",
+        "ASCII Code": "128333",
+        "Hex Color": "#ccb59a",
+        "Normalized Color": "#bd9e7e"
+    },
+    {
+        "Emoji": "\ud83d\ude80",
+        "ASCII Code": "128640",
+        "Hex Color": "#ccb5ae",
+        "Normalized Color": "#bd9e98"
+    },
+    {
+        "Emoji": "\ud83d\ude28",
+        "ASCII Code": "128552",
+        "Hex Color": "#ccbf9d",
+        "Normalized Color": "#bdab82"
+    },
+    {
+        "Emoji": "\ud83c\udf02",
+        "ASCII Code": "127746",
+        "Hex Color": "#ccc2d9",
+        "Normalized Color": "#bdafce"
+    },
+    {
+        "Emoji": "\ud83e\udeb6",
+        "ASCII Code": "129718",
+        "Hex Color": "#ccc6be",
+        "Normalized Color": "#bdb4ac"
+    },
+    {
+        "Emoji": "\ud83d\udcb3",
+        "ASCII Code": "128179",
+        "Hex Color": "#ccc9b4",
+        "Normalized Color": "#bdb89f"
+    },
+    {
+        "Emoji": "\ud83d\udc04",
+        "ASCII Code": "128004",
+        "Hex Color": "#ccc9c7",
+        "Normalized Color": "#bdb8b7"
+    },
+    {
+        "Emoji": "\u2600",
+        "ASCII Code": "9728",
+        "Hex Color": "#cccccc",
+        "Normalized Color": "#bdbcbe"
+    },
+    {
+        "Emoji": "\ud83e\udd7d",
+        "ASCII Code": "129405",
+        "Hex Color": "#cccece",
+        "Normalized Color": "#bdbec0"
+    },
+    {
+        "Emoji": "\ud83d\udce1",
+        "ASCII Code": "128225",
+        "Hex Color": "#ccced0",
+        "Normalized Color": "#bdbec3"
+    },
+    {
+        "Emoji": "\ud83c\udf7d",
+        "ASCII Code": "127869",
+        "Hex Color": "#ccced1",
+        "Normalized Color": "#bdbec4"
+    },
+    {
+        "Emoji": "\u26c4",
+        "ASCII Code": "9924",
+        "Hex Color": "#cccfd0",
+        "Normalized Color": "#bdc0c3"
+    },
+    {
+        "Emoji": "\ud83d\ude84",
+        "ASCII Code": "128644",
+        "Hex Color": "#ccd1d4",
+        "Normalized Color": "#bdc2c8"
+    },
+    {
+        "Emoji": "\ud83c\udf0a",
+        "ASCII Code": "127754",
+        "Hex Color": "#ccdde6",
+        "Normalized Color": "#bdd2df"
+    },
+    {
+        "Emoji": "\ud83c\udfc8",
+        "ASCII Code": "127944",
+        "Hex Color": "#cd9a81",
+        "Normalized Color": "#bf7a5f"
+    },
+    {
+        "Emoji": "\ud83e\uded5",
+        "ASCII Code": "129749",
+        "Hex Color": "#cda9a4",
+        "Normalized Color": "#bf8e8b"
+    },
+    {
+        "Emoji": "\ud83e\udd20",
+        "ASCII Code": "129312",
+        "Hex Color": "#cdb481",
+        "Normalized Color": "#bf9c5f"
+    },
+    {
+        "Emoji": "\ud83d\udd14",
+        "ASCII Code": "128276",
+        "Hex Color": "#cdbc8b",
+        "Normalized Color": "#bfa76b"
+    },
+    {
+        "Emoji": "\ud83d\udcb7",
+        "ASCII Code": "128183",
+        "Hex Color": "#cdbfc1",
+        "Normalized Color": "#bfabb0"
+    },
+    {
+        "Emoji": "\ud83e\ude9f",
+        "ASCII Code": "129695",
+        "Hex Color": "#cdc1be",
+        "Normalized Color": "#bfadac"
+    },
+    {
+        "Emoji": "\ud83c\udf8b",
+        "ASCII Code": "127883",
+        "Hex Color": "#cdc8ab",
+        "Normalized Color": "#bfb794"
+    },
+    {
+        "Emoji": "\ud83d\udce0",
+        "ASCII Code": "128224",
+        "Hex Color": "#cdcac5",
+        "Normalized Color": "#bfb9b5"
+    },
+    {
+        "Emoji": "\u2795",
+        "ASCII Code": "10133",
+        "Hex Color": "#cdcdcd",
+        "Normalized Color": "#bfbdbf"
+    },
+    {
+        "Emoji": "\ud83e\udd9c",
+        "ASCII Code": "129436",
+        "Hex Color": "#cdd0ab",
+        "Normalized Color": "#bfc194"
+    },
+    {
+        "Emoji": "\ud83d\udce8",
+        "ASCII Code": "128232",
+        "Hex Color": "#cdd3d9",
+        "Normalized Color": "#bfc5ce"
+    },
+    {
+        "Emoji": "\ud83d\udcc9",
+        "ASCII Code": "128201",
+        "Hex Color": "#cdd9e7",
+        "Normalized Color": "#bfcde0"
+    },
+    {
+        "Emoji": "\ud83d\udc5c",
+        "ASCII Code": "128092",
+        "Hex Color": "#ceb4a3",
+        "Normalized Color": "#c09c8a"
+    },
+    {
+        "Emoji": "\ud83d\ude49",
+        "ASCII Code": "128585",
+        "Hex Color": "#ceb89b",
+        "Normalized Color": "#c0a280"
+    },
+    {
+        "Emoji": "\ud83d\udc12",
+        "ASCII Code": "128018",
+        "Hex Color": "#cebba3",
+        "Normalized Color": "#c0a68a"
+    },
+    {
+        "Emoji": "\ud83c\udf8f",
+        "ASCII Code": "127887",
+        "Hex Color": "#cec0b3",
+        "Normalized Color": "#c0ac9e"
+    },
+    {
+        "Emoji": "\ud83e\ude87",
+        "ASCII Code": "129671",
+        "Hex Color": "#cec2a6",
+        "Normalized Color": "#c0af8e"
+    },
+    {
+        "Emoji": "\ud83e\udddc",
+        "ASCII Code": "129500",
+        "Hex Color": "#cec3ba",
+        "Normalized Color": "#c0b0a7"
+    },
+    {
+        "Emoji": "\ud83e\udd2e",
+        "ASCII Code": "129326",
+        "Hex Color": "#cec973",
+        "Normalized Color": "#c0b84d"
+    },
+    {
+        "Emoji": "\ud83e\udded",
+        "ASCII Code": "129517",
+        "Hex Color": "#cecbce",
+        "Normalized Color": "#c0bbc0"
+    },
+    {
+        "Emoji": "\u00ae",
+        "ASCII Code": "174",
+        "Hex Color": "#cecece",
+        "Normalized Color": "#c0bec0"
+    },
+    {
+        "Emoji": "\ud83c\udf01",
+        "ASCII Code": "127745",
+        "Hex Color": "#ced6de",
+        "Normalized Color": "#c0c9d5"
+    },
+    {
+        "Emoji": "\ud83e\udd6e",
+        "ASCII Code": "129390",
+        "Hex Color": "#cf8c5a",
+        "Normalized Color": "#c1682d"
+    },
+    {
+        "Emoji": "\u26fd",
+        "ASCII Code": "9981",
+        "Hex Color": "#cf9497",
+        "Normalized Color": "#c1737b"
+    },
+    {
+        "Emoji": "\ud83d\udc45",
+        "ASCII Code": "128069",
+        "Hex Color": "#cf9ca5",
+        "Normalized Color": "#c17d8c"
+    },
+    {
+        "Emoji": "\ud83e\udd5c",
+        "ASCII Code": "129372",
+        "Hex Color": "#cfb388",
+        "Normalized Color": "#c19b68"
+    },
+    {
+        "Emoji": "\ud83e\udd78",
+        "ASCII Code": "129400",
+        "Hex Color": "#cfb476",
+        "Normalized Color": "#c19c51"
+    },
+    {
+        "Emoji": "\ud83d\udc6c",
+        "ASCII Code": "128108",
+        "Hex Color": "#cfba9f",
+        "Normalized Color": "#c1a485"
+    },
+    {
+        "Emoji": "\ud83d\udedf",
+        "ASCII Code": "128735",
+        "Hex Color": "#cfbab1",
+        "Normalized Color": "#c1a49c"
+    },
+    {
+        "Emoji": "\ud83d\udca9",
+        "ASCII Code": "128169",
+        "Hex Color": "#cfbdb1",
+        "Normalized Color": "#c1a89c"
+    },
+    {
+        "Emoji": "\ud83e\udd39",
+        "ASCII Code": "129337",
+        "Hex Color": "#cfc7ac",
+        "Normalized Color": "#c1b595"
+    },
+    {
+        "Emoji": "\ud83d\udc2d",
+        "ASCII Code": "128045",
+        "Hex Color": "#cfc9ce",
+        "Normalized Color": "#c1b8c0"
+    },
+    {
+        "Emoji": "\ud83d\uddde",
+        "ASCII Code": "128478",
+        "Hex Color": "#cfcece",
+        "Normalized Color": "#c1bec0"
+    },
+    {
+        "Emoji": "\ud83c\udf50",
+        "ASCII Code": "127824",
+        "Hex Color": "#cfd094",
+        "Normalized Color": "#c1c177"
+    },
+    {
+        "Emoji": "\ud83d\udce2",
+        "ASCII Code": "128226",
+        "Hex Color": "#cfd0d1",
+        "Normalized Color": "#c1c1c4"
+    },
+    {
+        "Emoji": "\ud83d\udc53",
+        "ASCII Code": "128083",
+        "Hex Color": "#cfd3d1",
+        "Normalized Color": "#c1c5c4"
+    },
+    {
+        "Emoji": "\ud83d\udee9",
+        "ASCII Code": "128745",
+        "Hex Color": "#cfd3d7",
+        "Normalized Color": "#c1c5cc"
+    },
+    {
+        "Emoji": "\ud83d\udd15",
+        "ASCII Code": "128277",
+        "Hex Color": "#d0a47e",
+        "Normalized Color": "#c3885b"
+    },
+    {
+        "Emoji": "\ud83d\udc83",
+        "ASCII Code": "128131",
+        "Hex Color": "#d0a995",
+        "Normalized Color": "#c38e78"
+    },
+    {
+        "Emoji": "\ud83d\udc35",
+        "ASCII Code": "128053",
+        "Hex Color": "#d0ba9f",
+        "Normalized Color": "#c3a485"
+    },
+    {
+        "Emoji": "\ud83c\udfbb",
+        "ASCII Code": "127931",
+        "Hex Color": "#d0bdad",
+        "Normalized Color": "#c3a896"
+    },
+    {
+        "Emoji": "\ud83d\ude31",
+        "ASCII Code": "128561",
+        "Hex Color": "#d0c1a5",
+        "Normalized Color": "#c3ad8c"
+    },
+    {
+        "Emoji": "\ud83d\udc7b",
+        "ASCII Code": "128123",
+        "Hex Color": "#d0cbce",
+        "Normalized Color": "#c3bbc0"
+    },
+    {
+        "Emoji": "\ud83d\udea1",
+        "ASCII Code": "128673",
+        "Hex Color": "#d0cebe",
+        "Normalized Color": "#c3beac"
+    },
+    {
+        "Emoji": "\ud83c\udf6d",
+        "ASCII Code": "127853",
+        "Hex Color": "#d0cec1",
+        "Normalized Color": "#c3beb0"
+    },
+    {
+        "Emoji": "\ud83e\uddbd",
+        "ASCII Code": "129469",
+        "Hex Color": "#d0d0d0",
+        "Normalized Color": "#c3c1c3"
+    },
+    {
+        "Emoji": "\ud83d\udc0d",
+        "ASCII Code": "128013",
+        "Hex Color": "#d0d7b8",
+        "Normalized Color": "#c3caa4"
+    },
+    {
+        "Emoji": "\ud83d\udc0b",
+        "ASCII Code": "128011",
+        "Hex Color": "#d0dfe5",
+        "Normalized Color": "#c3d5de"
+    },
+    {
+        "Emoji": "\ud83d\udc9c",
+        "ASCII Code": "128156",
+        "Hex Color": "#d190f7",
+        "Normalized Color": "#c46df4"
+    },
+    {
+        "Emoji": "\ud83d\udc19",
+        "ASCII Code": "128025",
+        "Hex Color": "#d1919b",
+        "Normalized Color": "#c46f80"
+    },
+    {
+        "Emoji": "\ud83d\ude9a",
+        "ASCII Code": "128666",
+        "Hex Color": "#d1a47c",
+        "Normalized Color": "#c48858"
+    },
+    {
+        "Emoji": "\ud83c\udf6a",
+        "ASCII Code": "127850",
+        "Hex Color": "#d1b18b",
+        "Normalized Color": "#c4996b"
+    },
+    {
+        "Emoji": "\ud83e\uddef",
+        "ASCII Code": "129519",
+        "Hex Color": "#d1b8b7",
+        "Normalized Color": "#c4a2a3"
+    },
+    {
+        "Emoji": "\ud83d\udc02",
+        "ASCII Code": "128002",
+        "Hex Color": "#d1beb1",
+        "Normalized Color": "#c4aa9c"
+    },
+    {
+        "Emoji": "\ud83d\udecf",
+        "ASCII Code": "128719",
+        "Hex Color": "#d1c8c7",
+        "Normalized Color": "#c4b7b7"
+    },
+    {
+        "Emoji": "\ud83e\udd51",
+        "ASCII Code": "129361",
+        "Hex Color": "#d1cb9a",
+        "Normalized Color": "#c4bb7e"
+    },
+    {
+        "Emoji": "\ud83d\udc1b",
+        "ASCII Code": "128027",
+        "Hex Color": "#d1d0b1",
+        "Normalized Color": "#c4c19c"
+    },
+    {
+        "Emoji": "\u2638",
+        "ASCII Code": "9784",
+        "Hex Color": "#d1d1d1",
+        "Normalized Color": "#c4c2c4"
+    },
+    {
+        "Emoji": "\ud83d\udd8a",
+        "ASCII Code": "128394",
+        "Hex Color": "#d1d2d4",
+        "Normalized Color": "#c4c4c8"
+    },
+    {
+        "Emoji": "\ud83c\udfa2",
+        "ASCII Code": "127906",
+        "Hex Color": "#d1d4ba",
+        "Normalized Color": "#c4c6a7"
+    },
+    {
+        "Emoji": "\ud83d\udef8",
+        "ASCII Code": "128760",
+        "Hex Color": "#d1d8d9",
+        "Normalized Color": "#c4ccce"
+    },
+    {
+        "Emoji": "\ud83c\udf43",
+        "ASCII Code": "127811",
+        "Hex Color": "#d1dfbf",
+        "Normalized Color": "#c4d5ad"
+    },
+    {
+        "Emoji": "\ud83e\uddda",
+        "ASCII Code": "129498",
+        "Hex Color": "#d1e4c8",
+        "Normalized Color": "#c4dbb9"
+    },
+    {
+        "Emoji": "\ud83e\uddf0",
+        "ASCII Code": "129520",
+        "Hex Color": "#d28886",
+        "Normalized Color": "#c56365"
+    },
+    {
+        "Emoji": "\ud83e\udd43",
+        "ASCII Code": "129347",
+        "Hex Color": "#d2b89d",
+        "Normalized Color": "#c5a282"
+    },
+    {
+        "Emoji": "\ud83c\udf08",
+        "ASCII Code": "127752",
+        "Hex Color": "#d2b8a6",
+        "Normalized Color": "#c5a28e"
+    },
+    {
+        "Emoji": "\ud83e\uddf8",
+        "ASCII Code": "129528",
+        "Hex Color": "#d2b996",
+        "Normalized Color": "#c5a379"
+    },
+    {
+        "Emoji": "\ud83c\udffa",
+        "ASCII Code": "127994",
+        "Hex Color": "#d2baab",
+        "Normalized Color": "#c5a494"
+    },
+    {
+        "Emoji": "\ud83d\udcb8",
+        "ASCII Code": "128184",
+        "Hex Color": "#d2cfbf",
+        "Normalized Color": "#c5c0ad"
+    },
+    {
+        "Emoji": "\ud83e\ude85",
+        "ASCII Code": "129669",
+        "Hex Color": "#d2d0c3",
+        "Normalized Color": "#c5c1b2"
+    },
+    {
+        "Emoji": "\u23f8",
+        "ASCII Code": "9208",
+        "Hex Color": "#d2d2d2",
+        "Normalized Color": "#c5c4c5"
+    },
+    {
+        "Emoji": "\ud83d\udd29",
+        "ASCII Code": "128297",
+        "Hex Color": "#d2d3d6",
+        "Normalized Color": "#c5c5ca"
+    },
+    {
+        "Emoji": "\ud83d\udd2c",
+        "ASCII Code": "128300",
+        "Hex Color": "#d2d6d8",
+        "Normalized Color": "#c5c9cd"
+    },
+    {
+        "Emoji": "\u26f2",
+        "ASCII Code": "9970",
+        "Hex Color": "#d2dedf",
+        "Normalized Color": "#c5d3d6"
+    },
+    {
+        "Emoji": "\ud83d\udc7a",
+        "ASCII Code": "128122",
+        "Hex Color": "#d3958f",
+        "Normalized Color": "#c67470"
+    },
+    {
+        "Emoji": "\ud83e\udd2c",
+        "ASCII Code": "129324",
+        "Hex Color": "#d3a178",
+        "Normalized Color": "#c68453"
+    },
+    {
+        "Emoji": "\ud83c\udf52",
+        "ASCII Code": "127826",
+        "Hex Color": "#d3a9a0",
+        "Normalized Color": "#c68e86"
+    },
+    {
+        "Emoji": "\ud83d\udef7",
+        "ASCII Code": "128759",
+        "Hex Color": "#d3a9a8",
+        "Normalized Color": "#c68e90"
+    },
+    {
+        "Emoji": "\ud83e\ude94",
+        "ASCII Code": "129684",
+        "Hex Color": "#d3afa4",
+        "Normalized Color": "#c6968b"
+    },
+    {
+        "Emoji": "\ud83e\udea4",
+        "ASCII Code": "129700",
+        "Hex Color": "#d3ba9c",
+        "Normalized Color": "#c6a481"
+    },
+    {
+        "Emoji": "\ud83c\udf2f",
+        "ASCII Code": "127791",
+        "Hex Color": "#d3ccc3",
+        "Normalized Color": "#c6bcb2"
+    },
+    {
+        "Emoji": "\ud83e\udeb7",
+        "ASCII Code": "129719",
+        "Hex Color": "#d3cec0",
+        "Normalized Color": "#c6beaf"
+    },
+    {
+        "Emoji": "\u00a9",
+        "ASCII Code": "169",
+        "Hex Color": "#d3d3d3",
+        "Normalized Color": "#c6c5c7"
+    },
+    {
+        "Emoji": "\ud83c\udf72",
+        "ASCII Code": "127858",
+        "Hex Color": "#d3d4cb",
+        "Normalized Color": "#c6c6bd"
+    },
+    {
+        "Emoji": "\ud83d\udd8c",
+        "ASCII Code": "128396",
+        "Hex Color": "#d3d4e0",
+        "Normalized Color": "#c6c6d7"
+    },
+    {
+        "Emoji": "\ud83e\udec3",
+        "ASCII Code": "129731",
+        "Hex Color": "#d3d6d1",
+        "Normalized Color": "#c6c9c4"
+    },
+    {
+        "Emoji": "\ud83e\udd8e",
+        "ASCII Code": "129422",
+        "Hex Color": "#d3e2cf",
+        "Normalized Color": "#c6d9c2"
+    },
+    {
+        "Emoji": "\ud83e\udead",
+        "ASCII Code": "129709",
+        "Hex Color": "#d48991",
+        "Normalized Color": "#c86473"
+    },
+    {
+        "Emoji": "\ud83c\udf81",
+        "ASCII Code": "127873",
+        "Hex Color": "#d48b5d",
+        "Normalized Color": "#c86731"
+    },
+    {
+        "Emoji": "\ud83d\udea2",
+        "ASCII Code": "128674",
+        "Hex Color": "#d4bfbb",
+        "Normalized Color": "#c8aba8"
+    },
+    {
+        "Emoji": "\ud83d\ude07",
+        "ASCII Code": "128519",
+        "Hex Color": "#d4c187",
+        "Normalized Color": "#c8ad66"
+    },
+    {
+        "Emoji": "\ud83d\udc6f",
+        "ASCII Code": "128111",
+        "Hex Color": "#d4c29a",
+        "Normalized Color": "#c8af7e"
+    },
+    {
+        "Emoji": "\ud83c\udf0b",
+        "ASCII Code": "127755",
+        "Hex Color": "#d4c5b9",
+        "Normalized Color": "#c8b3a6"
+    },
+    {
+        "Emoji": "\ud83c\udf14",
+        "ASCII Code": "127764",
+        "Hex Color": "#d4c77b",
+        "Normalized Color": "#c8b557"
+    },
+    {
+        "Emoji": "\ud83d\udc1a",
+        "ASCII Code": "128026",
+        "Hex Color": "#d4cdcd",
+        "Normalized Color": "#c8bdbf"
+    },
+    {
+        "Emoji": "\ud83e\uddbc",
+        "ASCII Code": "129468",
+        "Hex Color": "#d4d0d0",
+        "Normalized Color": "#c8c1c3"
+    },
+    {
+        "Emoji": "\ud83d\udc0f",
+        "ASCII Code": "128015",
+        "Hex Color": "#d4d1ca",
+        "Normalized Color": "#c8c2bb"
+    },
+    {
+        "Emoji": "\u2702",
+        "ASCII Code": "9986",
+        "Hex Color": "#d4d4d4",
+        "Normalized Color": "#c8c6c8"
+    },
+    {
+        "Emoji": "\ud83d\udd28",
+        "ASCII Code": "128296",
+        "Hex Color": "#d4d4d5",
+        "Normalized Color": "#c8c6c9"
+    },
+    {
+        "Emoji": "\ud83d\udca8",
+        "ASCII Code": "128168",
+        "Hex Color": "#d4dfeb",
+        "Normalized Color": "#c8d5e5"
+    },
+    {
+        "Emoji": "\ud83e\udde8",
+        "ASCII Code": "129512",
+        "Hex Color": "#d5857e",
+        "Normalized Color": "#c95f5b"
+    },
+    {
+        "Emoji": "\ud83d\udc60",
+        "ASCII Code": "128096",
+        "Hex Color": "#d5a8a3",
+        "Normalized Color": "#c98d8a"
+    },
+    {
+        "Emoji": "\ud83d\udcd9",
+        "ASCII Code": "128217",
+        "Hex Color": "#d5a968",
+        "Normalized Color": "#c98e3f"
+    },
+    {
+        "Emoji": "\ud83e\udd82",
+        "ASCII Code": "129410",
+        "Hex Color": "#d5bda1",
+        "Normalized Color": "#c9a887"
+    },
+    {
+        "Emoji": "\ud83d\udc6a",
+        "ASCII Code": "128106",
+        "Hex Color": "#d5be87",
+        "Normalized Color": "#c9aa66"
+    },
+    {
+        "Emoji": "\ud83d\udcff",
+        "ASCII Code": "128255",
+        "Hex Color": "#d5c1c2",
+        "Normalized Color": "#c9adb1"
+    },
+    {
+        "Emoji": "\ud83d\udd7a",
+        "ASCII Code": "128378",
+        "Hex Color": "#d5c3cc",
+        "Normalized Color": "#c9b0be"
+    },
+    {
+        "Emoji": "\ud83d\udc2f",
+        "ASCII Code": "128047",
+        "Hex Color": "#d5c783",
+        "Normalized Color": "#c9b561"
+    },
+    {
+        "Emoji": "\ud83c\udfa0",
+        "ASCII Code": "127904",
+        "Hex Color": "#d5ccc2",
+        "Normalized Color": "#c9bcb1"
+    },
+    {
+        "Emoji": "\ud83d\udc10",
+        "ASCII Code": "128016",
+        "Hex Color": "#d5cdc4",
+        "Normalized Color": "#c9bdb4"
+    },
+    {
+        "Emoji": "\ud83d\udcb5",
+        "ASCII Code": "128181",
+        "Hex Color": "#d5cfb5",
+        "Normalized Color": "#c9c0a1"
+    },
+    {
+        "Emoji": "\ud83e\uddfb",
+        "ASCII Code": "129531",
+        "Hex Color": "#d5d3cd",
+        "Normalized Color": "#c9c5bf"
+    },
+    {
+        "Emoji": "\u2618",
+        "ASCII Code": "9752",
+        "Hex Color": "#d5d5d5",
+        "Normalized Color": "#c9c8c9"
+    },
+    {
+        "Emoji": "\ud83d\udd8b",
+        "ASCII Code": "128395",
+        "Hex Color": "#d5d6d7",
+        "Normalized Color": "#c9c9cc"
+    },
+    {
+        "Emoji": "\ud83d\udd17",
+        "ASCII Code": "128279",
+        "Hex Color": "#d5d6d9",
+        "Normalized Color": "#c9c9ce"
+    },
+    {
+        "Emoji": "\ud83d\udee5",
+        "ASCII Code": "128741",
+        "Hex Color": "#d5dcdf",
+        "Normalized Color": "#c9d1d6"
+    },
+    {
+        "Emoji": "\ud83d\udeec",
+        "ASCII Code": "128748",
+        "Hex Color": "#d5dde7",
+        "Normalized Color": "#c9d2e0"
+    },
+    {
+        "Emoji": "\ud83c\udfbe",
+        "ASCII Code": "127934",
+        "Hex Color": "#d5e370",
+        "Normalized Color": "#c9da49"
+    },
+    {
+        "Emoji": "\ud83c\udf39",
+        "ASCII Code": "127801",
+        "Hex Color": "#d68d89",
+        "Normalized Color": "#ca6969"
+    },
+    {
+        "Emoji": "\ud83c\udfc0",
+        "ASCII Code": "127936",
+        "Hex Color": "#d6966f",
+        "Normalized Color": "#ca7548"
+    },
+    {
+        "Emoji": "\ud83e\udd91",
+        "ASCII Code": "129425",
+        "Hex Color": "#d69a8f",
+        "Normalized Color": "#ca7a70"
+    },
+    {
+        "Emoji": "\ud83c\udf53",
+        "ASCII Code": "127827",
+        "Hex Color": "#d69c91",
+        "Normalized Color": "#ca7d73"
+    },
+    {
+        "Emoji": "\ud83d\ude97",
+        "ASCII Code": "128663",
+        "Hex Color": "#d6a09f",
+        "Normalized Color": "#ca8285"
+    },
+    {
+        "Emoji": "\ud83c\udf05",
+        "ASCII Code": "127749",
+        "Hex Color": "#d6aa86",
+        "Normalized Color": "#ca8f65"
+    },
+    {
+        "Emoji": "\ud83c\udfe8",
+        "ASCII Code": "127976",
+        "Hex Color": "#d6b9a9",
+        "Normalized Color": "#caa391"
+    },
+    {
+        "Emoji": "\ud83d\ude0e",
+        "ASCII Code": "128526",
+        "Hex Color": "#d6ba79",
+        "Normalized Color": "#caa455"
+    },
+    {
+        "Emoji": "\ud83e\uddeb",
+        "ASCII Code": "129515",
+        "Hex Color": "#d6becb",
+        "Normalized Color": "#caaabd"
+    },
+    {
+        "Emoji": "\ud83d\ude48",
+        "ASCII Code": "128584",
+        "Hex Color": "#d6c0a8",
+        "Normalized Color": "#caac90"
+    },
+    {
+        "Emoji": "\ud83d\ude4a",
+        "ASCII Code": "128586",
+        "Hex Color": "#d6c1a8",
+        "Normalized Color": "#caad90"
+    },
+    {
+        "Emoji": "\ud83d\ude3f",
+        "ASCII Code": "128575",
+        "Hex Color": "#d6c68f",
+        "Normalized Color": "#cab470"
+    },
+    {
+        "Emoji": "\ud83e\udd31",
+        "ASCII Code": "129329",
+        "Hex Color": "#d6c8ab",
+        "Normalized Color": "#cab794"
+    },
+    {
+        "Emoji": "\ud83d\udd10",
+        "ASCII Code": "128272",
+        "Hex Color": "#d6c99e",
+        "Normalized Color": "#cab883"
+    },
+    {
+        "Emoji": "\ud83c\udf4b",
+        "ASCII Code": "127819",
+        "Hex Color": "#d6ca80",
+        "Normalized Color": "#cab95d"
+    },
+    {
+        "Emoji": "\ud83e\udde6",
+        "ASCII Code": "129510",
+        "Hex Color": "#d6cec4",
+        "Normalized Color": "#cabeb4"
+    },
+    {
+        "Emoji": "\ud83d\udef3",
+        "ASCII Code": "128755",
+        "Hex Color": "#d6cfd1",
+        "Normalized Color": "#cac0c4"
+    },
+    {
+        "Emoji": "\ud83e\udeaa",
+        "ASCII Code": "129706",
+        "Hex Color": "#d6d2ca",
+        "Normalized Color": "#cac4bb"
+    },
+    {
+        "Emoji": "\ud83e\uddad",
+        "ASCII Code": "129453",
+        "Hex Color": "#d6d5d4",
+        "Normalized Color": "#cac8c8"
+    },
+    {
+        "Emoji": "\u2693",
+        "ASCII Code": "9875",
+        "Hex Color": "#d6d6d8",
+        "Normalized Color": "#cac9cd"
+    },
+    {
+        "Emoji": "\ud83e\udd7f",
+        "ASCII Code": "129407",
+        "Hex Color": "#d6dce4",
+        "Normalized Color": "#cad1dc"
+    },
+    {
+        "Emoji": "\ud83c\udf54",
+        "ASCII Code": "127828",
+        "Hex Color": "#d7a976",
+        "Normalized Color": "#cc8e51"
+    },
+    {
+        "Emoji": "\ud83c\udfe9",
+        "ASCII Code": "127977",
+        "Hex Color": "#d7adbe",
+        "Normalized Color": "#cc93ac"
+    },
+    {
+        "Emoji": "\ud83e\ude82",
+        "ASCII Code": "129666",
+        "Hex Color": "#d7b7a4",
+        "Normalized Color": "#cca08b"
+    },
+    {
+        "Emoji": "\ud83e\udd49",
+        "ASCII Code": "129353",
+        "Hex Color": "#d7b9aa",
+        "Normalized Color": "#cca393"
+    },
+    {
+        "Emoji": "\ud83e\udd60",
+        "ASCII Code": "129376",
+        "Hex Color": "#d7bf98",
+        "Normalized Color": "#ccab7c"
+    },
+    {
+        "Emoji": "\ud83d\udc6b",
+        "ASCII Code": "128107",
+        "Hex Color": "#d7bf9c",
+        "Normalized Color": "#ccab81"
+    },
+    {
+        "Emoji": "\ud83d\ude38",
+        "ASCII Code": "128568",
+        "Hex Color": "#d7c087",
+        "Normalized Color": "#ccac66"
+    },
+    {
+        "Emoji": "\ud83c\udfa8",
+        "ASCII Code": "127912",
+        "Hex Color": "#d7c097",
+        "Normalized Color": "#ccac7b"
+    },
+    {
+        "Emoji": "\ud83d\udc15",
+        "ASCII Code": "128021",
+        "Hex Color": "#d7c1ab",
+        "Normalized Color": "#ccad94"
+    },
+    {
+        "Emoji": "\ud83c\udc04",
+        "ASCII Code": "126980",
+        "Hex Color": "#d7c2b5",
+        "Normalized Color": "#ccafa1"
+    },
+    {
+        "Emoji": "\ud83d\ude47",
+        "ASCII Code": "128583",
+        "Hex Color": "#d7c7a1",
+        "Normalized Color": "#ccb587"
+    },
+    {
+        "Emoji": "\ud83c\udf16",
+        "ASCII Code": "127766",
+        "Hex Color": "#d7c876",
+        "Normalized Color": "#ccb751"
+    },
+    {
+        "Emoji": "\ud83c\udfe3",
+        "ASCII Code": "127971",
+        "Hex Color": "#d7c8ba",
+        "Normalized Color": "#ccb7a7"
+    },
+    {
+        "Emoji": "\ud83d\udef5",
+        "ASCII Code": "128757",
+        "Hex Color": "#d7caab",
+        "Normalized Color": "#ccb994"
+    },
+    {
+        "Emoji": "\u23f3",
+        "ASCII Code": "9203",
+        "Hex Color": "#d7d0ca",
+        "Normalized Color": "#ccc1bb"
+    },
+    {
+        "Emoji": "\ud83d\udddd",
+        "ASCII Code": "128477",
+        "Hex Color": "#d7d6d6",
+        "Normalized Color": "#ccc9ca"
+    },
+    {
+        "Emoji": "\u2049",
+        "ASCII Code": "8265",
+        "Hex Color": "#d7d7d7",
+        "Normalized Color": "#cccacc"
+    },
+    {
+        "Emoji": "\ud83e\uded6",
+        "ASCII Code": "129750",
+        "Hex Color": "#d7dadd",
+        "Normalized Color": "#ccced3"
+    },
+    {
+        "Emoji": "\ud83c\udfd4",
+        "ASCII Code": "127956",
+        "Hex Color": "#d7dbd6",
+        "Normalized Color": "#cccfca"
+    },
+    {
+        "Emoji": "\ud83c\udf45",
+        "ASCII Code": "127813",
+        "Hex Color": "#d88a6c",
+        "Normalized Color": "#cd6644"
+    },
+    {
+        "Emoji": "\ud83d\ude3a",
+        "ASCII Code": "128570",
+        "Hex Color": "#d8c189",
+        "Normalized Color": "#cdad69"
+    },
+    {
+        "Emoji": "\ud83c\udf3b",
+        "ASCII Code": "127803",
+        "Hex Color": "#d8c272",
+        "Normalized Color": "#cdaf4c"
+    },
+    {
+        "Emoji": "\ud83e\ude98",
+        "ASCII Code": "129688",
+        "Hex Color": "#d8cabb",
+        "Normalized Color": "#cdb9a8"
+    },
+    {
+        "Emoji": "\ud83d\udc88",
+        "ASCII Code": "128136",
+        "Hex Color": "#d8cadc",
+        "Normalized Color": "#cdb9d2"
+    },
+    {
+        "Emoji": "\ud83d\ude8f",
+        "ASCII Code": "128655",
+        "Hex Color": "#d8d6d9",
+        "Normalized Color": "#cdc9ce"
+    },
+    {
+        "Emoji": "\u23f1",
+        "ASCII Code": "9201",
+        "Hex Color": "#d8d8d8",
+        "Normalized Color": "#cdcccd"
+    },
+    {
+        "Emoji": "\ud83d\udd0d",
+        "ASCII Code": "128269",
+        "Hex Color": "#d8d9db",
+        "Normalized Color": "#cdcdd1"
+    },
+    {
+        "Emoji": "\ud83d\udc80",
+        "ASCII Code": "128128",
+        "Hex Color": "#d8dadb",
+        "Normalized Color": "#cdced1"
+    },
+    {
+        "Emoji": "\ud83d\udef4",
+        "ASCII Code": "128756",
+        "Hex Color": "#d8dadc",
+        "Normalized Color": "#cdced2"
+    },
+    {
+        "Emoji": "\ud83d\udd87",
+        "ASCII Code": "128391",
+        "Hex Color": "#d8dadd",
+        "Normalized Color": "#cdced3"
+    },
+    {
+        "Emoji": "\ud83c\udfdd",
+        "ASCII Code": "127965",
+        "Hex Color": "#d8dfc0",
+        "Normalized Color": "#cdd5af"
+    },
+    {
+        "Emoji": "\ud83c\udf3a",
+        "ASCII Code": "127802",
+        "Hex Color": "#d97581",
+        "Normalized Color": "#ce4a5f"
+    },
+    {
+        "Emoji": "\ud83e\udd80",
+        "ASCII Code": "129408",
+        "Hex Color": "#d9927f",
+        "Normalized Color": "#ce705c"
+    },
+    {
+        "Emoji": "\ud83e\udd8a",
+        "ASCII Code": "129418",
+        "Hex Color": "#d9a16d",
+        "Normalized Color": "#ce8445"
+    },
+    {
+        "Emoji": "\ud83e\udd81",
+        "ASCII Code": "129409",
+        "Hex Color": "#d9ab66",
+        "Normalized Color": "#ce913c"
+    },
+    {
+        "Emoji": "\ud83e\udd3c",
+        "ASCII Code": "129340",
+        "Hex Color": "#d9bf92",
+        "Normalized Color": "#ceab74"
+    },
+    {
+        "Emoji": "\ud83d\ude3e",
+        "ASCII Code": "128574",
+        "Hex Color": "#d9c184",
+        "Normalized Color": "#cead62"
+    },
+    {
+        "Emoji": "\ud83d\ude40",
+        "ASCII Code": "128576",
+        "Hex Color": "#d9c38c",
+        "Normalized Color": "#ceb06d"
+    },
+    {
+        "Emoji": "\ud83c\udf2e",
+        "ASCII Code": "127790",
+        "Hex Color": "#d9c58d",
+        "Normalized Color": "#ceb36e"
+    },
+    {
+        "Emoji": "\ud83e\ude91",
+        "ASCII Code": "129681",
+        "Hex Color": "#d9c5bb",
+        "Normalized Color": "#ceb3a8"
+    },
+    {
+        "Emoji": "\ud83e\udda4",
+        "ASCII Code": "129444",
+        "Hex Color": "#d9c6b5",
+        "Normalized Color": "#ceb4a1"
+    },
+    {
+        "Emoji": "\ud83d\udeb8",
+        "ASCII Code": "128696",
+        "Hex Color": "#d9c87f",
+        "Normalized Color": "#ceb75c"
+    },
+    {
+        "Emoji": "\ud83d\udc36",
+        "ASCII Code": "128054",
+        "Hex Color": "#d9cab7",
+        "Normalized Color": "#ceb9a3"
+    },
+    {
+        "Emoji": "\ud83d\udcb0",
+        "ASCII Code": "128176",
+        "Hex Color": "#d9cbae",
+        "Normalized Color": "#cebb98"
+    },
+    {
+        "Emoji": "\ud83d\udc51",
+        "ASCII Code": "128081",
+        "Hex Color": "#d9cc95",
+        "Normalized Color": "#cebc78"
+    },
+    {
+        "Emoji": "\u26be",
+        "ASCII Code": "9918",
+        "Hex Color": "#d9ceca",
+        "Normalized Color": "#cebebb"
+    },
+    {
+        "Emoji": "\ud83d\udcc0",
+        "ASCII Code": "128192",
+        "Hex Color": "#d9d0b1",
+        "Normalized Color": "#cec19c"
+    },
+    {
+        "Emoji": "\ud83e\udd61",
+        "ASCII Code": "129377",
+        "Hex Color": "#d9d5d6",
+        "Normalized Color": "#cec8ca"
+    },
+    {
+        "Emoji": "\ud83d\udeac",
+        "ASCII Code": "128684",
+        "Hex Color": "#d9d7d5",
+        "Normalized Color": "#cecac9"
+    },
+    {
+        "Emoji": "\ud83d\udc11",
+        "ASCII Code": "128017",
+        "Hex Color": "#d9d8d2",
+        "Normalized Color": "#ceccc5"
+    },
+    {
+        "Emoji": "\ud83c\udf5a",
+        "ASCII Code": "127834",
+        "Hex Color": "#d9d8d5",
+        "Normalized Color": "#ceccc9"
+    },
+    {
+        "Emoji": "\ud83d\udcc3",
+        "ASCII Code": "128195",
+        "Hex Color": "#d9d8d8",
+        "Normalized Color": "#cecccd"
+    },
+    {
+        "Emoji": "\ud83d\udcbf",
+        "ASCII Code": "128191",
+        "Hex Color": "#d9d9d7",
+        "Normalized Color": "#cecdcc"
+    },
+    {
+        "Emoji": "\u270f",
+        "ASCII Code": "9999",
+        "Hex Color": "#d9d9d9",
+        "Normalized Color": "#cecdce"
+    },
+    {
+        "Emoji": "\ud83d\udd27",
+        "ASCII Code": "128295",
+        "Hex Color": "#d9d9db",
+        "Normalized Color": "#cecdd1"
+    },
+    {
+        "Emoji": "\ud83d\udcd1",
+        "ASCII Code": "128209",
+        "Hex Color": "#d9dadc",
+        "Normalized Color": "#ceced2"
+    },
+    {
+        "Emoji": "\ud83c\udf31",
+        "ASCII Code": "127793",
+        "Hex Color": "#d9ecc4",
+        "Normalized Color": "#cee6b4"
+    },
+    {
+        "Emoji": "\ud83e\udd4a",
+        "ASCII Code": "129354",
+        "Hex Color": "#daa0a1",
+        "Normalized Color": "#cf8287"
+    },
+    {
+        "Emoji": "\ud83c\udf60",
+        "ASCII Code": "127840",
+        "Hex Color": "#daa9a6",
+        "Normalized Color": "#cf8e8e"
+    },
+    {
+        "Emoji": "\ud83c\udf41",
+        "ASCII Code": "127809",
+        "Hex Color": "#daac94",
+        "Normalized Color": "#cf9277"
+    },
+    {
+        "Emoji": "\ud83d\udc44",
+        "ASCII Code": "128068",
+        "Hex Color": "#daaeb8",
+        "Normalized Color": "#cf95a4"
+    },
+    {
+        "Emoji": "\ud83c\udfc9",
+        "ASCII Code": "127945",
+        "Hex Color": "#dab37d",
+        "Normalized Color": "#cf9b5a"
+    },
+    {
+        "Emoji": "\ud83c\udf5e",
+        "ASCII Code": "127838",
+        "Hex Color": "#dabd93",
+        "Normalized Color": "#cfa875"
+    },
+    {
+        "Emoji": "\ud83c\udfaf",
+        "ASCII Code": "127919",
+        "Hex Color": "#dabfbf",
+        "Normalized Color": "#cfabad"
+    },
+    {
+        "Emoji": "\ud83d\uddd3",
+        "ASCII Code": "128467",
+        "Hex Color": "#dacece",
+        "Normalized Color": "#cfbec0"
+    },
+    {
+        "Emoji": "\ud83c\udfeb",
+        "ASCII Code": "127979",
+        "Hex Color": "#dad1c1",
+        "Normalized Color": "#cfc2b0"
+    },
+    {
+        "Emoji": "\u231b",
+        "ASCII Code": "8987",
+        "Hex Color": "#dad3ce",
+        "Normalized Color": "#cfc5c0"
+    },
+    {
+        "Emoji": "\ud83c\udf4d",
+        "ASCII Code": "127821",
+        "Hex Color": "#dad4b7",
+        "Normalized Color": "#cfc6a3"
+    },
+    {
+        "Emoji": "\ud83d\udccb",
+        "ASCII Code": "128203",
+        "Hex Color": "#dad5ce",
+        "Normalized Color": "#cfc8c0"
+    },
+    {
+        "Emoji": "\u26ea",
+        "ASCII Code": "9962",
+        "Hex Color": "#dad5d7",
+        "Normalized Color": "#cfc8cc"
+    },
+    {
+        "Emoji": "\ud83d\udc40",
+        "ASCII Code": "128064",
+        "Hex Color": "#dad6d1",
+        "Normalized Color": "#cfc9c4"
+    },
+    {
+        "Emoji": "\ud83d\udd12",
+        "ASCII Code": "128274",
+        "Hex Color": "#dad9c6",
+        "Normalized Color": "#cfcdb6"
+    },
+    {
+        "Emoji": "\ud83d\udc5f",
+        "ASCII Code": "128095",
+        "Hex Color": "#dad9d8",
+        "Normalized Color": "#cfcdcd"
+    },
+    {
+        "Emoji": "\u2328",
+        "ASCII Code": "9000",
+        "Hex Color": "#dadada",
+        "Normalized Color": "#cfced0"
+    },
+    {
+        "Emoji": "\ud83e\udd4d",
+        "ASCII Code": "129357",
+        "Hex Color": "#dadde0",
+        "Normalized Color": "#cfd2d7"
+    },
+    {
+        "Emoji": "\ud83d\uddfb",
+        "ASCII Code": "128507",
+        "Hex Color": "#dadde1",
+        "Normalized Color": "#cfd2d8"
+    },
+    {
+        "Emoji": "\ud83c\udf07",
+        "ASCII Code": "127751",
+        "Hex Color": "#dba373",
+        "Normalized Color": "#d1864d"
+    },
+    {
+        "Emoji": "\ud83c\udfee",
+        "ASCII Code": "127982",
+        "Hex Color": "#dba38e",
+        "Normalized Color": "#d1866f"
+    },
+    {
+        "Emoji": "\ud83c\udf56",
+        "ASCII Code": "127830",
+        "Hex Color": "#dbb5a5",
+        "Normalized Color": "#d19e8c"
+    },
+    {
+        "Emoji": "\ud83d\udc72",
+        "ASCII Code": "128114",
+        "Hex Color": "#dbc190",
+        "Normalized Color": "#d1ad72"
+    },
+    {
+        "Emoji": "\ud83e\udd84",
+        "ASCII Code": "129412",
+        "Hex Color": "#dbc1e4",
+        "Normalized Color": "#d1addc"
+    },
+    {
+        "Emoji": "\ud83d\ude3c",
+        "ASCII Code": "128572",
+        "Hex Color": "#dbc385",
+        "Normalized Color": "#d1b064"
+    },
+    {
+        "Emoji": "\ud83d\udc21",
+        "ASCII Code": "128033",
+        "Hex Color": "#dbc39a",
+        "Normalized Color": "#d1b07e"
+    },
+    {
+        "Emoji": "\ud83c\udf7a",
+        "ASCII Code": "127866",
+        "Hex Color": "#dbc4a9",
+        "Normalized Color": "#d1b191"
+    },
+    {
+        "Emoji": "\ud83e\udeb3",
+        "ASCII Code": "129715",
+        "Hex Color": "#dbc5c2",
+        "Normalized Color": "#d1b3b1"
+    },
+    {
+        "Emoji": "\ud83d\ude81",
+        "ASCII Code": "128641",
+        "Hex Color": "#dbc6c7",
+        "Normalized Color": "#d1b4b7"
+    },
+    {
+        "Emoji": "\ud83e\uddc4",
+        "ASCII Code": "129476",
+        "Hex Color": "#dbc9bf",
+        "Normalized Color": "#d1b8ad"
+    },
+    {
+        "Emoji": "\ud83d\ude2d",
+        "ASCII Code": "128557",
+        "Hex Color": "#dbca90",
+        "Normalized Color": "#d1b972"
+    },
+    {
+        "Emoji": "\ud83d\udcc8",
+        "ASCII Code": "128200",
+        "Hex Color": "#dbd3d9",
+        "Normalized Color": "#d1c5ce"
+    },
+    {
+        "Emoji": "\ud83e\udd48",
+        "ASCII Code": "129352",
+        "Hex Color": "#dbd7da",
+        "Normalized Color": "#d1cad0"
+    },
+    {
+        "Emoji": "\ud83d\udd13",
+        "ASCII Code": "128275",
+        "Hex Color": "#dbdac9",
+        "Normalized Color": "#d1ceba"
+    },
+    {
+        "Emoji": "\ud83c\uddf2",
+        "ASCII Code": "127474",
+        "Hex Color": "#dbdbdb",
+        "Normalized Color": "#d1cfd1"
+    },
+    {
+        "Emoji": "\ud83c\udf48",
+        "ASCII Code": "127816",
+        "Hex Color": "#dbdcbb",
+        "Normalized Color": "#d1d1a8"
+    },
+    {
+        "Emoji": "\ud83d\udeb0",
+        "ASCII Code": "128688",
+        "Hex Color": "#dbe0e3",
+        "Normalized Color": "#d1d6db"
+    },
+    {
+        "Emoji": "\ud83d\udce7",
+        "ASCII Code": "128231",
+        "Hex Color": "#dbe0e5",
+        "Normalized Color": "#d1d6de"
+    },
+    {
+        "Emoji": "\ud83d\udeeb",
+        "ASCII Code": "128747",
+        "Hex Color": "#dbe2eb",
+        "Normalized Color": "#d1d9e5"
+    },
+    {
+        "Emoji": "\ud83d\uddfd",
+        "ASCII Code": "128509",
+        "Hex Color": "#dbe9e7",
+        "Normalized Color": "#d1e2e0"
+    },
+    {
+        "Emoji": "\ud83e\udd9e",
+        "ASCII Code": "129438",
+        "Hex Color": "#dc988a",
+        "Normalized Color": "#d2786a"
+    },
+    {
+        "Emoji": "\ud83d\ude3b",
+        "ASCII Code": "128571",
+        "Hex Color": "#dcb581",
+        "Normalized Color": "#d29e5f"
+    },
+    {
+        "Emoji": "\u23f0",
+        "ASCII Code": "9200",
+        "Hex Color": "#dcb7b8",
+        "Normalized Color": "#d2a0a4"
+    },
+    {
+        "Emoji": "\ud83e\udeb8",
+        "ASCII Code": "129720",
+        "Hex Color": "#dcc0b3",
+        "Normalized Color": "#d2ac9e"
+    },
+    {
+        "Emoji": "\ud83c\udfc6",
+        "ASCII Code": "127942",
+        "Hex Color": "#dcc18c",
+        "Normalized Color": "#d2ad6d"
+    },
+    {
+        "Emoji": "\ud83d\ude02",
+        "ASCII Code": "128514",
+        "Hex Color": "#dcca8a",
+        "Normalized Color": "#d2b96a"
+    },
+    {
+        "Emoji": "\ud83e\udd8c",
+        "ASCII Code": "129420",
+        "Hex Color": "#dcd0c4",
+        "Normalized Color": "#d2c1b4"
+    },
+    {
+        "Emoji": "\ud83e\udd37",
+        "ASCII Code": "129335",
+        "Hex Color": "#dcd1b5",
+        "Normalized Color": "#d2c2a1"
+    },
+    {
+        "Emoji": "\ud83e\udd3a",
+        "ASCII Code": "129338",
+        "Hex Color": "#dcdad7",
+        "Normalized Color": "#d2cecc"
+    },
+    {
+        "Emoji": "\ud83e\udee7",
+        "ASCII Code": "129767",
+        "Hex Color": "#dcdbdd",
+        "Normalized Color": "#d2cfd3"
+    },
+    {
+        "Emoji": "\u23f2",
+        "ASCII Code": "9202",
+        "Hex Color": "#dcdcdc",
+        "Normalized Color": "#d2d1d2"
+    },
+    {
+        "Emoji": "\ud83d\udfe5",
+        "ASCII Code": "128997",
+        "Hex Color": "#dd5143",
+        "Normalized Color": "#d31b10"
+    },
+    {
+        "Emoji": "\ud83d\udd34",
+        "ASCII Code": "128308",
+        "Hex Color": "#dd5d5c",
+        "Normalized Color": "#d32b30"
+    },
+    {
+        "Emoji": "\ud83e\uddc5",
+        "ASCII Code": "129477",
+        "Hex Color": "#ddb493",
+        "Normalized Color": "#d39c75"
+    },
+    {
+        "Emoji": "\ud83d\udc92",
+        "ASCII Code": "128146",
+        "Hex Color": "#ddbccd",
+        "Normalized Color": "#d3a7bf"
+    },
+    {
+        "Emoji": "\ud83c\udf42",
+        "ASCII Code": "127810",
+        "Hex Color": "#ddbd9d",
+        "Normalized Color": "#d3a882"
+    },
+    {
+        "Emoji": "\ud83d\udc2b",
+        "ASCII Code": "128043",
+        "Hex Color": "#ddc8b8",
+        "Normalized Color": "#d3b7a4"
+    },
+    {
+        "Emoji": "\ud83d\udee1",
+        "ASCII Code": "128737",
+        "Hex Color": "#ddcac7",
+        "Normalized Color": "#d3b9b7"
+    },
+    {
+        "Emoji": "\ud83e\ude86",
+        "ASCII Code": "129670",
+        "Hex Color": "#ddcbb1",
+        "Normalized Color": "#d3bb9c"
+    },
+    {
+        "Emoji": "\ud83c\udfba",
+        "ASCII Code": "127930",
+        "Hex Color": "#ddd5b6",
+        "Normalized Color": "#d3c8a2"
+    },
+    {
+        "Emoji": "\ud83c\udf7e",
+        "ASCII Code": "127870",
+        "Hex Color": "#ddddcf",
+        "Normalized Color": "#d3d2c2"
+    },
+    {
+        "Emoji": "\u2194",
+        "ASCII Code": "8596",
+        "Hex Color": "#dddddd",
+        "Normalized Color": "#d3d2d3"
+    },
+    {
+        "Emoji": "\ud83d\udd50",
+        "ASCII Code": "128336",
+        "Hex Color": "#dddedf",
+        "Normalized Color": "#d3d3d6"
+    },
+    {
+        "Emoji": "\ud83c\udf74",
+        "ASCII Code": "127860",
+        "Hex Color": "#dddfe2",
+        "Normalized Color": "#d3d5da"
+    },
+    {
+        "Emoji": "\ud83d\udcce",
+        "ASCII Code": "128206",
+        "Hex Color": "#dde1e5",
+        "Normalized Color": "#d3d7de"
+    },
+    {
+        "Emoji": "\ud83d\udcd0",
+        "ASCII Code": "128208",
+        "Hex Color": "#dde3ea",
+        "Normalized Color": "#d3dae4"
+    },
+    {
+        "Emoji": "\ud83c\udf4e",
+        "ASCII Code": "127822",
+        "Hex Color": "#de8981",
+        "Normalized Color": "#d4645f"
+    },
+    {
+        "Emoji": "\ud83e\udd53",
+        "ASCII Code": "129363",
+        "Hex Color": "#dea895",
+        "Normalized Color": "#d48d78"
+    },
+    {
+        "Emoji": "\ud83e\udd68",
+        "ASCII Code": "129384",
+        "Hex Color": "#deb195",
+        "Normalized Color": "#d49978"
+    },
+    {
+        "Emoji": "\ud83e\udd50",
+        "ASCII Code": "129360",
+        "Hex Color": "#deb271",
+        "Normalized Color": "#d49a4a"
+    },
+    {
+        "Emoji": "\ud83d\udc3d",
+        "ASCII Code": "128061",
+        "Hex Color": "#deb5be",
+        "Normalized Color": "#d49eac"
+    },
+    {
+        "Emoji": "\ud83e\udd21",
+        "ASCII Code": "129313",
+        "Hex Color": "#deb6a9",
+        "Normalized Color": "#d49f91"
+    },
+    {
+        "Emoji": "\ud83d\udc6d",
+        "ASCII Code": "128109",
+        "Hex Color": "#dec299",
+        "Normalized Color": "#d4af7d"
+    },
+    {
+        "Emoji": "\u270d",
+        "ASCII Code": "9997",
+        "Hex Color": "#dec593",
+        "Normalized Color": "#d4b375"
+    },
+    {
+        "Emoji": "\ud83c\udffc",
+        "ASCII Code": "127996",
+        "Hex Color": "#dec7b2",
+        "Normalized Color": "#d4b59d"
+    },
+    {
+        "Emoji": "\ud83c\udf57",
+        "ASCII Code": "127831",
+        "Hex Color": "#decabb",
+        "Normalized Color": "#d4b9a8"
+    },
+    {
+        "Emoji": "\ud83e\ude93",
+        "ASCII Code": "129683",
+        "Hex Color": "#decac5",
+        "Normalized Color": "#d4b9b5"
+    },
+    {
+        "Emoji": "\ud83d\udc70",
+        "ASCII Code": "128112",
+        "Hex Color": "#decb9c",
+        "Normalized Color": "#d4bb81"
+    },
+    {
+        "Emoji": "\ud83d\udc05",
+        "ASCII Code": "128005",
+        "Hex Color": "#deccbc",
+        "Normalized Color": "#d4bcaa"
+    },
+    {
+        "Emoji": "\ud83d\udc2e",
+        "ASCII Code": "128046",
+        "Hex Color": "#ded6cf",
+        "Normalized Color": "#d4c9c2"
+    },
+    {
+        "Emoji": "\ud83d\udc30",
+        "ASCII Code": "128048",
+        "Hex Color": "#ded8d8",
+        "Normalized Color": "#d4cccd"
+    },
+    {
+        "Emoji": "\ud83c\udfab",
+        "ASCII Code": "127915",
+        "Hex Color": "#dedaa8",
+        "Normalized Color": "#d4ce90"
+    },
+    {
+        "Emoji": "\ud83e\udd4b",
+        "ASCII Code": "129355",
+        "Hex Color": "#dedcdc",
+        "Normalized Color": "#d4d1d2"
+    },
+    {
+        "Emoji": "\ud83e\udd4e",
+        "ASCII Code": "129358",
+        "Hex Color": "#dede69",
+        "Normalized Color": "#d4d340"
+    },
+    {
+        "Emoji": "\u203c",
+        "ASCII Code": "8252",
+        "Hex Color": "#dedede",
+        "Normalized Color": "#d4d3d5"
+    },
+    {
+        "Emoji": "\ud83c\udff3",
+        "ASCII Code": "127987",
+        "Hex Color": "#dedfdf",
+        "Normalized Color": "#d4d5d6"
+    },
+    {
+        "Emoji": "\ud83d\udd5b",
+        "ASCII Code": "128347",
+        "Hex Color": "#dedfe0",
+        "Normalized Color": "#d4d5d7"
+    },
+    {
+        "Emoji": "\ud83d\uddd2",
+        "ASCII Code": "128466",
+        "Hex Color": "#dee1e3",
+        "Normalized Color": "#d4d7db"
+    },
+    {
+        "Emoji": "\ud83e\udd73",
+        "ASCII Code": "129395",
+        "Hex Color": "#dfba77",
+        "Normalized Color": "#d6a452"
+    },
+    {
+        "Emoji": "\ud83e\uddb8",
+        "ASCII Code": "129464",
+        "Hex Color": "#dfc09d",
+        "Normalized Color": "#d6ac82"
+    },
+    {
+        "Emoji": "\ud83d\ude3d",
+        "ASCII Code": "128573",
+        "Hex Color": "#dfc285",
+        "Normalized Color": "#d6af64"
+    },
+    {
+        "Emoji": "\ud83d\udc2a",
+        "ASCII Code": "128042",
+        "Hex Color": "#dfcdbc",
+        "Normalized Color": "#d6bdaa"
+    },
+    {
+        "Emoji": "\ud83d\udc5d",
+        "ASCII Code": "128093",
+        "Hex Color": "#dfcfbe",
+        "Normalized Color": "#d6c0ac"
+    },
+    {
+        "Emoji": "\ud83e\uddae",
+        "ASCII Code": "129454",
+        "Hex Color": "#dfd1b9",
+        "Normalized Color": "#d6c2a6"
+    },
+    {
+        "Emoji": "\ud83e\ude9c",
+        "ASCII Code": "129692",
+        "Hex Color": "#dfd3c7",
+        "Normalized Color": "#d6c5b7"
+    },
+    {
+        "Emoji": "\ud83e\uded3",
+        "ASCII Code": "129747",
+        "Hex Color": "#dfd8cc",
+        "Normalized Color": "#d6ccbe"
+    },
+    {
+        "Emoji": "\ud83c\udccf",
+        "ASCII Code": "127183",
+        "Hex Color": "#dfdbd6",
+        "Normalized Color": "#d6cfca"
+    },
+    {
+        "Emoji": "\ud83e\uddc2",
+        "ASCII Code": "129474",
+        "Hex Color": "#dfdfde",
+        "Normalized Color": "#d6d5d5"
+    },
+    {
+        "Emoji": "#",
+        "ASCII Code": "35",
+        "Hex Color": "#dfdfdf",
+        "Normalized Color": "#d6d5d6"
+    },
+    {
+        "Emoji": "\ud83d\udccf",
+        "ASCII Code": "128207",
+        "Hex Color": "#dfe5ec",
+        "Normalized Color": "#d6dde6"
+    },
+    {
+        "Emoji": "\ud83e\udea1",
+        "ASCII Code": "129697",
+        "Hex Color": "#dfe9ef",
+        "Normalized Color": "#d6e2ea"
+    },
+    {
+        "Emoji": "\ud83c\udf27",
+        "ASCII Code": "127783",
+        "Hex Color": "#dfe9f1",
+        "Normalized Color": "#d6e2ed"
+    },
+    {
+        "Emoji": "\ud83c\udf92",
+        "ASCII Code": "127890",
+        "Hex Color": "#e09592",
+        "Normalized Color": "#d77474"
+    },
+    {
+        "Emoji": "\ud83e\udd30",
+        "ASCII Code": "129328",
+        "Hex Color": "#e0c6be",
+        "Normalized Color": "#d7b4ac"
+    },
+    {
+        "Emoji": "\ud83c\udf77",
+        "ASCII Code": "127863",
+        "Hex Color": "#e0c8c8",
+        "Normalized Color": "#d7b7b9"
+    },
+    {
+        "Emoji": "\ud83d\ude05",
+        "ASCII Code": "128517",
+        "Hex Color": "#e0c988",
+        "Normalized Color": "#d7b868"
+    },
+    {
+        "Emoji": "\ud83d\udc73",
+        "ASCII Code": "128115",
+        "Hex Color": "#e0d0a9",
+        "Normalized Color": "#d7c191"
+    },
+    {
+        "Emoji": "\ud83d\udc06",
+        "ASCII Code": "128006",
+        "Hex Color": "#e0d2bf",
+        "Normalized Color": "#d7c4ad"
+    },
+    {
+        "Emoji": "\ud83c\udf67",
+        "ASCII Code": "127847",
+        "Hex Color": "#e0d4d5",
+        "Normalized Color": "#d7c6c9"
+    },
+    {
+        "Emoji": "\ud83c\udf68",
+        "ASCII Code": "127848",
+        "Hex Color": "#e0d7c9",
+        "Normalized Color": "#d7caba"
+    },
+    {
+        "Emoji": "\ud83e\ude9d",
+        "ASCII Code": "129693",
+        "Hex Color": "#e0d8c7",
+        "Normalized Color": "#d7ccb7"
+    },
+    {
+        "Emoji": "\u263a",
+        "ASCII Code": "9786",
+        "Hex Color": "#e0e0e0",
+        "Normalized Color": "#d7d6d7"
+    },
+    {
+        "Emoji": "\ud83c\udf2b",
+        "ASCII Code": "127787",
+        "Hex Color": "#e0e0e4",
+        "Normalized Color": "#d7d6dc"
+    },
+    {
+        "Emoji": "\ud83d\udd4a",
+        "ASCII Code": "128330",
+        "Hex Color": "#e0e1db",
+        "Normalized Color": "#d7d7d1"
+    },
+    {
+        "Emoji": "\ud83e\udd44",
+        "ASCII Code": "129348",
+        "Hex Color": "#e0e2e3",
+        "Normalized Color": "#d7d9db"
+    },
+    {
+        "Emoji": "\ud83d\udc8d",
+        "ASCII Code": "128141",
+        "Hex Color": "#e0e4e7",
+        "Normalized Color": "#d7dbe0"
+    },
+    {
+        "Emoji": "\ud83c\udf28",
+        "ASCII Code": "127784",
+        "Hex Color": "#e0eaf2",
+        "Normalized Color": "#d7e3ee"
+    },
+    {
+        "Emoji": "\ud83e\ude9b",
+        "ASCII Code": "129691",
+        "Hex Color": "#e0eddd",
+        "Normalized Color": "#d7e7d3"
+    },
+    {
+        "Emoji": "\ud83d\udc8b",
+        "ASCII Code": "128139",
+        "Hex Color": "#e19595",
+        "Normalized Color": "#d87478"
+    },
+    {
+        "Emoji": "\ud83e\udd69",
+        "ASCII Code": "129385",
+        "Hex Color": "#e1a49f",
+        "Normalized Color": "#d88885"
+    },
+    {
+        "Emoji": "\ud83d\udc98",
+        "ASCII Code": "128152",
+        "Hex Color": "#e1a9d3",
+        "Normalized Color": "#d88ec7"
+    },
+    {
+        "Emoji": "\ud83c\udf6b",
+        "ASCII Code": "127851",
+        "Hex Color": "#e1afac",
+        "Normalized Color": "#d89695"
+    },
+    {
+        "Emoji": "\ud83d\udea9",
+        "ASCII Code": "128681",
+        "Hex Color": "#e1b8b8",
+        "Normalized Color": "#d8a2a4"
+    },
+    {
+        "Emoji": "\ud83c\udf37",
+        "ASCII Code": "127799",
+        "Hex Color": "#e1beb8",
+        "Normalized Color": "#d8aaa4"
+    },
+    {
+        "Emoji": "\ud83d\udd4c",
+        "ASCII Code": "128332",
+        "Hex Color": "#e1c3aa",
+        "Normalized Color": "#d8b093"
+    },
+    {
+        "Emoji": "\ud83e\uddcf",
+        "ASCII Code": "129487",
+        "Hex Color": "#e1ca92",
+        "Normalized Color": "#d8b974"
+    },
+    {
+        "Emoji": "\ud83d\udcd2",
+        "ASCII Code": "128210",
+        "Hex Color": "#e1d070",
+        "Normalized Color": "#d8c149"
+    },
+    {
+        "Emoji": "\ud83d\ude45",
+        "ASCII Code": "128581",
+        "Hex Color": "#e1d0a8",
+        "Normalized Color": "#d8c190"
+    },
+    {
+        "Emoji": "\ud83d\udc08",
+        "ASCII Code": "128008",
+        "Hex Color": "#e1d3c7",
+        "Normalized Color": "#d8c5b7"
+    },
+    {
+        "Emoji": "\ud83c\udf62",
+        "ASCII Code": "127842",
+        "Hex Color": "#e1d4c7",
+        "Normalized Color": "#d8c6b7"
+    },
+    {
+        "Emoji": "\ud83d\udc01",
+        "ASCII Code": "128001",
+        "Hex Color": "#e1dede",
+        "Normalized Color": "#d8d3d5"
+    },
+    {
+        "Emoji": "\ud83d\udd74",
+        "ASCII Code": "128372",
+        "Hex Color": "#e1dfdc",
+        "Normalized Color": "#d8d5d2"
+    },
+    {
+        "Emoji": "\ud83c\udf8d",
+        "ASCII Code": "127885",
+        "Hex Color": "#e1e1cc",
+        "Normalized Color": "#d8d7be"
+    },
+    {
+        "Emoji": "\u2196",
+        "ASCII Code": "8598",
+        "Hex Color": "#e1e1e1",
+        "Normalized Color": "#d8d7d8"
+    },
+    {
+        "Emoji": "\ud83d\udec1",
+        "ASCII Code": "128705",
+        "Hex Color": "#e1e4e6",
+        "Normalized Color": "#d8dbdf"
+    },
+    {
+        "Emoji": "\ud83e\udde7",
+        "ASCII Code": "129511",
+        "Hex Color": "#e28480",
+        "Normalized Color": "#da5e5d"
+    },
+    {
+        "Emoji": "\ud83c\udf83",
+        "ASCII Code": "127875",
+        "Hex Color": "#e2b160",
+        "Normalized Color": "#da9935"
+    },
+    {
+        "Emoji": "\ud83e\udd6b",
+        "ASCII Code": "129387",
+        "Hex Color": "#e2beb8",
+        "Normalized Color": "#daaaa4"
+    },
+    {
+        "Emoji": "\ud83c\udfdc",
+        "ASCII Code": "127964",
+        "Hex Color": "#e2c29d",
+        "Normalized Color": "#daaf82"
+    },
+    {
+        "Emoji": "\ud83e\udd13",
+        "ASCII Code": "129299",
+        "Hex Color": "#e2c47b",
+        "Normalized Color": "#dab157"
+    },
+    {
+        "Emoji": "\ud83e\udd79",
+        "ASCII Code": "129401",
+        "Hex Color": "#e2c583",
+        "Normalized Color": "#dab361"
+    },
+    {
+        "Emoji": "\ud83e\udeda",
+        "ASCII Code": "129754",
+        "Hex Color": "#e2c7aa",
+        "Normalized Color": "#dab593"
+    },
+    {
+        "Emoji": "\ud83e\udde5",
+        "ASCII Code": "129509",
+        "Hex Color": "#e2cba2",
+        "Normalized Color": "#dabb89"
+    },
+    {
+        "Emoji": "\ud83d\udcd4",
+        "ASCII Code": "128212",
+        "Hex Color": "#e2cca0",
+        "Normalized Color": "#dabc86"
+    },
+    {
+        "Emoji": "\ud83c\udf79",
+        "ASCII Code": "127865",
+        "Hex Color": "#e2d5c2",
+        "Normalized Color": "#dac8b1"
+    },
+    {
+        "Emoji": "\ud83e\udd55",
+        "ASCII Code": "129365",
+        "Hex Color": "#e2d6bc",
+        "Normalized Color": "#dac9aa"
+    },
+    {
+        "Emoji": "\ud83e\ude92",
+        "ASCII Code": "129682",
+        "Hex Color": "#e2d6d1",
+        "Normalized Color": "#dac9c4"
+    },
+    {
+        "Emoji": "\ud83c\udfb7",
+        "ASCII Code": "127927",
+        "Hex Color": "#e2d7b6",
+        "Normalized Color": "#dacaa2"
+    },
+    {
+        "Emoji": "\ud83c\udff9",
+        "ASCII Code": "127993",
+        "Hex Color": "#e2ddda",
+        "Normalized Color": "#dad2d0"
+    },
+    {
+        "Emoji": "\ud83c\udfd1",
+        "ASCII Code": "127953",
+        "Hex Color": "#e2ded4",
+        "Normalized Color": "#dad3c8"
+    },
+    {
+        "Emoji": "\u26f3",
+        "ASCII Code": "9971",
+        "Hex Color": "#e2dfc2",
+        "Normalized Color": "#dad5b1"
+    },
+    {
+        "Emoji": "\ud83e\udd33",
+        "ASCII Code": "129331",
+        "Hex Color": "#e2dfd8",
+        "Normalized Color": "#dad5cd"
+    },
+    {
+        "Emoji": "\u2603",
+        "ASCII Code": "9731",
+        "Hex Color": "#e2e2e2",
+        "Normalized Color": "#dad9da"
+    },
+    {
+        "Emoji": "\ud83c\udfca",
+        "ASCII Code": "127946",
+        "Hex Color": "#e2e4dc",
+        "Normalized Color": "#dadbd2"
+    },
+    {
+        "Emoji": "\ud83e\udd29",
+        "ASCII Code": "129321",
+        "Hex Color": "#e3c383",
+        "Normalized Color": "#dbb061"
+    },
+    {
+        "Emoji": "\ud83d\udc39",
+        "ASCII Code": "128057",
+        "Hex Color": "#e3c3b8",
+        "Normalized Color": "#dbb0a4"
+    },
+    {
+        "Emoji": "\ud83c\udf85",
+        "ASCII Code": "127877",
+        "Hex Color": "#e3c899",
+        "Normalized Color": "#dbb77d"
+    },
+    {
+        "Emoji": "\ud83d\uddfc",
+        "ASCII Code": "128508",
+        "Hex Color": "#e3c9c7",
+        "Normalized Color": "#dbb8b7"
+    },
+    {
+        "Emoji": "\ud83e\udd23",
+        "ASCII Code": "129315",
+        "Hex Color": "#e3cb87",
+        "Normalized Color": "#dbbb66"
+    },
+    {
+        "Emoji": "\ud83d\ude13",
+        "ASCII Code": "128531",
+        "Hex Color": "#e3cf8b",
+        "Normalized Color": "#dbc06b"
+    },
+    {
+        "Emoji": "\ud83e\uddc1",
+        "ASCII Code": "129473",
+        "Hex Color": "#e3d6ba",
+        "Normalized Color": "#dbc9a7"
+    },
+    {
+        "Emoji": "\ud83c\udf65",
+        "ASCII Code": "127845",
+        "Hex Color": "#e3dbd7",
+        "Normalized Color": "#dbcfcc"
+    },
+    {
+        "Emoji": "\ud83d\udcdd",
+        "ASCII Code": "128221",
+        "Hex Color": "#e3dccd",
+        "Normalized Color": "#dbd1bf"
+    },
+    {
+        "Emoji": "\ud83c\udfcc",
+        "ASCII Code": "127948",
+        "Hex Color": "#e3dfd4",
+        "Normalized Color": "#dbd5c8"
+    },
+    {
+        "Emoji": "\ud83e\ude95",
+        "ASCII Code": "129685",
+        "Hex Color": "#e3e0d8",
+        "Normalized Color": "#dbd6cd"
+    },
+    {
+        "Emoji": "\ud83c\udde6",
+        "ASCII Code": "127462",
+        "Hex Color": "#e3e3e3",
+        "Normalized Color": "#dbdadb"
+    },
+    {
+        "Emoji": "\ud83e\ude78",
+        "ASCII Code": "129656",
+        "Hex Color": "#e4a4a4",
+        "Normalized Color": "#dc888b"
+    },
+    {
+        "Emoji": "\u26f5",
+        "ASCII Code": "9973",
+        "Hex Color": "#e4c4b0",
+        "Normalized Color": "#dcb19a"
+    },
+    {
+        "Emoji": "\ud83d\ude34",
+        "ASCII Code": "128564",
+        "Hex Color": "#e4c67c",
+        "Normalized Color": "#dcb458"
+    },
+    {
+        "Emoji": "\ud83e\udd72",
+        "ASCII Code": "129394",
+        "Hex Color": "#e4ce86",
+        "Normalized Color": "#dcbe65"
+    },
+    {
+        "Emoji": "\ud83d\ude4b",
+        "ASCII Code": "128587",
+        "Hex Color": "#e4cf9c",
+        "Normalized Color": "#dcc081"
+    },
+    {
+        "Emoji": "\ud83c\udf82",
+        "ASCII Code": "127874",
+        "Hex Color": "#e4dad1",
+        "Normalized Color": "#dccec4"
+    },
+    {
+        "Emoji": "\ud83c\udff8",
+        "ASCII Code": "127992",
+        "Hex Color": "#e4ddcd",
+        "Normalized Color": "#dcd2bf"
+    },
+    {
+        "Emoji": "\ud83e\udda2",
+        "ASCII Code": "129442",
+        "Hex Color": "#e4e2d9",
+        "Normalized Color": "#dcd9ce"
+    },
+    {
+        "Emoji": "\ud83c\uddff",
+        "ASCII Code": "127487",
+        "Hex Color": "#e4e4e4",
+        "Normalized Color": "#dcdbdc"
+    },
+    {
+        "Emoji": "\ud83e\ude7c",
+        "ASCII Code": "129660",
+        "Hex Color": "#e4e5e5",
+        "Normalized Color": "#dcddde"
+    },
+    {
+        "Emoji": "\ud83d\udec0",
+        "ASCII Code": "128704",
+        "Hex Color": "#e4e6df",
+        "Normalized Color": "#dcded6"
+    },
+    {
+        "Emoji": "\ud83d\udcee",
+        "ASCII Code": "128238",
+        "Hex Color": "#e59393",
+        "Normalized Color": "#dd7175"
+    },
+    {
+        "Emoji": "\ud83c\udf51",
+        "ASCII Code": "127825",
+        "Hex Color": "#e5a786",
+        "Normalized Color": "#dd8b65"
+    },
+    {
+        "Emoji": "\ud83e\udde0",
+        "ASCII Code": "129504",
+        "Hex Color": "#e5b0c0",
+        "Normalized Color": "#dd97af"
+    },
+    {
+        "Emoji": "\ud83e\udde3",
+        "ASCII Code": "129507",
+        "Hex Color": "#e5b2b1",
+        "Normalized Color": "#dd9a9c"
+    },
+    {
+        "Emoji": "\ud83c\udf36",
+        "ASCII Code": "127798",
+        "Hex Color": "#e5b7b2",
+        "Normalized Color": "#dda09d"
+    },
+    {
+        "Emoji": "\ud83e\udd2f",
+        "ASCII Code": "129327",
+        "Hex Color": "#e5b970",
+        "Normalized Color": "#dda349"
+    },
+    {
+        "Emoji": "\ud83c\udf4a",
+        "ASCII Code": "127818",
+        "Hex Color": "#e5bc90",
+        "Normalized Color": "#dda772"
+    },
+    {
+        "Emoji": "\ud83e\udee6",
+        "ASCII Code": "129766",
+        "Hex Color": "#e5bcc5",
+        "Normalized Color": "#dda7b5"
+    },
+    {
+        "Emoji": "\ud83c\udfce",
+        "ASCII Code": "127950",
+        "Hex Color": "#e5c3c4",
+        "Normalized Color": "#ddb0b4"
+    },
+    {
+        "Emoji": "\ud83d\udc37",
+        "ASCII Code": "128055",
+        "Hex Color": "#e5c4bd",
+        "Normalized Color": "#ddb1ab"
+    },
+    {
+        "Emoji": "\ud83c\udfcf",
+        "ASCII Code": "127951",
+        "Hex Color": "#e5c8b0",
+        "Normalized Color": "#ddb79a"
+    },
+    {
+        "Emoji": "\ud83d\udc59",
+        "ASCII Code": "128089",
+        "Hex Color": "#e5c8cc",
+        "Normalized Color": "#ddb7be"
+    },
+    {
+        "Emoji": "\ud83d\uddc2",
+        "ASCII Code": "128450",
+        "Hex Color": "#e5c9ae",
+        "Normalized Color": "#ddb898"
+    },
+    {
+        "Emoji": "\ud83e\uded4",
+        "ASCII Code": "129748",
+        "Hex Color": "#e5cea6",
+        "Normalized Color": "#ddbe8e"
+    },
+    {
+        "Emoji": "\ud83d\udc81",
+        "ASCII Code": "128129",
+        "Hex Color": "#e5d2a2",
+        "Normalized Color": "#ddc489"
+    },
+    {
+        "Emoji": "\ud83e\udeab",
+        "ASCII Code": "129707",
+        "Hex Color": "#e5d3d3",
+        "Normalized Color": "#ddc5c7"
+    },
+    {
+        "Emoji": "\ud83e\udddd",
+        "ASCII Code": "129501",
+        "Hex Color": "#e5dcb5",
+        "Normalized Color": "#ddd1a1"
+    },
+    {
+        "Emoji": "\ud83e\udec4",
+        "ASCII Code": "129732",
+        "Hex Color": "#e5dcca",
+        "Normalized Color": "#ddd1bb"
+    },
+    {
+        "Emoji": "\ud83c\udf3e",
+        "ASCII Code": "127806",
+        "Hex Color": "#e5e1b2",
+        "Normalized Color": "#ddd79d"
+    },
+    {
+        "Emoji": "\ud83e\uddd6",
+        "ASCII Code": "129494",
+        "Hex Color": "#e5e2c6",
+        "Normalized Color": "#ddd9b6"
+    },
+    {
+        "Emoji": "\ud83d\udd2d",
+        "ASCII Code": "128301",
+        "Hex Color": "#e5e4e4",
+        "Normalized Color": "#dddbdc"
+    },
+    {
+        "Emoji": "\u2623",
+        "ASCII Code": "9763",
+        "Hex Color": "#e5e5e5",
+        "Normalized Color": "#ddddde"
+    },
+    {
+        "Emoji": "\ud83d\uddef",
+        "ASCII Code": "128495",
+        "Hex Color": "#e5e6e6",
+        "Normalized Color": "#dddedf"
+    },
+    {
+        "Emoji": "\ud83d\udde1",
+        "ASCII Code": "128481",
+        "Hex Color": "#e5e6e8",
+        "Normalized Color": "#dddee1"
+    },
+    {
+        "Emoji": "\ud83c\udf55",
+        "ASCII Code": "127829",
+        "Hex Color": "#e6b898",
+        "Normalized Color": "#dfa27c"
+    },
+    {
+        "Emoji": "\ud83c\udf49",
+        "ASCII Code": "127817",
+        "Hex Color": "#e6bcb5",
+        "Normalized Color": "#dfa7a1"
+    },
+    {
+        "Emoji": "\ud83d\udc69",
+        "ASCII Code": "128105",
+        "Hex Color": "#e6c16b",
+        "Normalized Color": "#dfad43"
+    },
+    {
+        "Emoji": "\ud83c\udf8a",
+        "ASCII Code": "127882",
+        "Hex Color": "#e6cac0",
+        "Normalized Color": "#dfb9af"
+    },
+    {
+        "Emoji": "\ud83e\udd11",
+        "ASCII Code": "129297",
+        "Hex Color": "#e6cc77",
+        "Normalized Color": "#dfbc52"
+    },
+    {
+        "Emoji": "\ud83e\udd6a",
+        "ASCII Code": "129386",
+        "Hex Color": "#e6cea2",
+        "Normalized Color": "#dfbe89"
+    },
+    {
+        "Emoji": "\ud83d\ude2a",
+        "ASCII Code": "128554",
+        "Hex Color": "#e6cf85",
+        "Normalized Color": "#dfc064"
+    },
+    {
+        "Emoji": "\ud83c\udf7b",
+        "ASCII Code": "127867",
+        "Hex Color": "#e6d5bf",
+        "Normalized Color": "#dfc8ad"
+    },
+    {
+        "Emoji": "\ud83e\ude83",
+        "ASCII Code": "129667",
+        "Hex Color": "#e6d7d1",
+        "Normalized Color": "#dfcac4"
+    },
+    {
+        "Emoji": "\ud83c\udf5b",
+        "ASCII Code": "127835",
+        "Hex Color": "#e6dace",
+        "Normalized Color": "#dfcec0"
+    },
+    {
+        "Emoji": "\ud83e\udd98",
+        "ASCII Code": "129432",
+        "Hex Color": "#e6dbd0",
+        "Normalized Color": "#dfcfc3"
+    },
+    {
+        "Emoji": "\ud83e\udd5b",
+        "ASCII Code": "129371",
+        "Hex Color": "#e6e5e3",
+        "Normalized Color": "#dfdddb"
+    },
+    {
+        "Emoji": "\ud83d\udc07",
+        "ASCII Code": "128007",
+        "Hex Color": "#e6e5e5",
+        "Normalized Color": "#dfddde"
+    },
+    {
+        "Emoji": "\u26aa",
+        "ASCII Code": "9898",
+        "Hex Color": "#e6e6e6",
+        "Normalized Color": "#dfdedf"
+    },
+    {
+        "Emoji": "\ud83e\udea5",
+        "ASCII Code": "129701",
+        "Hex Color": "#e6f3f8",
+        "Normalized Color": "#dfeff6"
+    },
+    {
+        "Emoji": "\ud83e\uddf2",
+        "ASCII Code": "129522",
+        "Hex Color": "#e78c8c",
+        "Normalized Color": "#e0686d"
+    },
+    {
+        "Emoji": "\ud83c\udf5f",
+        "ASCII Code": "127839",
+        "Hex Color": "#e7a27c",
+        "Normalized Color": "#e08558"
+    },
+    {
+        "Emoji": "\ud83c\udf80",
+        "ASCII Code": "127872",
+        "Hex Color": "#e7a5bc",
+        "Normalized Color": "#e089aa"
+    },
+    {
+        "Emoji": "\ud83d\udc58",
+        "ASCII Code": "128088",
+        "Hex Color": "#e7b972",
+        "Normalized Color": "#e0a34c"
+    },
+    {
+        "Emoji": "\ud83e\udd6f",
+        "ASCII Code": "129391",
+        "Hex Color": "#e7c8a7",
+        "Normalized Color": "#e0b78f"
+    },
+    {
+        "Emoji": "\ud83e\udd7a",
+        "ASCII Code": "129402",
+        "Hex Color": "#e7cb87",
+        "Normalized Color": "#e0bb66"
+    },
+    {
+        "Emoji": "\ud83c\udf5d",
+        "ASCII Code": "127837",
+        "Hex Color": "#e7d2bd",
+        "Normalized Color": "#e0c4ab"
+    },
+    {
+        "Emoji": "\ud83c\udf5c",
+        "ASCII Code": "127836",
+        "Hex Color": "#e7d7c8",
+        "Normalized Color": "#e0cab9"
+    },
+    {
+        "Emoji": "\ud83d\ude4f",
+        "ASCII Code": "128591",
+        "Hex Color": "#e7d8b6",
+        "Normalized Color": "#e0cca2"
+    },
+    {
+        "Emoji": "\ud83e\udd3d",
+        "ASCII Code": "129341",
+        "Hex Color": "#e7dbc0",
+        "Normalized Color": "#e0cfaf"
+    },
+    {
+        "Emoji": "\ud83d\udc13",
+        "ASCII Code": "128019",
+        "Hex Color": "#e7dcd9",
+        "Normalized Color": "#e0d1ce"
+    },
+    {
+        "Emoji": "\ud83e\uddfd",
+        "ASCII Code": "129533",
+        "Hex Color": "#e7dd85",
+        "Normalized Color": "#e0d264"
+    },
+    {
+        "Emoji": "\ud83e\udd3e",
+        "ASCII Code": "129342",
+        "Hex Color": "#e7dfce",
+        "Normalized Color": "#e0d5c0"
+    },
+    {
+        "Emoji": "\ud83e\uddb7",
+        "ASCII Code": "129463",
+        "Hex Color": "#e7e0d4",
+        "Normalized Color": "#e0d6c8"
+    },
+    {
+        "Emoji": "\ud83c\uddf9",
+        "ASCII Code": "127481",
+        "Hex Color": "#e7e7e7",
+        "Normalized Color": "#e0dfe0"
+    },
+    {
+        "Emoji": "\ud83e\uddb4",
+        "ASCII Code": "129460",
+        "Hex Color": "#e7e8e8",
+        "Normalized Color": "#e0e0e1"
+    },
+    {
+        "Emoji": "\ud83d\udc97",
+        "ASCII Code": "128151",
+        "Hex Color": "#e895c1",
+        "Normalized Color": "#e174b0"
+    },
+    {
+        "Emoji": "\ud83e\ude73",
+        "ASCII Code": "129651",
+        "Hex Color": "#e8af5b",
+        "Normalized Color": "#e1962e"
+    },
+    {
+        "Emoji": "\ud83e\udee8",
+        "ASCII Code": "129768",
+        "Hex Color": "#e8c26e",
+        "Normalized Color": "#e1af47"
+    },
+    {
+        "Emoji": "\ud83d\ude2b",
+        "ASCII Code": "128555",
+        "Hex Color": "#e8c677",
+        "Normalized Color": "#e1b452"
+    },
+    {
+        "Emoji": "\ud83e\udd2a",
+        "ASCII Code": "129322",
+        "Hex Color": "#e8c88f",
+        "Normalized Color": "#e1b770"
+    },
+    {
+        "Emoji": "\ud83e\uddd3",
+        "ASCII Code": "129491",
+        "Hex Color": "#e8c976",
+        "Normalized Color": "#e1b851"
+    },
+    {
+        "Emoji": "\ud83e\uddd4",
+        "ASCII Code": "129492",
+        "Hex Color": "#e8ca84",
+        "Normalized Color": "#e1b962"
+    },
+    {
+        "Emoji": "\ud83c\udfaa",
+        "ASCII Code": "127914",
+        "Hex Color": "#e8cac3",
+        "Normalized Color": "#e1b9b2"
+    },
+    {
+        "Emoji": "\ud83e\udd15",
+        "ASCII Code": "129301",
+        "Hex Color": "#e8cd92",
+        "Normalized Color": "#e1bd74"
+    },
+    {
+        "Emoji": "\ud83d\udc71",
+        "ASCII Code": "128113",
+        "Hex Color": "#e8d08b",
+        "Normalized Color": "#e1c16b"
+    },
+    {
+        "Emoji": "\ud83d\udc8c",
+        "ASCII Code": "128140",
+        "Hex Color": "#e8d0d0",
+        "Normalized Color": "#e1c1c3"
+    },
+    {
+        "Emoji": "\ud83d\udd31",
+        "ASCII Code": "128305",
+        "Hex Color": "#e8d49f",
+        "Normalized Color": "#e1c685"
+    },
+    {
+        "Emoji": "\ud83c\udf6e",
+        "ASCII Code": "127854",
+        "Hex Color": "#e8d4c0",
+        "Normalized Color": "#e1c6af"
+    },
+    {
+        "Emoji": "\ud83e\udd34",
+        "ASCII Code": "129332",
+        "Hex Color": "#e8d59a",
+        "Normalized Color": "#e1c87e"
+    },
+    {
+        "Emoji": "\ud83e\udd35",
+        "ASCII Code": "129333",
+        "Hex Color": "#e8d5a6",
+        "Normalized Color": "#e1c88e"
+    },
+    {
+        "Emoji": "\ud83e\udd62",
+        "ASCII Code": "129378",
+        "Hex Color": "#e8dada",
+        "Normalized Color": "#e1ced0"
+    },
+    {
+        "Emoji": "\ud83c\udf8c",
+        "ASCII Code": "127884",
+        "Hex Color": "#e8dddd",
+        "Normalized Color": "#e1d2d3"
+    },
+    {
+        "Emoji": "\ud83e\ude84",
+        "ASCII Code": "129668",
+        "Hex Color": "#e8e5de",
+        "Normalized Color": "#e1ddd5"
+    },
+    {
+        "Emoji": "\u25aa",
+        "ASCII Code": "9642",
+        "Hex Color": "#e8e8e8",
+        "Normalized Color": "#e1e0e1"
+    },
+    {
+        "Emoji": "\ud83c\udf90",
+        "ASCII Code": "127888",
+        "Hex Color": "#e8ecf1",
+        "Normalized Color": "#e1e6ed"
+    },
+    {
+        "Emoji": "\ud83e\udd75",
+        "ASCII Code": "129397",
+        "Hex Color": "#e9ac7d",
+        "Normalized Color": "#e2925a"
+    },
+    {
+        "Emoji": "\ud83e\udd90",
+        "ASCII Code": "129424",
+        "Hex Color": "#e9ac95",
+        "Normalized Color": "#e29278"
+    },
+    {
+        "Emoji": "\ud83e\udd70",
+        "ASCII Code": "129392",
+        "Hex Color": "#e9b46c",
+        "Normalized Color": "#e29c44"
+    },
+    {
+        "Emoji": "\ud83d\udc84",
+        "ASCII Code": "128132",
+        "Hex Color": "#e9c0be",
+        "Normalized Color": "#e2acac"
+    },
+    {
+        "Emoji": "\ud83d\udccc",
+        "ASCII Code": "128204",
+        "Hex Color": "#e9c1c2",
+        "Normalized Color": "#e2adb1"
+    },
+    {
+        "Emoji": "\ud83d\udc8a",
+        "ASCII Code": "128138",
+        "Hex Color": "#e9c497",
+        "Normalized Color": "#e2b17b"
+    },
+    {
+        "Emoji": "\ud83e\uddd2",
+        "ASCII Code": "129490",
+        "Hex Color": "#e9c671",
+        "Normalized Color": "#e2b44a"
+    },
+    {
+        "Emoji": "\ud83d\ude29",
+        "ASCII Code": "128553",
+        "Hex Color": "#e9c778",
+        "Normalized Color": "#e2b553"
+    },
+    {
+        "Emoji": "\ud83d\udc75",
+        "ASCII Code": "128117",
+        "Hex Color": "#e9c878",
+        "Normalized Color": "#e2b753"
+    },
+    {
+        "Emoji": "\ud83d\ude03",
+        "ASCII Code": "128515",
+        "Hex Color": "#e9c97e",
+        "Normalized Color": "#e2b85b"
+    },
+    {
+        "Emoji": "\ud83d\udc4b",
+        "ASCII Code": "128075",
+        "Hex Color": "#e9ca84",
+        "Normalized Color": "#e2b962"
+    },
+    {
+        "Emoji": "\ud83d\ude33",
+        "ASCII Code": "128563",
+        "Hex Color": "#e9ca8d",
+        "Normalized Color": "#e2b96e"
+    },
+    {
+        "Emoji": "\ud83d\uded5",
+        "ASCII Code": "128725",
+        "Hex Color": "#e9cdc0",
+        "Normalized Color": "#e2bdaf"
+    },
+    {
+        "Emoji": "\ud83d\udc78",
+        "ASCII Code": "128120",
+        "Hex Color": "#e9ce92",
+        "Normalized Color": "#e2be74"
+    },
+    {
+        "Emoji": "\ud83d\ude25",
+        "ASCII Code": "128549",
+        "Hex Color": "#e9d084",
+        "Normalized Color": "#e2c162"
+    },
+    {
+        "Emoji": "\ud83d\ude37",
+        "ASCII Code": "128567",
+        "Hex Color": "#e9d19b",
+        "Normalized Color": "#e2c280"
+    },
+    {
+        "Emoji": "\ud83d\udc87",
+        "ASCII Code": "128135",
+        "Hex Color": "#e9d4a2",
+        "Normalized Color": "#e2c689"
+    },
+    {
+        "Emoji": "\ud83e\udd36",
+        "ASCII Code": "129334",
+        "Hex Color": "#e9d8bd",
+        "Normalized Color": "#e2ccab"
+    },
+    {
+        "Emoji": "\u26f9",
+        "ASCII Code": "9977",
+        "Hex Color": "#e9ddc4",
+        "Normalized Color": "#e2d2b4"
+    },
+    {
+        "Emoji": "\ud83c\udf7c",
+        "ASCII Code": "127868",
+        "Hex Color": "#e9e6d5",
+        "Normalized Color": "#e2dec9"
+    },
+    {
+        "Emoji": "\ud83d\udeb6",
+        "ASCII Code": "128694",
+        "Hex Color": "#e9e6e3",
+        "Normalized Color": "#e2dedb"
+    },
+    {
+        "Emoji": "\ud83e\uded7",
+        "ASCII Code": "129751",
+        "Hex Color": "#e9e7e7",
+        "Normalized Color": "#e2dfe0"
+    },
+    {
+        "Emoji": "\ud83c\udf6c",
+        "ASCII Code": "127852",
+        "Hex Color": "#e9e8f0",
+        "Normalized Color": "#e2e0eb"
+    },
+    {
+        "Emoji": "\u25fb",
+        "ASCII Code": "9723",
+        "Hex Color": "#e9e9e9",
+        "Normalized Color": "#e2e2e3"
+    },
+    {
+        "Emoji": "\ud83e\udd7c",
+        "ASCII Code": "129404",
+        "Hex Color": "#e9eaeb",
+        "Normalized Color": "#e2e3e5"
+    },
+    {
+        "Emoji": "\ud83d\udc89",
+        "ASCII Code": "128137",
+        "Hex Color": "#e9ecee",
+        "Normalized Color": "#e2e6e9"
+    },
+    {
+        "Emoji": "\ud83e\udebd",
+        "ASCII Code": "129725",
+        "Hex Color": "#e9eff1",
+        "Normalized Color": "#e2eaed"
+    },
+    {
+        "Emoji": "\ud83d\uded1",
+        "ASCII Code": "128721",
+        "Hex Color": "#ea8169",
+        "Normalized Color": "#e45a40"
+    },
+    {
+        "Emoji": "\ud83c\udf44",
+        "ASCII Code": "127812",
+        "Hex Color": "#eaafa6",
+        "Normalized Color": "#e4968e"
+    },
+    {
+        "Emoji": "\ud83d\udd8d",
+        "ASCII Code": "128397",
+        "Hex Color": "#eac1c1",
+        "Normalized Color": "#e4adb0"
+    },
+    {
+        "Emoji": "\ud83e\udef5",
+        "ASCII Code": "129781",
+        "Hex Color": "#eac467",
+        "Normalized Color": "#e4b13e"
+    },
+    {
+        "Emoji": "\ud83d\ude35",
+        "ASCII Code": "128565",
+        "Hex Color": "#eac876",
+        "Normalized Color": "#e4b751"
+    },
+    {
+        "Emoji": "\ud83d\ude06",
+        "ASCII Code": "128518",
+        "Hex Color": "#eaca7f",
+        "Normalized Color": "#e4b95c"
+    },
+    {
+        "Emoji": "\ud83d\ude04",
+        "ASCII Code": "128516",
+        "Hex Color": "#eacb7f",
+        "Normalized Color": "#e4bb5c"
+    },
+    {
+        "Emoji": "\ud83d\udc14",
+        "ASCII Code": "128020",
+        "Hex Color": "#eacfc1",
+        "Normalized Color": "#e4c0b0"
+    },
+    {
+        "Emoji": "\ud83c\udf3c",
+        "ASCII Code": "127804",
+        "Hex Color": "#ead078",
+        "Normalized Color": "#e4c153"
+    },
+    {
+        "Emoji": "\ud83d\ude22",
+        "ASCII Code": "128546",
+        "Hex Color": "#ead083",
+        "Normalized Color": "#e4c161"
+    },
+    {
+        "Emoji": "\ud83d\udc4f",
+        "ASCII Code": "128079",
+        "Hex Color": "#ead299",
+        "Normalized Color": "#e4c47d"
+    },
+    {
+        "Emoji": "\ud83e\uddbb",
+        "ASCII Code": "129467",
+        "Hex Color": "#ead6a5",
+        "Normalized Color": "#e4c98c"
+    },
+    {
+        "Emoji": "\ud83c\udfc5",
+        "ASCII Code": "127941",
+        "Hex Color": "#eadac3",
+        "Normalized Color": "#e4ceb2"
+    },
+    {
+        "Emoji": "\ud83e\uddcb",
+        "ASCII Code": "129483",
+        "Hex Color": "#eaddd0",
+        "Normalized Color": "#e4d2c3"
+    },
+    {
+        "Emoji": "\ud83d\udc61",
+        "ASCII Code": "128097",
+        "Hex Color": "#eaded3",
+        "Normalized Color": "#e4d3c7"
+    },
+    {
+        "Emoji": "\ud83e\uddf9",
+        "ASCII Code": "129529",
+        "Hex Color": "#eae5da",
+        "Normalized Color": "#e4ddd0"
+    },
+    {
+        "Emoji": "\ud83c\udf26",
+        "ASCII Code": "127782",
+        "Hex Color": "#eae7db",
+        "Normalized Color": "#e4dfd1"
+    },
+    {
+        "Emoji": "7",
+        "ASCII Code": "55",
+        "Hex Color": "#eaeaea",
+        "Normalized Color": "#e4e3e4"
+    },
+    {
+        "Emoji": "\ud83c\udfa7",
+        "ASCII Code": "127911",
+        "Hex Color": "#eaebeb",
+        "Normalized Color": "#e4e4e5"
+    },
+    {
+        "Emoji": "\ud83d\udc94",
+        "ASCII Code": "128148",
+        "Hex Color": "#eb8e89",
+        "Normalized Color": "#e56b69"
+    },
+    {
+        "Emoji": "\ud83d\udea8",
+        "ASCII Code": "128680",
+        "Hex Color": "#eba099",
+        "Normalized Color": "#e5827d"
+    },
+    {
+        "Emoji": "\ud83d\udfe0",
+        "ASCII Code": "128992",
+        "Hex Color": "#eba74d",
+        "Normalized Color": "#e58b1d"
+    },
+    {
+        "Emoji": "\ud83e\udeb1",
+        "ASCII Code": "129713",
+        "Hex Color": "#ebbbbf",
+        "Normalized Color": "#e5a6ad"
+    },
+    {
+        "Emoji": "\ud83c\udff5",
+        "ASCII Code": "127989",
+        "Hex Color": "#ebc070",
+        "Normalized Color": "#e5ac49"
+    },
+    {
+        "Emoji": "\ud83e\ude70",
+        "ASCII Code": "129648",
+        "Hex Color": "#ebcbbe",
+        "Normalized Color": "#e5bbac"
+    },
+    {
+        "Emoji": "\ud83d\ude00",
+        "ASCII Code": "128512",
+        "Hex Color": "#ebcc80",
+        "Normalized Color": "#e5bc5d"
+    },
+    {
+        "Emoji": "\ud83e\udd10",
+        "ASCII Code": "129296",
+        "Hex Color": "#ebcd81",
+        "Normalized Color": "#e5bd5f"
+    },
+    {
+        "Emoji": "\ud83d\ude01",
+        "ASCII Code": "128513",
+        "Hex Color": "#ebce86",
+        "Normalized Color": "#e5be65"
+    },
+    {
+        "Emoji": "\ud83d\udc31",
+        "ASCII Code": "128049",
+        "Hex Color": "#ebd38a",
+        "Normalized Color": "#e5c56a"
+    },
+    {
+        "Emoji": "\ud83d\ude4c",
+        "ASCII Code": "128588",
+        "Hex Color": "#ebd39d",
+        "Normalized Color": "#e5c582"
+    },
+    {
+        "Emoji": "\ud83e\udd5f",
+        "ASCII Code": "129375",
+        "Hex Color": "#ebd5b6",
+        "Normalized Color": "#e5c8a2"
+    },
+    {
+        "Emoji": "\ud83e\udd92",
+        "ASCII Code": "129426",
+        "Hex Color": "#ebdac4",
+        "Normalized Color": "#e5ceb4"
+    },
+    {
+        "Emoji": "\ud83e\udea0",
+        "ASCII Code": "129696",
+        "Hex Color": "#ebddd9",
+        "Normalized Color": "#e5d2ce"
+    },
+    {
+        "Emoji": "\ud83d\udce9",
+        "ASCII Code": "128233",
+        "Hex Color": "#ebdfdf",
+        "Normalized Color": "#e5d5d6"
+    },
+    {
+        "Emoji": "\ud83c\udf78",
+        "ASCII Code": "127864",
+        "Hex Color": "#ebeae5",
+        "Normalized Color": "#e5e3de"
+    },
+    {
+        "Emoji": "\ud83e\udd0d",
+        "ASCII Code": "129293",
+        "Hex Color": "#ebeaea",
+        "Normalized Color": "#e5e3e4"
+    },
+    {
+        "Emoji": "\u2195",
+        "ASCII Code": "8597",
+        "Hex Color": "#ebebeb",
+        "Normalized Color": "#e5e4e5"
+    },
+    {
+        "Emoji": "\ud83c\udf9f",
+        "ASCII Code": "127903",
+        "Hex Color": "#ec9ca5",
+        "Normalized Color": "#e67d8c"
+    },
+    {
+        "Emoji": "\ud83d\udca2",
+        "ASCII Code": "128162",
+        "Hex Color": "#eca7a7",
+        "Normalized Color": "#e68b8f"
+    },
+    {
+        "Emoji": "\ud83e\udec1",
+        "ASCII Code": "129729",
+        "Hex Color": "#ecb0ad",
+        "Normalized Color": "#e69796"
+    },
+    {
+        "Emoji": "\ud83d\ude1c",
+        "ASCII Code": "128540",
+        "Hex Color": "#ecc986",
+        "Normalized Color": "#e6b865"
+    },
+    {
+        "Emoji": "\ud83e\uddc7",
+        "ASCII Code": "129479",
+        "Hex Color": "#ecca94",
+        "Normalized Color": "#e6b977"
+    },
+    {
+        "Emoji": "\ud83c\udf2d",
+        "ASCII Code": "127789",
+        "Hex Color": "#eccca8",
+        "Normalized Color": "#e6bc90"
+    },
+    {
+        "Emoji": "\ud83e\udee3",
+        "ASCII Code": "129763",
+        "Hex Color": "#eccd79",
+        "Normalized Color": "#e6bd55"
+    },
+    {
+        "Emoji": "\ud83e\udd71",
+        "ASCII Code": "129393",
+        "Hex Color": "#eccd7e",
+        "Normalized Color": "#e6bd5b"
+    },
+    {
+        "Emoji": "\ud83c\udfb8",
+        "ASCII Code": "127928",
+        "Hex Color": "#eccfce",
+        "Normalized Color": "#e6c0c0"
+    },
+    {
+        "Emoji": "\ud83d\ude44",
+        "ASCII Code": "128580",
+        "Hex Color": "#ecd190",
+        "Normalized Color": "#e6c272"
+    },
+    {
+        "Emoji": "\ud83d\udc85",
+        "ASCII Code": "128133",
+        "Hex Color": "#ecd1c2",
+        "Normalized Color": "#e6c2b1"
+    },
+    {
+        "Emoji": "\ud83c\udfc4",
+        "ASCII Code": "127940",
+        "Hex Color": "#ecd2ac",
+        "Normalized Color": "#e6c495"
+    },
+    {
+        "Emoji": "\ud83e\udd64",
+        "ASCII Code": "129380",
+        "Hex Color": "#ecd3d3",
+        "Normalized Color": "#e6c5c7"
+    },
+    {
+        "Emoji": "\ud83e\udd5e",
+        "ASCII Code": "129374",
+        "Hex Color": "#ecd4ad",
+        "Normalized Color": "#e6c696"
+    },
+    {
+        "Emoji": "\ud83e\udec5",
+        "ASCII Code": "129733",
+        "Hex Color": "#ecd59a",
+        "Normalized Color": "#e6c87e"
+    },
+    {
+        "Emoji": "\ud83d\udc77",
+        "ASCII Code": "128119",
+        "Hex Color": "#ecdaa8",
+        "Normalized Color": "#e6ce90"
+    },
+    {
+        "Emoji": "\ud83c\udffb",
+        "ASCII Code": "127995",
+        "Hex Color": "#ecdac8",
+        "Normalized Color": "#e6ceb9"
+    },
+    {
+        "Emoji": "\ud83e\udd42",
+        "ASCII Code": "129346",
+        "Hex Color": "#ece6d4",
+        "Normalized Color": "#e6dec8"
+    },
+    {
+        "Emoji": "\ud83c\udf61",
+        "ASCII Code": "127841",
+        "Hex Color": "#ece7d9",
+        "Normalized Color": "#e6dfce"
+    },
+    {
+        "Emoji": "\ud83e\ude9e",
+        "ASCII Code": "129694",
+        "Hex Color": "#ecece8",
+        "Normalized Color": "#e6e6e1"
+    },
+    {
+        "Emoji": "1",
+        "ASCII Code": "49",
+        "Hex Color": "#ececec",
+        "Normalized Color": "#e6e6e6"
+    },
+    {
+        "Emoji": "\ud83c\udf2c",
+        "ASCII Code": "127788",
+        "Hex Color": "#eceef2",
+        "Normalized Color": "#e6e8ee"
+    },
+    {
+        "Emoji": "\ud83c\udd8e",
+        "ASCII Code": "127374",
+        "Hex Color": "#ed7569",
+        "Normalized Color": "#e84a40"
+    },
+    {
+        "Emoji": "\ud83c\ude34",
+        "ASCII Code": "127540",
+        "Hex Color": "#ed796d",
+        "Normalized Color": "#e84f45"
+    },
+    {
+        "Emoji": "\ud83c\ude39",
+        "ASCII Code": "127545",
+        "Hex Color": "#ed7e73",
+        "Normalized Color": "#e8564d"
+    },
+    {
+        "Emoji": "\ud83c\ude35",
+        "ASCII Code": "127541",
+        "Hex Color": "#ed8379",
+        "Normalized Color": "#e85c55"
+    },
+    {
+        "Emoji": "\ud83c\ude32",
+        "ASCII Code": "127538",
+        "Hex Color": "#ed847a",
+        "Normalized Color": "#e85e56"
+    },
+    {
+        "Emoji": "\ud83d\udc91",
+        "ASCII Code": "128145",
+        "Hex Color": "#edba8f",
+        "Normalized Color": "#e8a470"
+    },
+    {
+        "Emoji": "\u26fa",
+        "ASCII Code": "9978",
+        "Hex Color": "#edbfab",
+        "Normalized Color": "#e8ab94"
+    },
+    {
+        "Emoji": "\ud83d\udc5b",
+        "ASCII Code": "128091",
+        "Hex Color": "#edc5d6",
+        "Normalized Color": "#e8b3ca"
+    },
+    {
+        "Emoji": "\ud83d\udc76",
+        "ASCII Code": "128118",
+        "Hex Color": "#edcb74",
+        "Normalized Color": "#e8bb4e"
+    },
+    {
+        "Emoji": "\ud83e\uddd1",
+        "ASCII Code": "129489",
+        "Hex Color": "#edce82",
+        "Normalized Color": "#e8be60"
+    },
+    {
+        "Emoji": "\ud83e\udd56",
+        "ASCII Code": "129366",
+        "Hex Color": "#edd8bc",
+        "Normalized Color": "#e8ccaa"
+    },
+    {
+        "Emoji": "\ud83e\udd5a",
+        "ASCII Code": "129370",
+        "Hex Color": "#edebe7",
+        "Normalized Color": "#e8e4e0"
+    },
+    {
+        "Emoji": "\u20e3",
+        "ASCII Code": "8419",
+        "Hex Color": "#ededed",
+        "Normalized Color": "#e8e7e8"
+    },
+    {
+        "Emoji": "\ud83d\udcad",
+        "ASCII Code": "128173",
+        "Hex Color": "#ededee",
+        "Normalized Color": "#e8e7e9"
+    },
+    {
+        "Emoji": "\ud83e\ude77",
+        "ASCII Code": "129655",
+        "Hex Color": "#ee85c5",
+        "Normalized Color": "#e95fb5"
+    },
+    {
+        "Emoji": "\ud83c\udfd3",
+        "ASCII Code": "127955",
+        "Hex Color": "#eea094",
+        "Normalized Color": "#e98277"
+    },
+    {
+        "Emoji": "\ud83d\udeab",
+        "ASCII Code": "128683",
+        "Hex Color": "#eeb0a3",
+        "Normalized Color": "#e9978a"
+    },
+    {
+        "Emoji": "\ud83e\uddd0",
+        "ASCII Code": "129488",
+        "Hex Color": "#eecf82",
+        "Normalized Color": "#e9c060"
+    },
+    {
+        "Emoji": "\ud83c\udf6f",
+        "ASCII Code": "127855",
+        "Hex Color": "#eecf8c",
+        "Normalized Color": "#e9c06d"
+    },
+    {
+        "Emoji": "\ud83d\ude2c",
+        "ASCII Code": "128556",
+        "Hex Color": "#eed087",
+        "Normalized Color": "#e9c166"
+    },
+    {
+        "Emoji": "\ud83d\udc86",
+        "ASCII Code": "128134",
+        "Hex Color": "#eed290",
+        "Normalized Color": "#e9c472"
+    },
+    {
+        "Emoji": "\ud83d\udc7c",
+        "ASCII Code": "128124",
+        "Hex Color": "#eed58f",
+        "Normalized Color": "#e9c870"
+    },
+    {
+        "Emoji": "\ud83e\udd26",
+        "ASCII Code": "129318",
+        "Hex Color": "#eed695",
+        "Normalized Color": "#e9c978"
+    },
+    {
+        "Emoji": "\ud83d\udc24",
+        "ASCII Code": "128036",
+        "Hex Color": "#eed995",
+        "Normalized Color": "#e9cd78"
+    },
+    {
+        "Emoji": "\ud83d\ude4e",
+        "ASCII Code": "128590",
+        "Hex Color": "#eedaab",
+        "Normalized Color": "#e9ce94"
+    },
+    {
+        "Emoji": "\ud83d\ude4d",
+        "ASCII Code": "128589",
+        "Hex Color": "#eedaac",
+        "Normalized Color": "#e9ce95"
+    },
+    {
+        "Emoji": "\ud83c\udfd6",
+        "ASCII Code": "127958",
+        "Hex Color": "#eedbbe",
+        "Normalized Color": "#e9cfac"
+    },
+    {
+        "Emoji": "\ud83c\udf70",
+        "ASCII Code": "127856",
+        "Hex Color": "#eedcb9",
+        "Normalized Color": "#e9d1a6"
+    },
+    {
+        "Emoji": "\ud83d\udc62",
+        "ASCII Code": "128098",
+        "Hex Color": "#eee2d4",
+        "Normalized Color": "#e9d9c8"
+    },
+    {
+        "Emoji": "\ud83d\udea4",
+        "ASCII Code": "128676",
+        "Hex Color": "#eee8da",
+        "Normalized Color": "#e9e0d0"
+    },
+    {
+        "Emoji": "\ud83e\uddaf",
+        "ASCII Code": "129455",
+        "Hex Color": "#eeebec",
+        "Normalized Color": "#e9e4e6"
+    },
+    {
+        "Emoji": "\ud83e\udea7",
+        "ASCII Code": "129703",
+        "Hex Color": "#eeedeb",
+        "Normalized Color": "#e9e7e5"
+    },
+    {
+        "Emoji": "*",
+        "ASCII Code": "42",
+        "Hex Color": "#eeeeee",
+        "Normalized Color": "#e9e8e9"
+    },
+    {
+        "Emoji": "\ud83d\udcaf",
+        "ASCII Code": "128175",
+        "Hex Color": "#ef9794",
+        "Normalized Color": "#ea7777"
+    },
+    {
+        "Emoji": "\ud83d\udc9d",
+        "ASCII Code": "128157",
+        "Hex Color": "#efaa99",
+        "Normalized Color": "#ea8f7d"
+    },
+    {
+        "Emoji": "\ud83c\udf63",
+        "ASCII Code": "127843",
+        "Hex Color": "#efb9ab",
+        "Normalized Color": "#eaa394"
+    },
+    {
+        "Emoji": "\ud83c\udf64",
+        "ASCII Code": "127844",
+        "Hex Color": "#efbd9a",
+        "Normalized Color": "#eaa87e"
+    },
+    {
+        "Emoji": "\ud83c\udf7f",
+        "ASCII Code": "127871",
+        "Hex Color": "#efc6bb",
+        "Normalized Color": "#eab4a8"
+    },
+    {
+        "Emoji": "\ud83d\ude1d",
+        "ASCII Code": "128541",
+        "Hex Color": "#efc97d",
+        "Normalized Color": "#eab85a"
+    },
+    {
+        "Emoji": "\ud83d\udc66",
+        "ASCII Code": "128102",
+        "Hex Color": "#efcc72",
+        "Normalized Color": "#eabc4c"
+    },
+    {
+        "Emoji": "\ud83d\udc67",
+        "ASCII Code": "128103",
+        "Hex Color": "#efcd74",
+        "Normalized Color": "#eabd4e"
+    },
+    {
+        "Emoji": "\ud83d\ude32",
+        "ASCII Code": "128562",
+        "Hex Color": "#efcd79",
+        "Normalized Color": "#eabd55"
+    },
+    {
+        "Emoji": "\ud83e\udd24",
+        "ASCII Code": "129316",
+        "Hex Color": "#efcf7c",
+        "Normalized Color": "#eac058"
+    },
+    {
+        "Emoji": "\ud83d\udc68",
+        "ASCII Code": "128104",
+        "Hex Color": "#efcf7d",
+        "Normalized Color": "#eac05a"
+    },
+    {
+        "Emoji": "\ud83d\ude24",
+        "ASCII Code": "128548",
+        "Hex Color": "#efd186",
+        "Normalized Color": "#eac265"
+    },
+    {
+        "Emoji": "\ud83d\udea3",
+        "ASCII Code": "128675",
+        "Hex Color": "#efd1c6",
+        "Normalized Color": "#eac2b6"
+    },
+    {
+        "Emoji": "\ud83e\udd27",
+        "ASCII Code": "129319",
+        "Hex Color": "#efd48b",
+        "Normalized Color": "#eac66b"
+    },
+    {
+        "Emoji": "\ud83e\uddd8",
+        "ASCII Code": "129496",
+        "Hex Color": "#efddb3",
+        "Normalized Color": "#ead29e"
+    },
+    {
+        "Emoji": "\ud83d\udcef",
+        "ASCII Code": "128239",
+        "Hex Color": "#efdfcd",
+        "Normalized Color": "#ead5bf"
+    },
+    {
+        "Emoji": "\ud83c\udf21",
+        "ASCII Code": "127777",
+        "Hex Color": "#efe0e2",
+        "Normalized Color": "#ead6da"
+    },
+    {
+        "Emoji": "\ud83d\udd16",
+        "ASCII Code": "128278",
+        "Hex Color": "#efe2de",
+        "Normalized Color": "#ead9d5"
+    },
+    {
+        "Emoji": "\ud83e\ude88",
+        "ASCII Code": "129672",
+        "Hex Color": "#efe7e0",
+        "Normalized Color": "#eadfd7"
+    },
+    {
+        "Emoji": "\ud83e\uddcd",
+        "ASCII Code": "129485",
+        "Hex Color": "#efe9db",
+        "Normalized Color": "#eae2d1"
+    },
+    {
+        "Emoji": "\ud83e\udd99",
+        "ASCII Code": "129433",
+        "Hex Color": "#efeade",
+        "Normalized Color": "#eae3d5"
+    },
+    {
+        "Emoji": "\ud83e\udebf",
+        "ASCII Code": "129727",
+        "Hex Color": "#efebe7",
+        "Normalized Color": "#eae4e0"
+    },
+    {
+        "Emoji": "\u3030",
+        "ASCII Code": "12336",
+        "Hex Color": "#efefef",
+        "Normalized Color": "#eaeaea"
+    },
+    {
+        "Emoji": "\u26d4",
+        "ASCII Code": "9940",
+        "Hex Color": "#f0ab9a",
+        "Normalized Color": "#eb917e"
+    },
+    {
+        "Emoji": "\ud83d\udcdb",
+        "ASCII Code": "128219",
+        "Hex Color": "#f0afa2",
+        "Normalized Color": "#eb9689"
+    },
+    {
+        "Emoji": "\ud83e\udd2d",
+        "ASCII Code": "129325",
+        "Hex Color": "#f0c879",
+        "Normalized Color": "#ebb755"
+    },
+    {
+        "Emoji": "\ud83e\udd12",
+        "ASCII Code": "129298",
+        "Hex Color": "#f0cb80",
+        "Normalized Color": "#ebbb5d"
+    },
+    {
+        "Emoji": "\ud83d\udc74",
+        "ASCII Code": "128116",
+        "Hex Color": "#f0cc70",
+        "Normalized Color": "#ebbc49"
+    },
+    {
+        "Emoji": "\ud83e\udd74",
+        "ASCII Code": "129396",
+        "Hex Color": "#f0cc7b",
+        "Normalized Color": "#ebbc57"
+    },
+    {
+        "Emoji": "\ud83e\udd7b",
+        "ASCII Code": "129403",
+        "Hex Color": "#f0ccb3",
+        "Normalized Color": "#ebbc9e"
+    },
+    {
+        "Emoji": "\ud83e\udd28",
+        "ASCII Code": "129320",
+        "Hex Color": "#f0cd78",
+        "Normalized Color": "#ebbd53"
+    },
+    {
+        "Emoji": "\ud83e\udd67",
+        "ASCII Code": "129383",
+        "Hex Color": "#f0cda3",
+        "Normalized Color": "#ebbd8a"
+    },
+    {
+        "Emoji": "\ud83d\ude27",
+        "ASCII Code": "128551",
+        "Hex Color": "#f0ce79",
+        "Normalized Color": "#ebbe55"
+    },
+    {
+        "Emoji": "\ud83e\udd25",
+        "ASCII Code": "129317",
+        "Hex Color": "#f0ce7b",
+        "Normalized Color": "#ebbe57"
+    },
+    {
+        "Emoji": "\ud83d\ude09",
+        "ASCII Code": "128521",
+        "Hex Color": "#f0cf7a",
+        "Normalized Color": "#ebc056"
+    },
+    {
+        "Emoji": "\ud83d\ude16",
+        "ASCII Code": "128534",
+        "Hex Color": "#f0d07b",
+        "Normalized Color": "#ebc157"
+    },
+    {
+        "Emoji": "\ud83d\udccd",
+        "ASCII Code": "128205",
+        "Hex Color": "#f0d4d3",
+        "Normalized Color": "#ebc6c7"
+    },
+    {
+        "Emoji": "\ud83e\udef6",
+        "ASCII Code": "129782",
+        "Hex Color": "#f0d9a6",
+        "Normalized Color": "#ebcd8e"
+    },
+    {
+        "Emoji": "\ud83d\udc23",
+        "ASCII Code": "128035",
+        "Hex Color": "#f0ddaa",
+        "Normalized Color": "#ebd293"
+    },
+    {
+        "Emoji": "\ud83d\udd11",
+        "ASCII Code": "128273",
+        "Hex Color": "#f0e0ad",
+        "Normalized Color": "#ebd696"
+    },
+    {
+        "Emoji": "\ud83c\udfc3",
+        "ASCII Code": "127939",
+        "Hex Color": "#f0e8d8",
+        "Normalized Color": "#ebe0cd"
+    },
+    {
+        "Emoji": "\ud83d\udd6f",
+        "ASCII Code": "128367",
+        "Hex Color": "#f0e9e1",
+        "Normalized Color": "#ebe2d8"
+    },
+    {
+        "Emoji": "\ud83d\udc96",
+        "ASCII Code": "128150",
+        "Hex Color": "#f191ba",
+        "Normalized Color": "#ed6fa7"
+    },
+    {
+        "Emoji": "\ud83d\udc9e",
+        "ASCII Code": "128158",
+        "Hex Color": "#f1a0d0",
+        "Normalized Color": "#ed82c3"
+    },
+    {
+        "Emoji": "\ud83d\ude21",
+        "ASCII Code": "128545",
+        "Hex Color": "#f1a46c",
+        "Normalized Color": "#ed8844"
+    },
+    {
+        "Emoji": "\ud83d\udecd",
+        "ASCII Code": "128717",
+        "Hex Color": "#f1aab2",
+        "Normalized Color": "#ed8f9d"
+    },
+    {
+        "Emoji": "\ud83e\udd17",
+        "ASCII Code": "129303",
+        "Hex Color": "#f1c26e",
+        "Normalized Color": "#edaf47"
+    },
+    {
+        "Emoji": "\ud83d\ude1b",
+        "ASCII Code": "128539",
+        "Hex Color": "#f1ca7d",
+        "Normalized Color": "#edb95a"
+    },
+    {
+        "Emoji": "\ud83e\udee4",
+        "ASCII Code": "129764",
+        "Hex Color": "#f1cd79",
+        "Normalized Color": "#edbd55"
+    },
+    {
+        "Emoji": "\ud83d\ude1f",
+        "ASCII Code": "128543",
+        "Hex Color": "#f1cf7a",
+        "Normalized Color": "#edc056"
+    },
+    {
+        "Emoji": "\ud83d\ude12",
+        "ASCII Code": "128530",
+        "Hex Color": "#f1d07a",
+        "Normalized Color": "#edc156"
+    },
+    {
+        "Emoji": "\ud83d\ude0f",
+        "ASCII Code": "128527",
+        "Hex Color": "#f1d07b",
+        "Normalized Color": "#edc157"
+    },
+    {
+        "Emoji": "\ud83e\uddb1",
+        "ASCII Code": "129457",
+        "Hex Color": "#f1d592",
+        "Normalized Color": "#edc874"
+    },
+    {
+        "Emoji": "\ud83d\udc16",
+        "ASCII Code": "128022",
+        "Hex Color": "#f1dfd5",
+        "Normalized Color": "#edd5c9"
+    },
+    {
+        "Emoji": "\ud83c\udf24",
+        "ASCII Code": "127780",
+        "Hex Color": "#f1e0bd",
+        "Normalized Color": "#edd6ab"
+    },
+    {
+        "Emoji": "\ud83c\udfd7",
+        "ASCII Code": "127959",
+        "Hex Color": "#f1e4d1",
+        "Normalized Color": "#eddbc4"
+    },
+    {
+        "Emoji": "\ud83c\udf66",
+        "ASCII Code": "127846",
+        "Hex Color": "#f1e9d8",
+        "Normalized Color": "#ede2cd"
+    },
+    {
+        "Emoji": "\ud83c\udf25",
+        "ASCII Code": "127781",
+        "Hex Color": "#f1eee9",
+        "Normalized Color": "#ede8e3"
+    },
+    {
+        "Emoji": "\u2199",
+        "ASCII Code": "8601",
+        "Hex Color": "#f1f1f1",
+        "Normalized Color": "#edeced"
+    },
+    {
+        "Emoji": "\ud83d\ude0d",
+        "ASCII Code": "128525",
+        "Hex Color": "#f2be7e",
+        "Normalized Color": "#eeaa5b"
+    },
+    {
+        "Emoji": "\ud83d\udc8f",
+        "ASCII Code": "128143",
+        "Hex Color": "#f2bf8f",
+        "Normalized Color": "#eeab70"
+    },
+    {
+        "Emoji": "\ud83d\ude18",
+        "ASCII Code": "128536",
+        "Hex Color": "#f2c878",
+        "Normalized Color": "#eeb753"
+    },
+    {
+        "Emoji": "\ud83d\udc5a",
+        "ASCII Code": "128090",
+        "Hex Color": "#f2c9e4",
+        "Normalized Color": "#eeb8dc"
+    },
+    {
+        "Emoji": "\ud83d\ude0a",
+        "ASCII Code": "128522",
+        "Hex Color": "#f2cb77",
+        "Normalized Color": "#eebb52"
+    },
+    {
+        "Emoji": "\ud83e\udee2",
+        "ASCII Code": "129762",
+        "Hex Color": "#f2cb7b",
+        "Normalized Color": "#eebb57"
+    },
+    {
+        "Emoji": "\ud83d\ude1a",
+        "ASCII Code": "128538",
+        "Hex Color": "#f2cc79",
+        "Normalized Color": "#eebc55"
+    },
+    {
+        "Emoji": "\ud83d\ude0b",
+        "ASCII Code": "128523",
+        "Hex Color": "#f2ce7e",
+        "Normalized Color": "#eebe5b"
+    },
+    {
+        "Emoji": "\ud83d\ude2e",
+        "ASCII Code": "128558",
+        "Hex Color": "#f2cf7a",
+        "Normalized Color": "#eec056"
+    },
+    {
+        "Emoji": "\ud83d\ude10",
+        "ASCII Code": "128528",
+        "Hex Color": "#f2d07a",
+        "Normalized Color": "#eec156"
+    },
+    {
+        "Emoji": "\ud83d\ude20",
+        "ASCII Code": "128544",
+        "Hex Color": "#f2d07b",
+        "Normalized Color": "#eec157"
+    },
+    {
+        "Emoji": "\ud83d\ude26",
+        "ASCII Code": "128550",
+        "Hex Color": "#f2d17b",
+        "Normalized Color": "#eec257"
+    },
+    {
+        "Emoji": "\ud83e\udda9",
+        "ASCII Code": "129449",
+        "Hex Color": "#f2d4d5",
+        "Normalized Color": "#eec6c9"
+    },
+    {
+        "Emoji": "\ud83c\udf96",
+        "ASCII Code": "127894",
+        "Hex Color": "#f2d7c2",
+        "Normalized Color": "#eecab1"
+    },
+    {
+        "Emoji": "\ud83e\udd47",
+        "ASCII Code": "129351",
+        "Hex Color": "#f2ddb0",
+        "Normalized Color": "#eed29a"
+    },
+    {
+        "Emoji": "\ud83c\udf1d",
+        "ASCII Code": "127773",
+        "Hex Color": "#f2de8f",
+        "Normalized Color": "#eed370"
+    },
+    {
+        "Emoji": "\u26c5",
+        "ASCII Code": "9925",
+        "Hex Color": "#f2f0e6",
+        "Normalized Color": "#eeebdf"
+    },
+    {
+        "Emoji": "\u274c",
+        "ASCII Code": "10060",
+        "Hex Color": "#f38585",
+        "Normalized Color": "#ef5f64"
+    },
+    {
+        "Emoji": "\ud83d\udca5",
+        "ASCII Code": "128165",
+        "Hex Color": "#f3c1b0",
+        "Normalized Color": "#efad9a"
+    },
+    {
+        "Emoji": "\ud83e\uddb0",
+        "ASCII Code": "129456",
+        "Hex Color": "#f3cc91",
+        "Normalized Color": "#efbc73"
+    },
+    {
+        "Emoji": "\ud83e\udee0",
+        "ASCII Code": "129760",
+        "Hex Color": "#f3cf74",
+        "Normalized Color": "#efc04e"
+    },
+    {
+        "Emoji": "\u270a",
+        "ASCII Code": "9994",
+        "Hex Color": "#f3cf7f",
+        "Normalized Color": "#efc05c"
+    },
+    {
+        "Emoji": "\ud83d\ude19",
+        "ASCII Code": "128537",
+        "Hex Color": "#f3d07b",
+        "Normalized Color": "#efc157"
+    },
+    {
+        "Emoji": "\ud83e\udd14",
+        "ASCII Code": "129300",
+        "Hex Color": "#f3d17a",
+        "Normalized Color": "#efc256"
+    },
+    {
+        "Emoji": "\ud83d\ude11",
+        "ASCII Code": "128529",
+        "Hex Color": "#f3d17b",
+        "Normalized Color": "#efc257"
+    },
+    {
+        "Emoji": "\ud83d\ude1e",
+        "ASCII Code": "128542",
+        "Hex Color": "#f3d27b",
+        "Normalized Color": "#efc457"
+    },
+    {
+        "Emoji": "\ud83e\udee1",
+        "ASCII Code": "129761",
+        "Hex Color": "#f3d99f",
+        "Normalized Color": "#efcd85"
+    },
+    {
+        "Emoji": "\ud83e\uddb6",
+        "ASCII Code": "129462",
+        "Hex Color": "#f3dbac",
+        "Normalized Color": "#efcf95"
+    },
+    {
+        "Emoji": "\ud83e\udee5",
+        "ASCII Code": "129765",
+        "Hex Color": "#f3e5c7",
+        "Normalized Color": "#efddb7"
+    },
+    {
+        "Emoji": "\ud83c\udfd2",
+        "ASCII Code": "127954",
+        "Hex Color": "#f3ebe9",
+        "Normalized Color": "#efe4e3"
+    },
+    {
+        "Emoji": "\u25ab",
+        "ASCII Code": "9643",
+        "Hex Color": "#f3f3f3",
+        "Normalized Color": "#efefef"
+    },
+    {
+        "Emoji": "\ud83c\udf29",
+        "ASCII Code": "127785",
+        "Hex Color": "#f3f4f1",
+        "Normalized Color": "#eff0ed"
+    },
+    {
+        "Emoji": "\u2b55",
+        "ASCII Code": "11093",
+        "Hex Color": "#f48c8c",
+        "Normalized Color": "#f0686d"
+    },
+    {
+        "Emoji": "\ud83d\udc93",
+        "ASCII Code": "128147",
+        "Hex Color": "#f49fd1",
+        "Normalized Color": "#f081c4"
+    },
+    {
+        "Emoji": "\ud83c\udf88",
+        "ASCII Code": "127880",
+        "Hex Color": "#f4babd",
+        "Normalized Color": "#f0a4ab"
+    },
+    {
+        "Emoji": "\ud83e\udd2b",
+        "ASCII Code": "129323",
+        "Hex Color": "#f4cc7a",
+        "Normalized Color": "#f0bc56"
+    },
+    {
+        "Emoji": "\ud83d\udc4a",
+        "ASCII Code": "128074",
+        "Hex Color": "#f4d081",
+        "Normalized Color": "#f0c15f"
+    },
+    {
+        "Emoji": "\ud83d\ude43",
+        "ASCII Code": "128579",
+        "Hex Color": "#f4d17a",
+        "Normalized Color": "#f0c256"
+    },
+    {
+        "Emoji": "\ud83d\ude15",
+        "ASCII Code": "128533",
+        "Hex Color": "#f4d27b",
+        "Normalized Color": "#f0c457"
+    },
+    {
+        "Emoji": "\ud83e\udef2",
+        "ASCII Code": "129778",
+        "Hex Color": "#f4da96",
+        "Normalized Color": "#f0ce79"
+    },
+    {
+        "Emoji": "\ud83e\udd38",
+        "ASCII Code": "129336",
+        "Hex Color": "#f4edde",
+        "Normalized Color": "#f0e7d5"
+    },
+    {
+        "Emoji": "\ud83d\udc95",
+        "ASCII Code": "128149",
+        "Hex Color": "#f5b0d8",
+        "Normalized Color": "#f297cd"
+    },
+    {
+        "Emoji": "\ud83c\udf38",
+        "ASCII Code": "127800",
+        "Hex Color": "#f5b9d2",
+        "Normalized Color": "#f2a3c5"
+    },
+    {
+        "Emoji": "\ud83e\udd32",
+        "ASCII Code": "129330",
+        "Hex Color": "#f5d171",
+        "Normalized Color": "#f2c24a"
+    },
+    {
+        "Emoji": "\ud83d\ude36",
+        "ASCII Code": "128566",
+        "Hex Color": "#f5d37b",
+        "Normalized Color": "#f2c557"
+    },
+    {
+        "Emoji": "\ud83e\udd1b",
+        "ASCII Code": "129307",
+        "Hex Color": "#f5dba0",
+        "Normalized Color": "#f2cf86"
+    },
+    {
+        "Emoji": "\ud83e\udef1",
+        "ASCII Code": "129777",
+        "Hex Color": "#f5dc99",
+        "Normalized Color": "#f2d17d"
+    },
+    {
+        "Emoji": "\ud83d\udc25",
+        "ASCII Code": "128037",
+        "Hex Color": "#f5dc9b",
+        "Normalized Color": "#f2d180"
+    },
+    {
+        "Emoji": "\ud83e\udd1d",
+        "ASCII Code": "129309",
+        "Hex Color": "#f5dc9c",
+        "Normalized Color": "#f2d181"
+    },
+    {
+        "Emoji": "\u270c",
+        "ASCII Code": "9996",
+        "Hex Color": "#f5dca4",
+        "Normalized Color": "#f2d18b"
+    },
+    {
+        "Emoji": "\ud83e\udd18",
+        "ASCII Code": "129304",
+        "Hex Color": "#f5dda7",
+        "Normalized Color": "#f2d28f"
+    },
+    {
+        "Emoji": "\ud83e\udd1e",
+        "ASCII Code": "129310",
+        "Hex Color": "#f5dfac",
+        "Normalized Color": "#f2d595"
+    },
+    {
+        "Emoji": "\ud83e\udef3",
+        "ASCII Code": "129779",
+        "Hex Color": "#f5e5bd",
+        "Normalized Color": "#f2ddab"
+    },
+    {
+        "Emoji": "\ud83e\uddc8",
+        "ASCII Code": "129480",
+        "Hex Color": "#f5ebd2",
+        "Normalized Color": "#f2e4c5"
+    },
+    {
+        "Emoji": "\ud83e\uddf4",
+        "ASCII Code": "129524",
+        "Hex Color": "#f5ece6",
+        "Normalized Color": "#f2e6df"
+    },
+    {
+        "Emoji": "\ud83c\ude50",
+        "ASCII Code": "127568",
+        "Hex Color": "#f67875",
+        "Normalized Color": "#f34e4f"
+    },
+    {
+        "Emoji": "\ud83e\udde1",
+        "ASCII Code": "129505",
+        "Hex Color": "#f6b572",
+        "Normalized Color": "#f39e4c"
+    },
+    {
+        "Emoji": "\ud83d\udd3a",
+        "ASCII Code": "128314",
+        "Hex Color": "#f6beb8",
+        "Normalized Color": "#f3aaa4"
+    },
+    {
+        "Emoji": "\ud83c\udf1e",
+        "ASCII Code": "127774",
+        "Hex Color": "#f6cd76",
+        "Normalized Color": "#f3bd51"
+    },
+    {
+        "Emoji": "\ud83e\udd1c",
+        "ASCII Code": "129308",
+        "Hex Color": "#f6dba0",
+        "Normalized Color": "#f3cf86"
+    },
+    {
+        "Emoji": "\ud83e\udef7",
+        "ASCII Code": "129783",
+        "Hex Color": "#f6e4bb",
+        "Normalized Color": "#f3dba8"
+    },
+    {
+        "Emoji": "\ud83e\udef4",
+        "ASCII Code": "129780",
+        "Hex Color": "#f6e6bd",
+        "Normalized Color": "#f3deab"
+    },
+    {
+        "Emoji": "\ud83c\udf4c",
+        "ASCII Code": "127820",
+        "Hex Color": "#f6eac8",
+        "Normalized Color": "#f3e3b9"
+    },
+    {
+        "Emoji": "\ud83e\uddce",
+        "ASCII Code": "129486",
+        "Hex Color": "#f6f3eb",
+        "Normalized Color": "#f3efe5"
+    },
+    {
+        "Emoji": "\u2753",
+        "ASCII Code": "10067",
+        "Hex Color": "#f7d5d5",
+        "Normalized Color": "#f4c8c9"
+    },
+    {
+        "Emoji": "\ud83e\udd1f",
+        "ASCII Code": "129311",
+        "Hex Color": "#f7dda1",
+        "Normalized Color": "#f4d287"
+    },
+    {
+        "Emoji": "\ud83d\udc50",
+        "ASCII Code": "128080",
+        "Hex Color": "#f7deac",
+        "Normalized Color": "#f4d395"
+    },
+    {
+        "Emoji": "\u261d",
+        "ASCII Code": "9757",
+        "Hex Color": "#f7e0ad",
+        "Normalized Color": "#f4d696"
+    },
+    {
+        "Emoji": "\ud83d\udc4c",
+        "ASCII Code": "128076",
+        "Hex Color": "#f7e0af",
+        "Normalized Color": "#f4d699"
+    },
+    {
+        "Emoji": "\ud83e\udef0",
+        "ASCII Code": "129776",
+        "Hex Color": "#f7e2ab",
+        "Normalized Color": "#f4d994"
+    },
+    {
+        "Emoji": "\ud83c\udf1b",
+        "ASCII Code": "127771",
+        "Hex Color": "#f7ebc1",
+        "Normalized Color": "#f4e4b0"
+    },
+    {
+        "Emoji": "\ud83c\udf1c",
+        "ASCII Code": "127772",
+        "Hex Color": "#f7ecc2",
+        "Normalized Color": "#f4e6b1"
+    },
+    {
+        "Emoji": "\ud83d\uddb1",
+        "ASCII Code": "128433",
+        "Hex Color": "#f7f7f8",
+        "Normalized Color": "#f4f4f6"
+    },
+    {
+        "Emoji": "\u2757",
+        "ASCII Code": "10071",
+        "Hex Color": "#f8d5d5",
+        "Normalized Color": "#f6c8c9"
+    },
+    {
+        "Emoji": "\ud83e\uddc0",
+        "ASCII Code": "129472",
+        "Hex Color": "#f8d686",
+        "Normalized Color": "#f6c965"
+    },
+    {
+        "Emoji": "\ud83d\udc4e",
+        "ASCII Code": "128078",
+        "Hex Color": "#f8d78a",
+        "Normalized Color": "#f6ca6a"
+    },
+    {
+        "Emoji": "\ud83d\udd90",
+        "ASCII Code": "128400",
+        "Hex Color": "#f8db98",
+        "Normalized Color": "#f6cf7c"
+    },
+    {
+        "Emoji": "\ud83e\udd1a",
+        "ASCII Code": "129306",
+        "Hex Color": "#f8dca3",
+        "Normalized Color": "#f6d18a"
+    },
+    {
+        "Emoji": "\ud83c\udf15",
+        "ASCII Code": "127765",
+        "Hex Color": "#f8e16b",
+        "Normalized Color": "#f6d743"
+    },
+    {
+        "Emoji": "\ud83e\uddb5",
+        "ASCII Code": "129461",
+        "Hex Color": "#f8ebcf",
+        "Normalized Color": "#f6e4c2"
+    },
+    {
+        "Emoji": "\ud83e\uddb3",
+        "ASCII Code": "129459",
+        "Hex Color": "#f8eed7",
+        "Normalized Color": "#f6e8cc"
+    },
+    {
+        "Emoji": "\ud83d\udd96",
+        "ASCII Code": "128406",
+        "Hex Color": "#f9dc9c",
+        "Normalized Color": "#f7d181"
+    },
+    {
+        "Emoji": "\ud83e\udd19",
+        "ASCII Code": "129305",
+        "Hex Color": "#f9dd9b",
+        "Normalized Color": "#f7d280"
+    },
+    {
+        "Emoji": "\u270b",
+        "ASCII Code": "9995",
+        "Hex Color": "#f9de9d",
+        "Normalized Color": "#f7d382"
+    },
+    {
+        "Emoji": "\ud83c\udff7",
+        "ASCII Code": "127991",
+        "Hex Color": "#f9e2c5",
+        "Normalized Color": "#f7d9b5"
+    },
+    {
+        "Emoji": "\u2754",
+        "ASCII Code": "10068",
+        "Hex Color": "#f9f9f9",
+        "Normalized Color": "#f7f7f7"
+    },
+    {
+        "Emoji": "\ud83c\ude51",
+        "ASCII Code": "127569",
+        "Hex Color": "#fabc69",
+        "Normalized Color": "#f8a740"
+    },
+    {
+        "Emoji": "\ud83d\udcf4",
+        "ASCII Code": "128244",
+        "Hex Color": "#fabe5c",
+        "Normalized Color": "#f8aa30"
+    },
+    {
+        "Emoji": "\ud83c\ude36",
+        "ASCII Code": "127542",
+        "Hex Color": "#fabe5e",
+        "Normalized Color": "#f8aa32"
+    },
+    {
+        "Emoji": "\ud83c\ude3a",
+        "ASCII Code": "127546",
+        "Hex Color": "#fac064",
+        "Normalized Color": "#f8ac3a"
+    },
+    {
+        "Emoji": "\ud83c\ude1a",
+        "ASCII Code": "127514",
+        "Hex Color": "#fac165",
+        "Normalized Color": "#f8ad3b"
+    },
+    {
+        "Emoji": "\ud83d\udd3b",
+        "ASCII Code": "128315",
+        "Hex Color": "#faccc7",
+        "Normalized Color": "#f8bcb7"
+    },
+    {
+        "Emoji": "\ud83d\udfe8",
+        "ASCII Code": "129000",
+        "Hex Color": "#fad036",
+        "Normalized Color": "#f8c100"
+    },
+    {
+        "Emoji": "\ud83d\udc42",
+        "ASCII Code": "128066",
+        "Hex Color": "#fae4b0",
+        "Normalized Color": "#f8db9a"
+    },
+    {
+        "Emoji": "\ud83d\udc47",
+        "ASCII Code": "128071",
+        "Hex Color": "#fae4b6",
+        "Normalized Color": "#f8dba2"
+    },
+    {
+        "Emoji": "\ud83d\udc49",
+        "ASCII Code": "128073",
+        "Hex Color": "#fae5b4",
+        "Normalized Color": "#f8dd9f"
+    },
+    {
+        "Emoji": "\ud83d\udc48",
+        "ASCII Code": "128072",
+        "Hex Color": "#fae5b5",
+        "Normalized Color": "#f8dda1"
+    },
+    {
+        "Emoji": "\ud83d\udc46",
+        "ASCII Code": "128070",
+        "Hex Color": "#fae7bc",
+        "Normalized Color": "#f8dfaa"
+    },
+    {
+        "Emoji": "\ud83c\udf97",
+        "ASCII Code": "127895",
+        "Hex Color": "#faeab8",
+        "Normalized Color": "#f8e3a4"
+    },
+    {
+        "Emoji": "\ud83d\udca1",
+        "ASCII Code": "128161",
+        "Hex Color": "#faf5e5",
+        "Normalized Color": "#f8f1de"
+    },
+    {
+        "Emoji": "\ud83d\udcf3",
+        "ASCII Code": "128243",
+        "Hex Color": "#fbba50",
+        "Normalized Color": "#f9a420"
+    },
+    {
+        "Emoji": "\ud83c\udd9a",
+        "ASCII Code": "127386",
+        "Hex Color": "#fbbd59",
+        "Normalized Color": "#f9a82c"
+    },
+    {
+        "Emoji": "\ud83d\udebc",
+        "ASCII Code": "128700",
+        "Hex Color": "#fbbf5e",
+        "Normalized Color": "#f9ab32"
+    },
+    {
+        "Emoji": "\ud83d\udc9b",
+        "ASCII Code": "128155",
+        "Hex Color": "#fbda91",
+        "Normalized Color": "#f9ce73"
+    },
+    {
+        "Emoji": "\ud83d\udfe1",
+        "ASCII Code": "128993",
+        "Hex Color": "#fbdb4d",
+        "Normalized Color": "#f9cf1d"
+    },
+    {
+        "Emoji": "\ud83d\udc4d",
+        "ASCII Code": "128077",
+        "Hex Color": "#fbe19d",
+        "Normalized Color": "#f9d782"
+    },
+    {
+        "Emoji": "\ud83d\udcaa",
+        "ASCII Code": "128170",
+        "Hex Color": "#fbe3a8",
+        "Normalized Color": "#f9da90"
+    },
+    {
+        "Emoji": "\ud83e\udd0c",
+        "ASCII Code": "129292",
+        "Hex Color": "#fbe4b1",
+        "Normalized Color": "#f9db9c"
+    },
+    {
+        "Emoji": "\ud83d\udd95",
+        "ASCII Code": "128405",
+        "Hex Color": "#fbe9c3",
+        "Normalized Color": "#f9e2b2"
+    },
+    {
+        "Emoji": "\ud83c\udf1f",
+        "ASCII Code": "127775",
+        "Hex Color": "#fbeab2",
+        "Normalized Color": "#f9e39d"
+    },
+    {
+        "Emoji": "\u2b50",
+        "ASCII Code": "11088",
+        "Hex Color": "#fbedc3",
+        "Normalized Color": "#f9e7b2"
+    },
+    {
+        "Emoji": "\ud83d\udd36",
+        "ASCII Code": "128310",
+        "Hex Color": "#fccd84",
+        "Normalized Color": "#fbbd62"
+    },
+    {
+        "Emoji": "\ud83d\udd06",
+        "ASCII Code": "128262",
+        "Hex Color": "#fcdc9e",
+        "Normalized Color": "#fbd183"
+    },
+    {
+        "Emoji": "\ud83d\udc43",
+        "ASCII Code": "128067",
+        "Hex Color": "#fce9b6",
+        "Normalized Color": "#fbe2a2"
+    },
+    {
+        "Emoji": "\ud83c\udf19",
+        "ASCII Code": "127769",
+        "Hex Color": "#fcf3d2",
+        "Normalized Color": "#fbefc5"
+    },
+    {
+        "Emoji": "\ud83d\udd25",
+        "ASCII Code": "128293",
+        "Hex Color": "#fdc9a7",
+        "Normalized Color": "#fcb88f"
+    },
+    {
+        "Emoji": "\ud83d\udd38",
+        "ASCII Code": "128312",
+        "Hex Color": "#fddeb0",
+        "Normalized Color": "#fcd39a"
+    },
+    {
+        "Emoji": "\ud83d\udd05",
+        "ASCII Code": "128261",
+        "Hex Color": "#fde7b6",
+        "Normalized Color": "#fcdfa2"
+    },
+    {
+        "Emoji": "\ud83e\uddb2",
+        "ASCII Code": "129458",
+        "Hex Color": "#fdecb8",
+        "Normalized Color": "#fce6a4"
+    },
+    {
+        "Emoji": "\u26a1",
+        "ASCII Code": "9889",
+        "Hex Color": "#fdefd2",
+        "Normalized Color": "#fceac5"
+    },
+    {
+        "Emoji": "\ud83d\udcab",
+        "ASCII Code": "128171",
+        "Hex Color": "#fdf1cd",
+        "Normalized Color": "#fcecbf"
+    },
+    {
+        "Emoji": "\ud83d\udcae",
+        "ASCII Code": "128174",
+        "Hex Color": "#fecac9",
+        "Normalized Color": "#fdb9ba"
+    },
+    {
+        "Emoji": "\u2728",
+        "ASCII Code": "10024",
+        "Hex Color": "#feefd4",
+        "Normalized Color": "#fdeac8"
+    },
+    {
+        "Emoji": "\ud83d\udfe7",
+        "ASCII Code": "128999",
+        "Hex Color": "#ffa339",
+        "Normalized Color": "#ff8603"
+    },
+    {
+        "Emoji": "\ufe0f",
+        "ASCII Code": "65039",
+        "Hex Color": "#ffffff",
+        "Normalized Color": "#ffffff"
+    }
+]
